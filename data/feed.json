@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-06 19:56",
+  "updated_at": "2026-11-06 21:57",
   "days": [
     {
       "date": "2026-11-06",
       "weekday": "周五",
       "items": [
+        {
+          "id": "ae2c4c63",
+          "kicker": "AI 在加速 AI",
+          "category": "AI科研",
+          "title": "Anthropic 模型在 AI 帮助下提速近两倍",
+          "body": "[METR 的独立评估](https://www.channelnewsasia.com/business/anthropics-models-improving-nearly-twice-fast-help-ai-study-finds-6528681)发现，Anthropic 的基准能力自 2025 年 10 月以来提速 1.9 倍。METR 也排除了算力扩张这个解释。",
+          "stats": [],
+          "source_url": "https://www.channelnewsasia.com/business/anthropics-models-improving-nearly-twice-fast-help-ai-study-finds-6528681",
+          "image": "assets/2026-11-06/ae2c4c63.jpg"
+        },
         {
           "id": "5417bb64",
           "kicker": "九个月的同事",
