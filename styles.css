@@ -76,7 +76,7 @@ body{margin:0;background:var(--bg);color:var(--ink);
   background:var(--card);border:1px solid var(--line);border-radius:16px;
   box-shadow:0 16px 40px rgba(31,41,55,.20);padding:14px 14px 12px}
 @keyframes calIn{from{opacity:0;transform:translateY(-44%)}to{opacity:1;transform:translateY(-50%)}}
-.top-btn{position:fixed;right:22px;bottom:22px;z-index:61;width:46px;height:46px;border-radius:50%;
+.top-btn{position:fixed;left:50%;margin-left:548px;bottom:22px;z-index:61;width:46px;height:46px;border-radius:50%;
   border:1px solid var(--line);background:var(--card);color:var(--ink);font-size:19px;line-height:1;
   cursor:pointer;box-shadow:0 10px 24px rgba(31,41,55,.22);
   opacity:0;pointer-events:none;transform:translateY(10px);
@@ -92,7 +92,7 @@ body{margin:0;background:var(--bg);color:var(--ink);
   .cal-float{top:auto;bottom:86px;right:18px;transform:translateX(calc(100% + 30px));
     transition:transform .25s ease;animation:none}
   .cal-float.open{transform:none}
-  .top-btn{right:18px;bottom:86px}
+  .top-btn{left:auto;margin-left:0;right:18px;bottom:86px}
 }
 .cal-head{display:flex;align-items:center;justify-content:space-between}
 .cal-head h2{margin:0;font-size:17px;letter-spacing:.05em}
