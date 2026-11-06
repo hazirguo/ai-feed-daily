@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-06 17:56",
+  "updated_at": "2026-11-06 19:56",
   "days": [
     {
       "date": "2026-11-06",
       "weekday": "周五",
       "items": [
+        {
+          "id": "5417bb64",
+          "kicker": "九个月的同事",
+          "category": "具身智能",
+          "title": "Embodied AI 发布会学活的人形机器人 AIR",
+          "body": "人形机器人 [AIR](https://www.businesswire.com/news/home/20261106661068/en/Embodied-AI-Unveils-AIR-a-Physically-Safe-Humanoid-Robot-That-Learns-on-the-Job) 先跟人学活，通常一个月内转为自主作业。它的腱驱动手臂轻且遇阻会让开，安全来自结构本身。",
+          "stats": [],
+          "source_url": "https://www.businesswire.com/news/home/20261106661068/en/Embodied-AI-Unveils-AIR-a-Physically-Safe-Humanoid-Robot-That-Learns-on-the-Job",
+          "image": "assets/2026-11-06/5417bb64.webp"
+        },
         {
           "id": "409040c6",
           "kicker": "按秒卖的视频",
