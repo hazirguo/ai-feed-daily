@@ -1,7 +1,23 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-06 23:56",
+  "updated_at": "2026-11-07 02:57",
   "days": [
+    {
+      "date": "2026-11-07",
+      "weekday": "周六",
+      "items": [
+        {
+          "id": "04d5dd5b",
+          "kicker": "先定位再拿卡",
+          "category": "AI芯片",
+          "title": "英伟达要求东南亚云伙伴接入芯片定位追踪",
+          "body": "[英伟达要求东南亚寻求云合作伙伴资格的客户接入芯片定位追踪系统 Fleet Intelligence](https://www.theedgesingapore.com/news/artificial-intelligence/nvidia-boosts-chip-tracking-southeast-asia-fight-smuggling--bloomberg)。英伟达拿优先拿卡的云伙伴资格当杠杆，扩大这项本来自愿的追踪计划。",
+          "stats": [],
+          "source_url": "https://www.theedgesingapore.com/news/artificial-intelligence/nvidia-boosts-chip-tracking-southeast-asia-fight-smuggling--bloomberg",
+          "image": "assets/2026-11-07/04d5dd5b.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-11-06",
       "weekday": "周五",
