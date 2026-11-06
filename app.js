@@ -124,6 +124,35 @@
     calFloat.classList.toggle('open');
   });
 
+  var topBtn = document.getElementById('topBtn');
+  topBtn.addEventListener('click', function () {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+
+  var scrollTicking = false, lastScrollY = window.scrollY || 0, driftTimer = null;
+  function onScroll() {
+    var y = window.scrollY || 0;
+    topBtn.classList.toggle('show', y > 600);
+    if (window.innerWidth > 1280 && calFloat) {
+      var dy = y - lastScrollY;
+      if (dy > 4 || dy < -4) {
+        calFloat.style.setProperty('--drift', (dy > 0 ? 10 : -10) + 'px');
+        clearTimeout(driftTimer);
+        driftTimer = setTimeout(function () {
+          calFloat.style.setProperty('--drift', '0px');
+        }, 160);
+      }
+    }
+    lastScrollY = y;
+    scrollTicking = false;
+  }
+  window.addEventListener('scroll', function () {
+    if (!scrollTicking) {
+      scrollTicking = true;
+      requestAnimationFrame(onScroll);
+    }
+  }, { passive: true });
+
   document.getElementById('calPrev').addEventListener('click', function () {
     calCursor.m -= 1;
     if (calCursor.m < 0) { calCursor.m = 11; calCursor.y -= 1; }
