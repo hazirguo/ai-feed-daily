@@ -92,6 +92,8 @@
   }
 
   function openDay(ds) {
+    var cf = document.getElementById('calFloat');
+    if (cf && window.innerWidth <= 1280) cf.classList.remove('open');
     if (homeDates[ds]) {
       archiveView.hidden = true;
       archiveView.innerHTML = '';
@@ -112,6 +114,11 @@
     });
     archiveView.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
+
+  var calFloat = document.getElementById('calFloat');
+  document.getElementById('calFab').addEventListener('click', function () {
+    calFloat.classList.toggle('open');
+  });
 
   document.getElementById('calPrev').addEventListener('click', function () {
     calCursor.m -= 1;

@@ -56,9 +56,20 @@ body{margin:0;background:var(--bg);color:var(--ink);
 .src a{font-size:13px;color:#33506e;text-decoration:none;font-weight:600}
 .src a:hover{color:var(--accent)}
 
-/* calendar */
-.calbox{margin-top:22px;background:var(--card);border:1px solid var(--line);
-  border-radius:var(--radius);padding:16px 18px 12px}
+/* calendar: floating side panel */
+.cal-float{position:fixed;top:96px;right:22px;width:292px;z-index:60;
+  background:var(--card);border:1px solid var(--line);border-radius:16px;
+  box-shadow:0 16px 40px rgba(31,41,55,.20);padding:14px 14px 8px}
+.cal-float .cal-cell{min-height:40px}
+.cal-fab{display:none;position:fixed;right:18px;bottom:22px;z-index:61;width:52px;height:52px;
+  border-radius:50%;border:1px solid var(--line);background:var(--accent);color:#fff;
+  font-size:22px;line-height:1;cursor:pointer;box-shadow:0 10px 24px rgba(31,41,55,.28)}
+@media (max-width:1280px){
+  .cal-fab{display:block}
+  .cal-float{top:auto;bottom:86px;right:18px;transform:translateX(calc(100% + 30px));
+    transition:transform .25s ease}
+  .cal-float.open{transform:none}
+}
 .cal-head{display:flex;align-items:center;justify-content:space-between}
 .cal-head h2{margin:0;font-size:17px;letter-spacing:.05em}
 .cal-btn{background:#fff;border:1px solid var(--line);border-radius:9px;width:34px;height:34px;
