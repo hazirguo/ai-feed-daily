@@ -1,0 +1,297 @@
+{
+  "site": "Muse 动态日报",
+  "updated_at": "2026-11-06 15:20",
+  "days": [
+    {
+      "date": "2026-11-06",
+      "weekday": "周五",
+      "items": [
+        {
+          "id": "e3efbb00",
+          "kicker": "上市遇冷",
+          "category": "AI资本",
+          "title": "投资者质疑下，Anthropic 上市时间表生变",
+          "body": "四位知情人士向路透社透露，[潜在投资者质疑 Anthropic 能否按计划在下周启动路演、赶上 11 月上市](https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say)。部分投资者认为，1.5 万亿美元的估值已处预期上限。",
+          "stats": [],
+          "source_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say",
+          "image": "assets/2026-11-06/e3efbb00.webp"
+        },
+        {
+          "id": "1340ec0c",
+          "kicker": "攻防换档",
+          "category": "AI安全",
+          "title": "GPT-6 Cyber发布，挖出81个Firefox高危漏洞",
+          "body": "[OpenAI发布GPT-6 Cyber](https://feng.ifeng.com/c/8xpAgpCQlf0)，ExploitGym得分48.5%。它为Linux内核里的948个漏洞做出了可运行的提权利用程序。",
+          "stats": [
+            {
+              "label": "上一代ExploitGym得分",
+              "value": "32.1%"
+            },
+            {
+              "label": "相对提升",
+              "value": "约51%"
+            },
+            {
+              "label": "Linux内核复现漏洞",
+              "value": "1724个"
+            },
+            {
+              "label": "越界攻击规避",
+              "value": "99.93%（无安全提示时）"
+            }
+          ],
+          "source_url": "https://feng.ifeng.com/c/8xpAgpCQlf0",
+          "image": "assets/2026-11-06/1340ec0c.png"
+        },
+        {
+          "id": "52b20aa3",
+          "kicker": "有货无门",
+          "category": "AI芯片",
+          "title": "60万颗英伟达H200芯片滞留香港",
+          "body": "[北京尚未批准大批量进口](https://kuwaittimes.com/article/53079/business/nvidia-chips-pile-up-in-hong-kong-as-china-withholds-import-approval/)，尽管中国科技企业对算力的需求在攀升。内地一台8卡H200服务器10月底的报价，约一年前的三倍。",
+          "stats": [],
+          "source_url": "https://kuwaittimes.com/article/53079/business/nvidia-chips-pile-up-in-hong-kong-as-china-withholds-import-approval/",
+          "image": "assets/2026-11-06/52b20aa3.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "weekday": "周四",
+      "items": [
+        {
+          "id": "d35bb819",
+          "kicker": "能下载的榜首",
+          "category": "AI模型",
+          "title": "月之暗面开源Kimi K3.1 Pro，登顶Agent Arena开放权重模型榜",
+          "body": "在[Agent Arena的评测](https://original.ifeng.com/c/8xnSmAvsf1e)里，Kimi K3.1 Pro的净改进率达到+5.1%。它采用混合专家架构，重点提升复杂智能体任务的执行能力。",
+          "stats": [
+            {
+              "label": "全部模型排名",
+              "value": "第13名"
+            },
+            {
+              "label": "上一代净改进率",
+              "value": "+0.9%"
+            },
+            {
+              "label": "总参数",
+              "value": "2.8万亿"
+            }
+          ],
+          "source_url": "https://original.ifeng.com/c/8xnSmAvsf1e",
+          "image": "assets/2026-11-05/d35bb819.png"
+        },
+        {
+          "id": "017b5b00",
+          "kicker": "一个模型修另一个",
+          "category": "AI科研",
+          "title": "GPT-6 Astra 不经训练改写 Qwen 权重，数学分涨六倍",
+          "body": "[MIT 的实验](https://www.radardigital.ai/en/articles/gpt-6-astra-fixes-qwen-weights-mit/)让 Astra 在 Qwen3.5-0.8B 第 15、19 层里，减掉了一段让模型原地打转的重复循环方向。MATH-500 从 7.9% 升至 48.1%，但独立复核提醒，这主要是修掉了循环，而非新学会数学。",
+          "stats": [
+            {
+              "label": "原模型推荐设置",
+              "value": "44%"
+            },
+            {
+              "label": "改动权重占比",
+              "value": "0.016%"
+            }
+          ],
+          "source_url": "https://www.radardigital.ai/en/articles/gpt-6-astra-fixes-qwen-weights-mit/",
+          "image": "assets/2026-11-05/017b5b00.webp"
+        },
+        {
+          "id": "6f6c85c6",
+          "kicker": "巨头之外的突围",
+          "category": "AI资本",
+          "title": "Sand.ai完成2亿美元A+轮融资",
+          "body": "基石资本、网宿科技联合领投了[Sand.ai的A+轮融资](https://news.pedaily.cn/202611/571389.shtml)。10个月里的第三轮融资过后，它正式跻身独角兽行列。",
+          "stats": [
+            {
+              "label": "累计融资",
+              "value": "3亿美元"
+            },
+            {
+              "label": "MAGI-2 Preview总参数",
+              "value": "114B"
+            }
+          ],
+          "source_url": "https://news.pedaily.cn/202611/571389.shtml",
+          "image": "assets/2026-11-05/6f6c85c6.jpg"
+        },
+        {
+          "id": "66ea7c81",
+          "kicker": "快也会犯错",
+          "category": "AI科研",
+          "title": "Claude把3天实验缩到90分钟",
+          "body": "Anthropic团队在[Claude协助下](https://m.jrj.com.cn/madapter/finance/2026/11/05074759021100.shtml)首次解析出原核细胞中构建的Vault三维结构。同一项研究里，它给出的培养方案出了问题，让项目延误了两周。",
+          "stats": [],
+          "source_url": "https://m.jrj.com.cn/madapter/finance/2026/11/05074759021100.shtml",
+          "image": "assets/2026-11-05/66ea7c81.jpg"
+        },
+        {
+          "id": "f13b38ee",
+          "kicker": "语音客服换主",
+          "category": "AI应用",
+          "title": "Salesforce 收购 Cresta，补上语音客服短板",
+          "body": "Salesforce 已签约[收购语音 AI 公司 Cresta](https://www.techtarget.com/news/salesforce-rolls-deeper-into-contact-centers-with-cresta-buy/873794/)。交易完成后，Cresta 将并入 Service Cloud，让语音通话直接连上客户记录与处理结果。",
+          "stats": [
+            {
+              "label": "The Information 报道作价",
+              "value": "约 27 亿美元"
+            }
+          ],
+          "source_url": "https://www.techtarget.com/news/salesforce-rolls-deeper-into-contact-centers-with-cresta-buy/873794/",
+          "image": "assets/2026-11-05/f13b38ee.webp"
+        },
+        {
+          "id": "f1b40755",
+          "kicker": "立法管全程",
+          "category": "AI政策",
+          "title": "中国拟推AI安全规则，覆盖开发与部署",
+          "body": "国家发改委11月3日表示，中国将[加快AI基础性综合性立法](https://macaudailytimes.com.mo/china-plans-ai-safety-rules-spanning-development-and-deployment.html)，覆盖数据、算力与算法的全生命周期。彭博报道称，规则将覆盖DeepSeek、月之暗面和阿里巴巴等头部开发商。",
+          "stats": [],
+          "source_url": "https://macaudailytimes.com.mo/china-plans-ai-safety-rules-spanning-development-and-deployment.html",
+          "image": "assets/2026-11-05/f1b40755.webp"
+        },
+        {
+          "id": "4b03bfd3",
+          "kicker": "失控之前",
+          "category": "AI安全",
+          "title": "苹果年报提示AI智能体风险",
+          "body": "[苹果2026财年年报](https://cn.chinadaily.com.cn/a/202611/04/WS6aea8bdae4b0e14252fc8fa4.html)称，AI智能体能自主行动，甚至在未经授权的系统里完成交易。其中删除数据或完成交易等后果，可能难以甚至无法撤销。",
+          "stats": [],
+          "source_url": "https://cn.chinadaily.com.cn/a/202611/04/WS6aea8bdae4b0e14252fc8fa4.html",
+          "image": "assets/2026-11-05/4b03bfd3.webp"
+        },
+        {
+          "id": "8f1d9e0d",
+          "kicker": "绕道也被堵上",
+          "category": "AI芯片",
+          "title": "甲骨文据报取消腾讯70亿租约",
+          "body": "[《金融时报》称](https://capital.asia/2026/11/%e7%94%b2%e9%aa%a8%e6%96%87%e6%8d%ae%e6%96%88%e6%8a%a5%e5%8f%96%e6%b6%88%e8%85%be%e8%ae%af-70-%e4%ba%bf%e7%a7%9f%e7%ba%a6/)，美方官员表达顾虑后，甲骨文取消了与腾讯约70亿美元的算力租约。原协议让腾讯在东南亚租用约10万颗先进AI芯片。",
+          "stats": [],
+          "source_url": "https://capital.asia/2026/11/%e7%94%b2%e9%aa%a8%e6%96%87%e6%8d%ae%e6%8a%a5%e5%8f%96%e6%b6%88%e8%85%be%e8%ae%af-70-%e4%ba%bf%e7%a7%9f%e7%ba%a6/",
+          "image": "assets/2026-11-05/8f1d9e0d.jpg"
+        },
+        {
+          "id": "17e6b5bf",
+          "kicker": "看图做事",
+          "category": "AI模型",
+          "title": "腾讯混元Hy4正式发布，称首次进入最强开源模型梯队",
+          "body": "Hy4首次引入[视觉理解](https://www.thepaper.cn/newsDetail_forward_34403267)，是混元系列第一次能直接看图做事的模型。它的参数规模达到770B。",
+          "stats": [],
+          "source_url": "https://www.thepaper.cn/newsDetail_forward_34403267",
+          "image": "assets/2026-11-05/17e6b5bf.png"
+        },
+        {
+          "id": "27af96fa",
+          "kicker": "看不见的账单",
+          "category": "AI资本",
+          "title": "美国五大巨头AI表外承诺达3.2万亿美元",
+          "body": "[五家美国科技巨头的AI表外承诺](https://feng.ifeng.com/c/8xmGWARgu5w)只列在财报附注里，合同生效后才会变成必须支付的现金流出。其中约六成是为数据中心签下的长期采购协议。",
+          "stats": [
+            {
+              "label": "较3月底增幅",
+              "value": "90%"
+            },
+            {
+              "label": "Alphabet表外承诺",
+              "value": "1.05万亿美元"
+            },
+            {
+              "label": "占五家总资产",
+              "value": "约80%"
+            }
+          ],
+          "source_url": "https://feng.ifeng.com/c/8xmGWARgu5w",
+          "image": "assets/2026-11-05/27af96fa.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "weekday": "周三",
+      "items": [
+        {
+          "id": "8bf292e2",
+          "kicker": "不当画师当考官",
+          "category": "AI自动驾驶",
+          "title": "百度首次披露Apollo World世界模型",
+          "body": "[虚拟城市里的车辆与行人](https://www.cs.com.cn/ssgs/01/2026/11/04/detail_2026110410049653.html)都被建模为具备决策和交互能力的AI智能体。Apollo World把真实运营里的复杂交互与风险场景变成可重复、可控制、可规模化运行的虚拟测试环境。",
+          "stats": [
+            {
+              "label": "萝卜快跑落地城市",
+              "value": "28座"
+            },
+            {
+              "label": "累计出行服务",
+              "value": "超2300万次"
+            },
+            {
+              "label": "自动驾驶总里程",
+              "value": "超3.5亿公里"
+            },
+            {
+              "label": "全无人驾驶里程",
+              "value": "超2.4亿公里"
+            }
+          ],
+          "source_url": "https://www.cs.com.cn/ssgs/01/2026/11/04/detail_2026110410049653.html",
+          "image": ""
+        },
+        {
+          "id": "639914f6",
+          "kicker": "有单无货",
+          "category": "AI芯片",
+          "title": "中国客户700亿美元英伟达RTX订单，短期仅到货1%",
+          "body": "阿里巴巴、腾讯、字节跳动等中国AI和云计算公司合计订购了[约600万枚RTX Pro 5500](https://global.hk01.com/财经快讯/60407060/中美ai竞赛-中国客订700亿美元英伟达rtx芯片-据报短期到货仅1)。但它们预计未来四个月只能拿到数万枚，约占订购量的1%。",
+          "stats": [],
+          "source_url": "https://global.hk01.com/财经快讯/60407060/中美ai竞赛-中国客订700亿美元英伟达rtx芯片-据报短期到货仅1",
+          "image": "assets/2026-11-04/639914f6.jpg"
+        },
+        {
+          "id": "6124e0d9",
+          "kicker": "国产算力大考",
+          "category": "AI模型",
+          "title": "DeepSeek V5计划基于华为昇腾芯片预训练",
+          "body": "此前华为昇腾芯片主要用于DeepSeek大模型的推理任务。V5将是首款原生依托[昇腾950](https://www.thepaper.cn/newsDetail_forward_34397117)开展训练的大模型。",
+          "stats": [],
+          "source_url": "https://www.thepaper.cn/newsDetail_forward_34397117",
+          "image": ""
+        },
+        {
+          "id": "21595f23",
+          "kicker": "内容即指令",
+          "category": "AI应用",
+          "title": "提示注入可让购物智能体自行调高钱包消费上限",
+          "body": "主题站转述的研究显示，攻击者能用注入内容让智能体自行解除安全限制。研究提出的补救是让审批界面独立于智能体可操纵的内容。",
+          "stats": [],
+          "source_url": "",
+          "image": ""
+        },
+        {
+          "id": "94a62b79",
+          "kicker": "整班上岗",
+          "category": "AI机器人",
+          "title": "小米机器人完成8小时工厂作业，具身基座模型启动试运营",
+          "body": "[小米新一代机器人](https://original.ifeng.com/c/8xkc1blzOOq)在总装车间中控台侧盖板排序工站作业时，能对异常自主纠偏并与产线系统协同。同一套具身基座模型在小米青年公寓的试运营里，跑通了50余项任务的长程任务链。",
+          "stats": [],
+          "source_url": "https://original.ifeng.com/c/8xkc1blzOOq",
+          "image": "assets/2026-11-04/94a62b79.png"
+        },
+        {
+          "id": "e5f7bfa9",
+          "kicker": "电先于算力",
+          "category": "AI数据中心",
+          "title": "AI数据中心的电与热各走一条闭环",
+          "body": "科技新报的图解里，[电的路径](https://www.instagram.com/p/DfN-GIWjCWf/)从高压进线经变电站逐级降压，再经两路ATS/UPS、STS/PDU，最后由母线排送到四排GPU机柜。热的一路则走两级水环：室外冷却塔与冷水机组先排热，冷水经换热器和水泵分送，再由六台CDU送进机柜，32-38°C的回水回到冷水机组。",
+          "stats": [],
+          "source_url": "https://www.instagram.com/p/DfN-GIWjCWf/",
+          "image": "assets/2026-11-04/e5f7bfa9.jpg"
+        }
+      ]
+    }
+  ]
+}
