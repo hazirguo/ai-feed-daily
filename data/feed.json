@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-06 16:57",
+  "updated_at": "2026-11-06 17:56",
   "days": [
     {
       "date": "2026-11-06",
       "weekday": "周五",
       "items": [
+        {
+          "id": "409040c6",
+          "kicker": "按秒卖的视频",
+          "category": "AI模型",
+          "title": "Gemini Omni 1.2 Flash 正式上线",
+          "body": "谷歌把 [Gemini Omni 1.2 Flash](https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available) 的 720p 视频压到每秒 0.07 美元。它还支持在对话里直接改同一条片子，换产品、换光线或换机位都不用从头重做。",
+          "stats": [
+            {
+              "label": "降价幅度",
+              "value": "30%"
+            },
+            {
+              "label": "单次片长上限",
+              "value": "15 秒（原 10 秒）"
+            }
+          ],
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available",
+          "image": "assets/2026-11-06/409040c6.jpg"
+        },
         {
           "id": "97a666b2",
           "kicker": "CT 里的第二双眼睛",
