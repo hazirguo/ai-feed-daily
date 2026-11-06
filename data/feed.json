@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-06 21:57",
+  "updated_at": "2026-11-06 23:56",
   "days": [
     {
       "date": "2026-11-06",
       "weekday": "周五",
       "items": [
+        {
+          "id": "647927e6",
+          "kicker": "从演示到干活",
+          "category": "具身智能",
+          "title": "数百台具身机器人将进入安波福生产线",
+          "body": "11月6日进博会期间，[安波福分别与它石智航、上海电气签约](https://www.gasgoo.com/robot/news/70477204-安波福与它石智航-上海电气签约/)，数百台具身机器人将逐步进入安波福一线生产场景。作为交换，安波福的高性能计算平台将装进这两家企业的机器人。",
+          "stats": [],
+          "source_url": "https://www.gasgoo.com/robot/news/70477204-安波福与它石智航-上海电气签约/",
+          "image": "assets/2026-11-06/647927e6.jpg"
+        },
         {
           "id": "ae2c4c63",
           "kicker": "AI 在加速 AI",
