@@ -1,11 +1,44 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-06 15:31",
+  "updated_at": "2026-11-06 16:02",
   "days": [
     {
       "date": "2026-11-06",
       "weekday": "周五",
       "items": [
+        {
+          "id": "272c8f15",
+          "kicker": "蚂蚁亮出新牌",
+          "category": "AI模型",
+          "title": "蚂蚁百灵 Ling 3.2 Flash 发布，三项自测超 Claude Opus 5",
+          "body": "[Ling-3.2-flash](https://tech.ifeng.com/c/8xpCRzyq65n)原生融合视觉与语言，支持图像、文本与视频输入。上线前两周可免费体验。",
+          "stats": [
+            {
+              "label": "总参数",
+              "value": "560B"
+            },
+            {
+              "label": "激活参数",
+              "value": "25B"
+            },
+            {
+              "label": "上下文窗口",
+              "value": "1M"
+            }
+          ],
+          "source_url": "https://tech.ifeng.com/c/8xpCRzyq65n",
+          "image": "assets/2026-11-06/272c8f15.jpg"
+        },
+        {
+          "id": "4abd966a",
+          "kicker": "乌镇收官",
+          "category": "AI政策",
+          "title": "乌镇峰会闭幕，首发18条全球开放AI倡议",
+          "body": "《[携手构建全球开放人工智能行动倡议](https://caijing.chinadaily.com.cn/a/202611/06/WS6aed3ae9e4b0e14252fc97f5.html)》围绕开放发展、安全可信、对话治理、互利包容四个方面展开。来自138个国家和地区的约1800名嘉宾参会，共商开放合作之道。",
+          "stats": [],
+          "source_url": "https://caijing.chinadaily.com.cn/a/202611/06/WS6aed3ae9e4b0e14252fc97f5.html",
+          "image": "assets/2026-11-06/4abd966a.jpg"
+        },
         {
           "id": "e3efbb00",
           "kicker": "上市遇冷",
