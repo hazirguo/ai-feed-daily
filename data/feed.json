@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-06 16:02",
+  "updated_at": "2026-11-06 16:57",
   "days": [
     {
       "date": "2026-11-06",
       "weekday": "周五",
       "items": [
+        {
+          "id": "97a666b2",
+          "kicker": "CT 里的第二双眼睛",
+          "category": "AI应用",
+          "title": "西门子医疗与阿里达摩院签约，推广 AI 一扫多筛",
+          "body": "11 月 6 日，达摩院与西门子医疗[在上海进博会上签约](https://tech.ifeng.com/c/8xpebadg34P)，把“一扫多筛”AI 接进后者的影像设备与临床应用。这项技术用平扫 CT 加 AI 识别肉眼难辨的细微病灶，一次扫描就能早期发现多种高致死癌症与心血管危急重症。",
+          "stats": [],
+          "source_url": "https://tech.ifeng.com/c/8xpebadg34P",
+          "image": ""
+        },
         {
           "id": "272c8f15",
           "kicker": "蚂蚁亮出新牌",
