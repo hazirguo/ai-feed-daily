@@ -26,8 +26,8 @@
     try { return new URL(u).hostname.replace(/^www\./, ''); } catch (e) { return ''; }
   }
 
-  function card(it) {
-    var h = '<article class="card">';
+  function card(it, cls) {
+    var h = '<article class="card' + (cls ? ' ' + cls : '') + '">';
     if (it.image) h += '<img src="' + esc(it.image) + '" alt="" loading="lazy">';
     h += '<div class="card-body">';
     h += '<div class="krow"><span class="kicker">' + esc(it.kicker) + '</span>' +
@@ -52,9 +52,13 @@
     var h = '<section class="day" id="d-' + day.date + '">';
     h += '<div class="day-head"><h2>' + day.date + '</h2><span class="weekday">' + esc(day.weekday) + '</span>' +
          '<span class="count">共 ' + day.items.length + ' 条</span></div>';
-    h += '<div class="grid">';
-    day.items.forEach(function (it) { h += card(it); });
-    h += '</div></section>';
+    if (day.items.length) h += card(day.items[0], 'featured');
+    if (day.items.length > 1) {
+      h += '<div class="masonry">';
+      day.items.slice(1).forEach(function (it) { h += card(it); });
+      h += '</div>';
+    }
+    h += '</section>';
     return h;
   }
 

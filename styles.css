@@ -34,8 +34,20 @@ body{margin:0;background:var(--bg);color:var(--ink);
 .day-head .weekday{color:var(--accent);font-weight:700}
 .day-head .count{margin-left:auto;color:var(--muted);font-size:13px}
 
-.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
-@media (max-width:720px){.grid{grid-template-columns:1fr}}
+/* staggered layout: lead card full width, rest in masonry columns */
+.masonry{columns:2;column-gap:16px}
+@media (max-width:720px){.masonry{columns:1}}
+.masonry .card{break-inside:avoid;margin:0 0 16px;width:100%}
+.masonry .card:nth-child(odd) img{height:150px}
+.masonry .card:nth-child(even) img{height:215px}
+.card.featured{flex-direction:row;margin:0 0 16px}
+.card.featured img{width:44%;height:auto;min-height:230px}
+.card.featured .card-body{justify-content:center;padding:20px 22px 16px}
+.card.featured h3{font-size:21px}
+@media (max-width:720px){
+  .card.featured{flex-direction:column}
+  .card.featured img{width:100%;height:190px;min-height:0}
+}
 
 .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
   overflow:hidden;display:flex;flex-direction:column}
