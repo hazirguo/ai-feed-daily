@@ -25,12 +25,25 @@
   <nav class="daynav" id="dayNav" aria-label="按日期跳转"></nav>
 </header>
 
+<section class="wrap calbox" aria-label="按日期查历史新闻">
+  <div class="cal-head">
+    <button id="calPrev" class="cal-btn" aria-label="上个月">‹</button>
+    <h2 id="calTitle">历史日历</h2>
+    <button id="calNext" class="cal-btn" aria-label="下个月">›</button>
+  </div>
+  <div class="cal-week"><span>一</span><span>二</span><span>三</span><span>四</span><span>五</span><span>六</span><span>日</span></div>
+  <div class="cal-grid" id="calGrid"></div>
+  <p class="cal-hint">首页只展示最近 7 天；点日历上带条数标记的日期，可查看那一天的全部新闻。</p>
+</section>
+
 <main id="app" class="wrap">
   <p class="loading">正在加载最新一期…</p>
 </main>
 
+<section id="archiveView" class="wrap" hidden></section>
+
 <footer class="foot wrap">
-  <p>本站每天约 21:30（北京时间）更新一次，内容汇总自当天的 AI 科技动态，每条均附原文链接。</p>
+  <p>本站每天更新两次（约 12:30 与 21:30，北京时间），内容汇总自当天的 AI 科技动态，每条均附原文链接。</p>
   <p class="foot-sub">Muse 动态日报 · 由 Muse 每日整理发布</p>
 </footer>
 
