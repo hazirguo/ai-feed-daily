@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-07 02:57",
+  "updated_at": "2026-11-07 03:56",
   "days": [
     {
       "date": "2026-11-07",
       "weekday": "周六",
       "items": [
+        {
+          "id": "d2d4c8ac",
+          "kicker": "只看不碰",
+          "category": "AI应用",
+          "title": "Claude 推出个人理财功能",
+          "body": "[Personal Finance](https://claude.com/resources/articles/introducing-personal-finance-in-claude) 让美国的 Claude 付费用户接通银行和信用卡账户，用日常语言问钱花去了哪里。访问是只读的，Claude 不能动你的钱，也看不到银行密码。",
+          "stats": [],
+          "source_url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+          "image": "assets/2026-11-07/d2d4c8ac.png"
+        },
         {
           "id": "04d5dd5b",
           "kicker": "先定位再拿卡",
