@@ -1,11 +1,34 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-07 03:56",
+  "updated_at": "2026-11-07 05:56",
   "days": [
     {
       "date": "2026-11-07",
       "weekday": "周六",
       "items": [
+        {
+          "id": "cd3af647",
+          "kicker": "开源天花板再抬高",
+          "category": "AI模型",
+          "title": "Kimi K3.1 Pro 权重开源上线",
+          "body": "[Kimi K3.1 Pro 的权重](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)已在 Hugging Face 上线。在 Terminal-Bench 4.0 上，它拿到 65.7 分，离 Claude Opus 5.5 只有一步之遥。",
+          "stats": [
+            {
+              "label": "总参数",
+              "value": "2.8T"
+            },
+            {
+              "label": "每 token 激活",
+              "value": "104B"
+            },
+            {
+              "label": "上下文窗口",
+              "value": "100 万 token"
+            }
+          ],
+          "source_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "image": "assets/2026-11-07/cd3af647.png"
+        },
         {
           "id": "d2d4c8ac",
           "kicker": "只看不碰",
