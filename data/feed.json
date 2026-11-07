@@ -1,11 +1,34 @@
 {
  "site": "Muse 动态日报",
- "updated_at": "2026-11-07 17:55",
+ "updated_at": "2026-11-07 19:55",
  "days": [
   {
    "date": "2026-11-07",
    "weekday": "周六",
    "items": [
+    {
+     "id": "eb59e719",
+     "kicker": "巨轮减速",
+     "category": "AI资本",
+     "title": "OpenAI 估值 1.25 万亿美元，先拿到首笔融资",
+     "body": "[约 110 亿美元的首笔融资](https://www.theedgesingapore.com/news/artificial-intelligence/openai-completes-us11-bil-portion-funding-us125-tril-value)已于周五划入 OpenAI 账户。它最初的募资目标要高得多，在 AI 板块回调中已大幅缩减。",
+     "stats": [
+      {
+       "label": "最初募资目标",
+       "value": "300 亿美元以上"
+      },
+      {
+       "label": "最初估值",
+       "value": "1.4 万亿美元"
+      },
+      {
+       "label": "本轮总额或达",
+       "value": "200 亿美元"
+      }
+     ],
+     "source_url": "https://www.theedgesingapore.com/news/artificial-intelligence/openai-completes-us11-bil-portion-funding-us125-tril-value",
+     "image": "assets/2026-11-07/eb59e719.jpg"
+    },
     {
      "id": "83cf4b8b",
      "kicker": "先立一把尺",
