@@ -1,7 +1,28 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-07 23:56",
+  "updated_at": "2026-11-08 02:57",
   "days": [
+    {
+      "date": "2026-11-08",
+      "weekday": "周日",
+      "items": [
+        {
+          "id": "ebeaf10e",
+          "kicker": "空办公室，照批不误",
+          "category": "AI芯片",
+          "title": "美国批准向关联中国企业出售英伟达芯片",
+          "body": "[《纽约时报》周六的调查](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914132)发现，获批企业 New Matrix 在北京的注册地址走访时空无一人。其所有者与 2024 年被美方列入贸易黑名单的 Wise Road 存在关联。",
+          "stats": [
+            {
+              "label": "获批公司",
+              "value": "约二十多家"
+            }
+          ],
+          "source_url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914132",
+          "image": "assets/2026-11-08/ebeaf10e.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-11-07",
       "weekday": "周六",
