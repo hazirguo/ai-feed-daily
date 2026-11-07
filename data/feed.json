@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-08 02:57",
+  "updated_at": "2026-11-08 03:57",
   "days": [
     {
       "date": "2026-11-08",
       "weekday": "周日",
       "items": [
+        {
+          "id": "f0eebe98",
+          "kicker": "防线松动",
+          "category": "AI安全",
+          "title": "开源与受限模型的网络攻击能力差距正在缩小",
+          "body": "在[Vals 的 CyberOffense 模拟企业网络测试](https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/)中，开源的 DeepSeek V4.1 Flash 完成了 72.8% 的攻击目标，接近仅向受审核用户开放的 OpenAI GPT-6 Sol 的 80.8%。同一轮测试里，DeepSeek 的单次成本约为 3 美元，而 GPT-6 Sol 约为 22 美元。",
+          "stats": [],
+          "source_url": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+          "image": "assets/2026-11-08/f0eebe98.png"
+        },
         {
           "id": "ebeaf10e",
           "kicker": "空办公室，照批不误",
