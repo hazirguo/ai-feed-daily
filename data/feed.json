@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-08 03:57",
+  "updated_at": "2026-11-08 05:56",
   "days": [
     {
       "date": "2026-11-08",
       "weekday": "周日",
       "items": [
+        {
+          "id": "031933f7",
+          "kicker": "拆开来卖",
+          "category": "具身智能",
+          "title": "软银ABB拟剥离中国业务保54亿美元交易",
+          "body": "软银11月4日收到通知，中国禁止其收购ABB在华机器人业务。[剥离方案是把中国业务放进单独持有的实体](https://boldvoices.in/softbank-abb-china-carveout-robotics-deal/)，让海外部分照常转让。",
+          "stats": [],
+          "source_url": "https://boldvoices.in/softbank-abb-china-carveout-robotics-deal/",
+          "image": "assets/2026-11-08/031933f7.jpg"
+        },
         {
           "id": "f0eebe98",
           "kicker": "防线松动",
