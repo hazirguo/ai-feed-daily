@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-07 13:56",
+  "updated_at": "2026-11-07 15:56",
   "days": [
     {
       "date": "2026-11-07",
       "weekday": "周六",
       "items": [
+        {
+          "id": "9b6e313d",
+          "kicker": "国产GPU赶考港股",
+          "category": "AI资本",
+          "title": "登临科技港股IPO募资2.25亿美元，11月10日挂牌",
+          "body": "苏州登临科技做通用 GPU，靠自研 GPU+ 架构把图形核心、AI 加速单元和高带宽片上存储集成到一颗芯片里。[这次港股 IPO 募资 2.25 亿美元](https://www.caproasia.com/2026/11/07/china-gpu-chip-company-suzhou-denglin-technology-hong-kong-ipo-to-raise-225-million-with-expected-ipo-listing-on-10th-november-2026-founded-in-2017-by-li-jianwen/)，股票定于 11 月 10 日挂牌。",
+          "stats": [],
+          "source_url": "https://www.caproasia.com/2026/11/07/china-gpu-chip-company-suzhou-denglin-technology-hong-kong-ipo-to-raise-225-million-with-expected-ipo-listing-on-10th-november-2026-founded-in-2017-by-li-jianwen/",
+          "image": ""
+        },
         {
           "id": "a068f8a0",
           "kicker": "旧机房新算力",
