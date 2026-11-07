@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-08 05:56",
+  "updated_at": "2026-11-08 07:57",
   "days": [
     {
       "date": "2026-11-08",
       "weekday": "周日",
       "items": [
+        {
+          "id": "b6a0131a",
+          "kicker": "越跑越快",
+          "category": "AI科研",
+          "title": "METR：Anthropic 或已在7月越过自身 AI 加速警戒线",
+          "body": "METR 进驻 Anthropic 评估后发现，其模型综合分数的增速约为此前的 1.9 倍。[METR 的评估](https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/) METR 估计，其中约八成加速来自 AI 参与 Anthropic 自身的研究工作。",
+          "stats": [
+            {
+              "label": "综合分数增速",
+              "value": "每年约 15 分 → 约 29 分"
+            }
+          ],
+          "source_url": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+          "image": "assets/2026-11-08/b6a0131a.png"
+        },
         {
           "id": "031933f7",
           "kicker": "拆开来卖",
