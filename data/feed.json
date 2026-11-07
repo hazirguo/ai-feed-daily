@@ -1,11 +1,40 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-07 11:56",
+  "updated_at": "2026-11-07 13:56",
   "days": [
     {
       "date": "2026-11-07",
       "weekday": "周六",
       "items": [
+        {
+          "id": "a068f8a0",
+          "kicker": "旧机房新算力",
+          "category": "AI算力",
+          "title": "英伟达洽谈把130多座电信机房改成小型数据中心",
+          "body": "英伟达[正与 Brightspeed 洽谈](https://zot.news/article/nvidia-reportedly-talks-repurpose-brightspeed-buildings-tiny-rx3pj)，把后者在美国的 130 多座电信机房改成小型数据中心。英伟达内部把这些分散站点称作“推理网络”，用来就近运行现成模型。",
+          "stats": [
+            {
+              "label": "合计电力",
+              "value": "约 1 吉瓦"
+            },
+            {
+              "label": "Rubin 机架",
+              "value": "2200 多台"
+            }
+          ],
+          "source_url": "https://zot.news/article/nvidia-reportedly-talks-repurpose-brightspeed-buildings-tiny-rx3pj",
+          "image": "assets/2026-11-07/a068f8a0.webp"
+        },
+        {
+          "id": "35f6af97",
+          "kicker": "先查原材料",
+          "category": "AI安全",
+          "title": "白宫敲定防AI生物武器新政",
+          "body": "[合成核酸筛查新政](https://dailycaller.com/2026/11/06/white-house-finalizes-ai-bioweapon-policy)把筛查对象定为合成 DNA 序列与合成设备。拿联邦经费的研究者须向认证供应商采购合成核酸。",
+          "stats": [],
+          "source_url": "https://dailycaller.com/2026/11/06/white-house-finalizes-ai-bioweapon-policy",
+          "image": ""
+        },
         {
           "id": "1eb1fa5a",
           "kicker": "助手变工作台",
