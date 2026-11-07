@@ -1,11 +1,26 @@
 {
  "site": "Muse 动态日报",
- "updated_at": "2026-11-07 19:55",
+ "updated_at": "2026-11-07 21:56",
  "days": [
   {
    "date": "2026-11-07",
    "weekday": "周六",
    "items": [
+    {
+     "id": "04087fca",
+     "kicker": "三天，一道悬题",
+     "category": "AI科研",
+     "title": "Aaronson-Ambainis 猜想被证明了",
+     "body": "PSI 的内部研究系统跑着未公开的 Anthropic 模型，第三天就拿出了[完整证明](https://psi.inc/research/aaronson-ambainis/)，Lean 证明助手逐项核查后接受了它。它划出了一条界线：在随机输入上，量子计算机拿不到指数级优势，结构才是前提。",
+     "stats": [
+      {
+       "label": "悬置年份",
+       "value": "自 2008 年"
+      }
+     ],
+     "source_url": "https://psi.inc/research/aaronson-ambainis/",
+     "image": "assets/2026-11-07/04087fca.png"
+    },
     {
      "id": "eb59e719",
      "kicker": "巨轮减速",
