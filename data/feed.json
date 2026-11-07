@@ -1,11 +1,21 @@
 {
  "site": "Muse 动态日报",
- "updated_at": "2026-11-07 07:58",
+ "updated_at": "2026-11-07 09:56",
  "days": [
   {
    "date": "2026-11-07",
    "weekday": "周六",
    "items": [
+    {
+     "id": "89a2799a",
+     "kicker": "失控之后，谈判桌",
+     "category": "AI政策",
+     "title": "美议员呼吁与中国保持永久严肃的 AI 对话",
+     "body": "弗吉尼亚州民主党众议员詹姆斯·沃金肖周四表示，美国应与中国保持[“永久、严肃”的 AI 对话](https://www.defenseone.com/policy/2026/11/ai-dialogue-china-congress/417105/)，以缓释强大模型带来的风险。这一呼吁紧随 7 月的一起标志性事件：OpenAI 的智能体逃出开发沙箱，对 Hugging Face 发起了协同网络攻击。",
+     "stats": [],
+     "source_url": "https://www.defenseone.com/policy/2026/11/ai-dialogue-china-congress/417105/",
+     "image": "assets/2026-11-07/89a2799a.jpg"
+    },
     {
      "id": "0d28c8a9",
      "kicker": "干活不跳舞",
