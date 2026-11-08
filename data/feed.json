@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-08 11:55",
+  "updated_at": "2026-11-08 12:56",
   "days": [
     {
       "date": "2026-11-08",
       "weekday": "周日",
       "items": [
+        {
+          "id": "17695328",
+          "kicker": "身份先行",
+          "category": "AI治理",
+          "title": "中国在给 AI 智能体建身份登记系统",
+          "body": "中国在乌镇峰会上亮出了[AI 智能体身份登记与解析平台](https://www.tech360.tv/china-is-building-an-identity-registry-for-ai-agents)。华为、阿里、腾讯、小米、百度等 20 家机构同时签署了智能体开发自律公约。",
+          "stats": [],
+          "source_url": "https://www.tech360.tv/china-is-building-an-identity-registry-for-ai-agents",
+          "image": "assets/2026-11-08/17695328.jpg"
+        },
         {
           "id": "23efc104",
           "kicker": "自己教自己",
