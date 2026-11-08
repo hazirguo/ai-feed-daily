@@ -1,11 +1,45 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-08 12:56",
+  "updated_at": "2026-11-08 13:56",
   "days": [
     {
       "date": "2026-11-08",
       "weekday": "周日",
       "items": [
+        {
+          "id": "6a939486",
+          "kicker": "八台起步",
+          "category": "AI云",
+          "title": "腾讯云推出主权智能体私有云",
+          "body": "Lite 部署从 8 台服务器起步，就能搭起一个完整全栈云。[全栈智能私有云](https://www.channelnewsasia.com/media-release/tencent-cloud-enterprise-unveils-full-stack-intelligent-private-cloud-sovereign-agentic-ai-6531241)面向受监管行业，在自有边界内运行生产级智能体 AI。",
+          "stats": [
+            {
+              "label": "纯 AI 入口",
+              "value": "3 台服务器"
+            }
+          ],
+          "source_url": "https://www.channelnewsasia.com/media-release/tencent-cloud-enterprise-unveils-full-stack-intelligent-private-cloud-sovereign-agentic-ai-6531241",
+          "image": "assets/2026-11-08/6a939486.jpg"
+        },
+        {
+          "id": "40f97e09",
+          "kicker": "旧锁松动了",
+          "category": "AI安全",
+          "title": "DeepMind 智能体找到 1024 位 RSA 两处弱点",
+          "body": "[Google DeepMind](https://completeaitraining.com/news/google-deepmind-finds-two-weaknesses-in-legacy-1024-bit-rsa/)11 月 6 日宣布，其人类指导下的 AI 智能体在 1024 位 RSA 上找到了两处弱点。签名伪造那一项，理论估计比此前最好的方法快约 1600 倍。",
+          "stats": [
+            {
+              "label": "批量分解",
+              "value": "每多一把密钥便宜约 30 倍"
+            },
+            {
+              "label": "2048 位及以上",
+              "value": "不受影响"
+            }
+          ],
+          "source_url": "https://completeaitraining.com/news/google-deepmind-finds-two-weaknesses-in-legacy-1024-bit-rsa/",
+          "image": "assets/2026-11-08/40f97e09.webp"
+        },
         {
           "id": "17695328",
           "kicker": "身份先行",
