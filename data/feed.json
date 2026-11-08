@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-08 21:55",
+  "updated_at": "2026-11-08 23:56",
   "days": [
     {
       "date": "2026-11-08",
       "weekday": "周日",
       "items": [
+        {
+          "id": "b11a19e4",
+          "kicker": "市场不是他的",
+          "category": "AI芯片",
+          "title": "黄仁勋驳斥全面禁售中国芯片",
+          "body": "黄仁勋在[CBS 采访](https://wccftech.com/nvidia-jensen-huang-rejects-anthropic-china-chip-ban-america-competition-vera-rubin/)中说，他完全不同意阿莫迪全面禁售对华芯片的主张。他说 Vera Rubin 已进入量产出货。",
+          "stats": [],
+          "source_url": "https://wccftech.com/nvidia-jensen-huang-rejects-anthropic-china-chip-ban-america-competition-vera-rubin/",
+          "image": "assets/2026-11-08/b11a19e4.jpg"
+        },
         {
           "id": "bd59bc4e",
           "kicker": "从战略到算账",
