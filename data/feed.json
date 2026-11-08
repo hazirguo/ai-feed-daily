@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-08 13:56",
+  "updated_at": "2026-11-08 15:56",
   "days": [
     {
       "date": "2026-11-08",
       "weekday": "周日",
       "items": [
+        {
+          "id": "6f35e3aa",
+          "kicker": "一千间假屋",
+          "category": "具身智能",
+          "title": "苹果 HALO 在 1000 间假屋里练出真本事",
+          "body": "苹果的 [HALO](https://therobotdaily.com/apple-halo-humanoid-simulation-91-percent) 在从未扫描过的真实房间里完成单项任务，成功率 91%。它只在 1000 个虚拟家里练过，没用过一次真人遥操作的数据。",
+          "stats": [
+            {
+              "label": "真实试验",
+              "value": "360 次"
+            },
+            {
+              "label": "训练数据",
+              "value": "约 300 小时"
+            }
+          ],
+          "source_url": "https://therobotdaily.com/apple-halo-humanoid-simulation-91-percent",
+          "image": "assets/2026-11-08/6f35e3aa.jpg"
+        },
         {
           "id": "6a939486",
           "kicker": "八台起步",
