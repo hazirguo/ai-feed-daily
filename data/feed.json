@@ -1,11 +1,40 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-08 09:57",
+  "updated_at": "2026-11-08 11:55",
   "days": [
     {
       "date": "2026-11-08",
       "weekday": "周日",
       "items": [
+        {
+          "id": "23efc104",
+          "kicker": "自己教自己",
+          "category": "AI模型",
+          "title": "VIDRAFT 开源 Darwin-180B，数理推理居开源首位",
+          "body": "韩国初创 VIDRAFT 开源了 [Darwin-180B-RSI-R3](https://dev.to/ai_openfree_b23025ef075cf/darwin-180b-rsi-r3-vidraft-releases-weights-for-its-recursively-self-improved-180b-moe-reasoning-22a9) 的权重。据 VIDRAFT 公布的 SuperCLUE 11 月数理推理评测，它以 73.68 分位列开源模型第一。",
+          "stats": [],
+          "source_url": "https://dev.to/ai_openfree_b23025ef075cf/darwin-180b-rsi-r3-vidraft-releases-weights-for-its-recursively-self-improved-180b-moe-reasoning-22a9",
+          "image": "assets/2026-11-08/23efc104.webp"
+        },
+        {
+          "id": "0d510fd8",
+          "kicker": "上市不等人",
+          "category": "AI资本",
+          "title": "Anthropic 继续推进 IPO，估值谈判滑向 1.2 万亿美元",
+          "body": "[彭博称](https://tech-insider.org/anthropic-presses-ahead-ipo-ft-bloomberg-1-2-1-3-trillion-2026/)潜在投资者正按 1.2 万亿至 1.3 万亿美元讨论 Anthropic 的估值。正式推介可能下周开始，但最终估值尚未定论。",
+          "stats": [
+            {
+              "label": "此前目标",
+              "value": "1.5 万亿美元"
+            },
+            {
+              "label": "低端考虑",
+              "value": "1.1 万亿美元"
+            }
+          ],
+          "source_url": "https://tech-insider.org/anthropic-presses-ahead-ipo-ft-bloomberg-1-2-1-3-trillion-2026/",
+          "image": "assets/2026-11-08/0d510fd8.webp"
+        },
         {
           "id": "ba944e1b",
           "kicker": "登记先行",
