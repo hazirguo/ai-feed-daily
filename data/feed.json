@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-09 02:56",
+  "updated_at": "2026-11-09 03:57",
   "days": [
     {
       "date": "2026-11-09",
       "weekday": "周一",
       "items": [
+        {
+          "id": "a235e44e",
+          "kicker": "主播有了身体",
+          "category": "具身智能",
+          "title": "世界首对人形新闻主播在北京亮相",
+          "body": "女主播 Xinyan 在 11 月 5 日的[北京世界媒体峰会](https://www.vietnam.vn/en/cap-robot-hinh-nguoi-dan-ban-tin-dau-tien-the-gioi-ra-mat-tai-bac-kinh)上问候观众后，直接播报了开场新闻。她与男主播 Xinyu 接入新华社的 Xinhua Yudian 系统，实时调取已编辑的新闻库，以减少 AI 编造内容的风险。",
+          "stats": [],
+          "source_url": "https://www.vietnam.vn/en/cap-robot-hinh-nguoi-dan-ban-tin-dau-tien-the-gioi-ra-mat-tai-bac-kinh",
+          "image": "assets/2026-11-09/a235e44e.jpg"
+        },
         {
           "id": "58f325d6",
           "kicker": "各赢一半",
