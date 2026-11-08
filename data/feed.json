@@ -1,7 +1,36 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-08 23:56",
+  "updated_at": "2026-11-09 02:56",
   "days": [
+    {
+      "date": "2026-11-09",
+      "weekday": "周一",
+      "items": [
+        {
+          "id": "58f325d6",
+          "kicker": "各赢一半",
+          "category": "AI竞争",
+          "title": "洛伊研究所：美国AI算力近中国40倍",
+          "body": "[洛伊研究所11月8日的快照](https://www.lowyinstitute.org/publications/asia-power-snapshot-china-the-united-states-and-the-race-for-ai-dominance)认为，美国顶尖模型领先中国约六到九个月。中国则在关键矿产上占优，60种关键矿产中主导30种生产，美国仅8种。",
+          "stats": [
+            {
+              "label": "美国AI芯片",
+              "value": "31倍于中国"
+            },
+            {
+              "label": "中国开源模型下载占比",
+              "value": "78%"
+            },
+            {
+              "label": "美国模型网站流量占比",
+              "value": "超90%"
+            }
+          ],
+          "source_url": "https://www.lowyinstitute.org/publications/asia-power-snapshot-china-the-united-states-and-the-race-for-ai-dominance",
+          "image": "assets/2026-11-09/58f325d6.webp"
+        }
+      ]
+    },
     {
       "date": "2026-11-08",
       "weekday": "周日",
