@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-09 05:56",
+  "updated_at": "2026-11-09 07:57",
   "days": [
     {
       "date": "2026-11-09",
       "weekday": "周一",
       "items": [
+        {
+          "id": "db10afdc",
+          "kicker": "短信里开店",
+          "category": "AI应用",
+          "title": "封了 Muse 之后，亚马逊让用户发短信给 Alexa 购物",
+          "body": "[发短信给 Alexa 购物](https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/)从 11 月 6 日起向受邀的美国用户开放，自然语言就能搜商品、加购物车并下单。就在 9 月，亚马逊刚屏蔽了 Meta 的 Muse 抓取其站内商品。",
+          "stats": [],
+          "source_url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+          "image": "assets/2026-11-09/db10afdc.jpg"
+        },
         {
           "id": "efc9b9b1",
           "kicker": "开源一角",
