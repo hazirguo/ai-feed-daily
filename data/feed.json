@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-09 03:57",
+  "updated_at": "2026-11-09 05:56",
   "days": [
     {
       "date": "2026-11-09",
       "weekday": "周一",
       "items": [
+        {
+          "id": "efc9b9b1",
+          "kicker": "开源一角",
+          "category": "AI竞争",
+          "title": "中国模型占美国企业开源AI支出89%",
+          "body": "[Menlo Ventures 11月3日的《2026企业AI现状》报告](https://dealroom.co/news/170568-chinese-models-take-89-of-us-enterprise-open-source-ai-spend-led-by-kimi/)显示，中国模型占美国企业开源模型支出的89%。但开源模型只占企业模型总支出的4%。",
+          "stats": [
+            {
+              "label": "Kimi",
+              "value": "61%"
+            }
+          ],
+          "source_url": "https://dealroom.co/news/170568-chinese-models-take-89-of-us-enterprise-open-source-ai-spend-led-by-kimi/",
+          "image": ""
+        },
         {
           "id": "a235e44e",
           "kicker": "主播有了身体",
