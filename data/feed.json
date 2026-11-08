@@ -1,11 +1,26 @@
 {
  "site": "Muse 动态日报",
- "updated_at": "2026-11-08 17:56",
+ "updated_at": "2026-11-08 19:55",
  "days": [
   {
    "date": "2026-11-08",
    "weekday": "周日",
    "items": [
+    {
+     "id": "a82b3e92",
+     "kicker": "会训模型的模型",
+     "category": "AI模型",
+     "title": "Thinking Machines 发布 Inkling 2 Small，50 亿美元融资临近",
+     "body": "Thinking Machines Lab 11 月 5 日发布了第二代模型 [Inkling 2 Small](https://en.wowtale.net/2026/11/07/235890/)，总参数 5940 亿，每次只激活 170 亿。据报道，公司同时接近完成一轮由 Accel 领投的 50 亿美元融资，最快本周内收尾。",
+     "stats": [
+      {
+       "label": "投前估值",
+       "value": "400 亿美元"
+      }
+     ],
+     "source_url": "https://en.wowtale.net/2026/11/07/235890/",
+     "image": "assets/2026-11-08/a82b3e92.jpg"
+    },
     {
      "id": "d17144f3",
      "kicker": "图省事的代价",
