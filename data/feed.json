@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-09 07:57",
+  "updated_at": "2026-11-09 09:57",
   "days": [
     {
       "date": "2026-11-09",
       "weekday": "周一",
       "items": [
+        {
+          "id": "27e04c7f",
+          "kicker": "先查自己人",
+          "category": "AI芯片",
+          "title": "英伟达调查黄仁勋与被指中国间谍的关系",
+          "body": "[英伟达](https://www.cnbctv18.com/world/nvidia-ceo-jensen-huang-under-investigation-affair-chinese-spy-megaspeed-chip-controls-next-triggers-20029939.htm)董事会已就黄仁勋与被指为中国间谍的 Alice Huang 的关系启动独立调查。董事会同时表示，目前没有理由相信国家安全或英伟达机密已经泄露。",
+          "stats": [],
+          "source_url": "https://www.cnbctv18.com/world/nvidia-ceo-jensen-huang-under-investigation-affair-chinese-spy-megaspeed-chip-controls-next-triggers-20029939.htm",
+          "image": "assets/2026-11-09/27e04c7f.jpg"
+        },
         {
           "id": "db10afdc",
           "kicker": "短信里开店",
