@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-09 15:57",
+  "updated_at": "2026-11-09 17:56",
   "days": [
     {
       "date": "2026-11-09",
       "weekday": "周一",
       "items": [
+        {
+          "id": "fbcda203",
+          "kicker": "先抢电，再跑模型",
+          "category": "AI云",
+          "title": "Anthropic 花 34 亿美元买燃气发电机给数据中心供电",
+          "body": "Anthropic 接手了 OnePWR Solutions 两年前向卡特彼勒下的发电机订单，[以 34 亿美元拿下 1.7 吉瓦的产能](https://www.cnbctv18.com/business/companies/anthropic-signs-3-4-billion-deal-for-gas-generators-to-power-ai-data-centres-report-20030054.htm)。它没有收购 OnePWR 本身，只买走了对方的订单和安装能力。",
+          "stats": [],
+          "source_url": "https://www.cnbctv18.com/business/companies/anthropic-signs-3-4-billion-deal-for-gas-generators-to-power-ai-data-centres-report-20030054.htm",
+          "image": "assets/2026-11-09/fbcda203.jpg"
+        },
         {
           "id": "baa8f5dc",
           "kicker": "免费先上手",
