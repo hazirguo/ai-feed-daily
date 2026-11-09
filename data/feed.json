@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-10 05:56",
+  "updated_at": "2026-11-10 07:57",
   "days": [
     {
       "date": "2026-11-10",
       "weekday": "周二",
       "items": [
+        {
+          "id": "eda21725",
+          "kicker": "从聊天到干活",
+          "category": "AI应用",
+          "title": "DeepSeek Harness 日活达 154 万",
+          "body": "9 月底它只有约 27.1 万日活，到 11 月 4 日已达 154 万。[Harness](https://www.businesstimes.com.sg/companies-markets/deepseeks-ai-agent-platform-hits-1-54-million-daily-users?ref=home-skybox-6) 的用户每天通过官方服务消耗约 92 万亿 tokens。",
+          "stats": [
+            {
+              "label": "第三方插件",
+              "value": "约 3.5 万"
+            }
+          ],
+          "source_url": "https://www.businesstimes.com.sg/companies-markets/deepseeks-ai-agent-platform-hits-1-54-million-daily-users?ref=home-skybox-6",
+          "image": "assets/2026-11-10/eda21725.webp"
+        },
         {
           "id": "a21600ce",
           "kicker": "休战延期不同步",
