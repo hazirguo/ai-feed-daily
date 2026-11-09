@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-09 11:56",
+  "updated_at": "2026-11-09 13:56",
   "days": [
     {
       "date": "2026-11-09",
       "weekday": "周一",
       "items": [
+        {
+          "id": "7ceada7b",
+          "kicker": "沙箱之下",
+          "category": "AI安全",
+          "title": "CPython 缺陷让 AI 推理服务器面临沙箱逃逸",
+          "body": "RunSybil 往 Qwen2.5-0.5B-Instruct 里塞了带后门的 chat_template.jinja，[InfoWorld](https://www.infoworld.com/article/4245631/cpython-flaw-exposes-ai-inference-servers-to-sandbox-escape-attacks-2.html)报道它在 vLLM 加载时逃出 Jinja 沙箱，在服务进程里执行了任意代码。CPython 安全团队承认底层缺陷，却不认这是漏洞，称沙箱逃逸不在其威胁模型内。",
+          "stats": [],
+          "source_url": "https://www.infoworld.com/article/4245631/cpython-flaw-exposes-ai-inference-servers-to-sandbox-escape-attacks-2.html",
+          "image": "assets/2026-11-09/7ceada7b.jpg"
+        },
         {
           "id": "62ac25f4",
           "kicker": "一封员工信",
