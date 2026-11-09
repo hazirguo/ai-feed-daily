@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-10 03:57",
+  "updated_at": "2026-11-10 05:56",
   "days": [
     {
       "date": "2026-11-10",
       "weekday": "周二",
       "items": [
+        {
+          "id": "a21600ce",
+          "kicker": "休战延期不同步",
+          "category": "AI政策",
+          "title": "美国延长对华出口限制暂停至2027年1月10日",
+          "body": "美国商务部11月5日提交文件，把“关联企业规则”的[暂停期延至2027年1月10日](https://www.exterrajsc.com/p/chinas-mineral-controls-and-the-spacecraft)。中国稀土管制的暂停按原定今天到期，截至11月8日仍未见延长公告。",
+          "stats": [],
+          "source_url": "https://www.exterrajsc.com/p/chinas-mineral-controls-and-the-spacecraft",
+          "image": "assets/2026-11-10/a21600ce.jpg"
+        },
         {
           "id": "c4d43b03",
           "kicker": "一脑多身",
