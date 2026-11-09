@@ -1,11 +1,31 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-09 09:57",
+  "updated_at": "2026-11-09 10:56",
   "days": [
     {
       "date": "2026-11-09",
       "weekday": "周一",
       "items": [
+        {
+          "id": "a5311924",
+          "kicker": "购物打头阵",
+          "category": "AI应用",
+          "title": "Meta 准备未来几周在英国推出 Muse",
+          "body": "与多家零售商的合作将让 [Muse](https://www.thetimes.com/business/technology/article/mark-zuckerbergs-muse-ai-assistant-uk-launch-c5srqnkb8) 直接在对方网站上代为购物。它 9 月在美国和加拿大上线后，用户已超过 1100 万。",
+          "stats": [],
+          "source_url": "https://www.thetimes.com/business/technology/article/mark-zuckerbergs-muse-ai-assistant-uk-launch-c5srqnkb8",
+          "image": "assets/2026-11-09/a5311924.webp"
+        },
+        {
+          "id": "f4a71032",
+          "kicker": "长活别堵着",
+          "category": "AI编程",
+          "title": "Claude Code 2.1.319 把 MCP 任务移入后台",
+          "body": "[Claude Code 2.1.319](https://aitoolsrecap.com/Blog/claude-code-background-mcp-tasks-2026)把以任务方式运行的 MCP 工具调用丢进后台，完成后才把结果告诉 Claude。新增的 permissions.denyInsteadOfPrompting 则把等确认改成直接拒绝，无人值守的运行不再卡在原地等你。",
+          "stats": [],
+          "source_url": "https://aitoolsrecap.com/Blog/claude-code-background-mcp-tasks-2026",
+          "image": ""
+        },
         {
           "id": "27e04c7f",
           "kicker": "先查自己人",
