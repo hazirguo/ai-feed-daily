@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-09 13:56",
+  "updated_at": "2026-11-09 15:57",
   "days": [
     {
       "date": "2026-11-09",
       "weekday": "周一",
       "items": [
+        {
+          "id": "baa8f5dc",
+          "kicker": "免费先上手",
+          "category": "AI模型",
+          "title": "LG 免费开放 K-EXAONE 2.5 API",
+          "body": "LG AI Research 在首尔 NVIDIA AI Day 上宣布，[K-EXAONE 2.5 的 API](https://www.digitaltoday.co.kr/en/view/122771/lg-ai-research-opens-k-exaone-2-5-api-free-says-performance-up-70-percent) 即日起免费开放。LG 称它较 8 月版本在 24 项评测的综合性能上提升逾 70%。",
+          "stats": [],
+          "source_url": "https://www.digitaltoday.co.kr/en/view/122771/lg-ai-research-opens-k-exaone-2-5-api-free-says-performance-up-70-percent",
+          "image": "assets/2026-11-09/baa8f5dc.png"
+        },
         {
           "id": "7ceada7b",
           "kicker": "沙箱之下",
