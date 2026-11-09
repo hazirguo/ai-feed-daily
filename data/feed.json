@@ -1,7 +1,23 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-09 23:56",
+  "updated_at": "2026-11-10 02:58",
   "days": [
+    {
+      "date": "2026-11-10",
+      "weekday": "周二",
+      "items": [
+        {
+          "id": "5157e833",
+          "kicker": "上市倒计时",
+          "category": "AI资本",
+          "title": "Anthropic 路演窗口今日开启，最早 11 月 13 日定价",
+          "body": "15 天等待期届满，[Anthropic 从今天起可以启动正式 IPO 路演](https://leprivatebanker.com/2026/11/09/anthropics-ipo-roadshow-window-opens-tuesday-with-pricing-possible-from-nov-13-and-a-first-trade-as-early-as-nov-16/)。按监管日程，最早 11 月 13 日定价、11 月 16 日首日交易。",
+          "stats": [],
+          "source_url": "https://leprivatebanker.com/2026/11/09/anthropics-ipo-roadshow-window-opens-tuesday-with-pricing-possible-from-nov-13-and-a-first-trade-as-early-as-nov-16/",
+          "image": "assets/2026-11-10/5157e833.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "weekday": "周一",
