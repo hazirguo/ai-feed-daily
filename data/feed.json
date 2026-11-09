@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-09 10:56",
+  "updated_at": "2026-11-09 11:56",
   "days": [
     {
       "date": "2026-11-09",
       "weekday": "周一",
       "items": [
+        {
+          "id": "62ac25f4",
+          "kicker": "一封员工信",
+          "category": "AI芯片",
+          "title": "黄仁勋致信员工承认婚外情",
+          "body": "他在[致员工的信](https://www.etvbharat.com/en/international/i-was-unfaithful-to-my-wife-jensen-huang-on-affair-with-chinese-spy-as-nvidia-investigates-case-enn26110900485)中说，自己承担全部责任并会全力配合调查。黄仁勋留任首席执行官。",
+          "stats": [],
+          "source_url": "https://www.etvbharat.com/en/international/i-was-unfaithful-to-my-wife-jensen-huang-on-affair-with-chinese-spy-as-nvidia-investigates-case-enn26110900485",
+          "image": "assets/2026-11-09/62ac25f4.jpg"
+        },
         {
           "id": "a5311924",
           "kicker": "购物打头阵",
