@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-10 02:58",
+  "updated_at": "2026-11-10 03:57",
   "days": [
     {
       "date": "2026-11-10",
       "weekday": "周二",
       "items": [
+        {
+          "id": "c4d43b03",
+          "kicker": "一脑多身",
+          "category": "具身智能",
+          "title": "普渡把一个模型装进三台机器人，美国禁了其中两款",
+          "body": "普渡创始人张涛 11 月 8 日在《南华早报》采访中说，同一个基础模型 PuduFM 1.0 将驱动四足 D5、轮式 D7 和双足 D9 [三台机器人](https://www.techtimes.com/articles/330290/20261109/pudu-robotics-puts-one-ai-model-three-robots-fcc-has-banned-its-humanoid-quadruped-us-markets.htm)。但美国联邦通信委员会 7 月 28 日的公告已把境外生产的高级机器人设备列入管制清单，D5 与 D9 这类新机因此拿不到美国新的设备认证。",
+          "stats": [
+            {
+              "label": "已交付机器人",
+              "value": "逾 13 万台"
+            }
+          ],
+          "source_url": "https://www.techtimes.com/articles/330290/20261109/pudu-robotics-puts-one-ai-model-three-robots-fcc-has-banned-its-humanoid-quadruped-us-markets.htm",
+          "image": ""
+        },
         {
           "id": "5157e833",
           "kicker": "上市倒计时",
