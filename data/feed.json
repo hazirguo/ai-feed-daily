@@ -1,11 +1,26 @@
 {
  "site": "Muse 动态日报",
- "updated_at": "2026-11-09 19:56",
+ "updated_at": "2026-11-09 21:57",
  "days": [
   {
    "date": "2026-11-09",
    "weekday": "周一",
    "items": [
+    {
+     "id": "4ee3880e",
+     "kicker": "买家入了股",
+     "category": "具身智能",
+     "title": "优理奇完成5亿元Pre-A轮融资",
+     "body": "优理奇机器人11月9日宣布[完成5亿元Pre-A轮融资](https://news.pedaily.cn/202611/571541.shtml)。绿地集团以战略投资人身份加入了本轮融资。",
+     "stats": [
+      {
+       "label": "单月交付峰值",
+       "value": "超300台"
+      }
+     ],
+     "source_url": "https://news.pedaily.cn/202611/571541.shtml",
+     "image": "assets/2026-11-09/4ee3880e.png"
+    },
     {
      "id": "412a0f48",
      "kicker": "赢了再谈护栏",
