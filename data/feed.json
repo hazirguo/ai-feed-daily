@@ -1,11 +1,34 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-10 11:57",
+  "updated_at": "2026-11-10 13:57",
   "days": [
     {
       "date": "2026-11-10",
       "weekday": "周二",
       "items": [
+        {
+          "id": "cf1bbe24",
+          "kicker": "小模型跑大活",
+          "category": "AI模型",
+          "title": "Meta 推出最小也最便宜的 Muse Ember",
+          "body": "[Muse Ember](https://interestingengineering.com/ai-robotics/meta-muse-ember-smallest-model-ai-agents) 已在 Muse Code 与 Meta Model API 上线，专做重复的智能体任务。按 Artificial Analysis 的测算，它与 Claude Haiku 5.5 同分，每任务的成本约为后者的三分之一。",
+          "stats": [
+            {
+              "label": "智能指数",
+              "value": "36 分"
+            },
+            {
+              "label": "每任务成本",
+              "value": "约 $0.14"
+            },
+            {
+              "label": "Haiku 5.5 每任务",
+              "value": "约 $0.41"
+            }
+          ],
+          "source_url": "https://interestingengineering.com/ai-robotics/meta-muse-ember-smallest-model-ai-agents",
+          "image": "assets/2026-11-10/cf1bbe24.jpg"
+        },
         {
           "id": "895e8f52",
           "kicker": "挖洞的模型",
