@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-10 17:56",
+  "updated_at": "2026-11-10 19:57",
   "days": [
     {
       "date": "2026-11-10",
       "weekday": "周二",
       "items": [
+        {
+          "id": "35df37c0",
+          "kicker": "禁令绕道",
+          "category": "AI芯片",
+          "title": "文件显示 Moonshot 在华租用英伟达顶级 AI 芯片",
+          "body": "据北京监管部门的文件，[Moonshot](https://economictimes.indiatimes.com/ai/ai-insights/moonshot-ai-rents-nvidias-top-ai-chips-in-china-documents-show/articleshow/135700895.cms) 8 月签约租用 32 台装有英伟达 B300 GPU 的超微服务器。Moonshot 否认文件准确性，称与服务器所有者无业务关系。",
+          "stats": [
+            {
+              "label": "估值",
+              "value": "4.32亿元"
+            },
+            {
+              "label": "单台估值",
+              "value": "1350万元"
+            }
+          ],
+          "source_url": "https://economictimes.indiatimes.com/ai/ai-insights/moonshot-ai-rents-nvidias-top-ai-chips-in-china-documents-show/articleshow/135700895.cms",
+          "image": "assets/2026-11-10/35df37c0.jpg"
+        },
         {
           "id": "f06c275e",
           "kicker": "旗舰降价了",
