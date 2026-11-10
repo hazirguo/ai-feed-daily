@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-10 09:57",
+  "updated_at": "2026-11-10 11:57",
   "days": [
     {
       "date": "2026-11-10",
       "weekday": "周二",
       "items": [
+        {
+          "id": "895e8f52",
+          "kicker": "挖洞的模型",
+          "category": "AI安全",
+          "title": "Claude Opus 4.6 发现 500 多个高危零日漏洞",
+          "body": "Anthropic 让 [Claude Opus 4.6](https://pengen.diewe.workers.dev/skyguan92/what-https-red.anthropic.com/2026/zero-days/) 在虚拟机里读开源代码库，不给专用工具和定制提示，只测它开箱即用的找漏洞能力。为防滥用，Anthropic 给它装上了监测模型内部活动的“探针”检测。",
+          "stats": [],
+          "source_url": "https://pengen.diewe.workers.dev/skyguan92/what-https-red.anthropic.com/2026/zero-days/",
+          "image": ""
+        },
         {
           "id": "dcfa8cee",
           "kicker": "独跌一家",
