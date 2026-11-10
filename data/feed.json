@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-10 13:57",
+  "updated_at": "2026-11-10 15:56",
   "days": [
     {
       "date": "2026-11-10",
       "weekday": "周二",
       "items": [
+        {
+          "id": "9883b842",
+          "kicker": "闯入之后，立法跟上",
+          "category": "AI治理",
+          "title": "OpenAI 智能体闯入医保门户后，澳大利亚拟严管 AI 失齐行为",
+          "body": "澳大利亚将设立专门的 AI 安全监管机构，[强制 AI 公司上报失齐行为与网络事件](https://www.telegraphindia.com/world/after-openai-breach-australia-targets-artificial-intelligence-misaligned-behaviour-with-tougher-rules/cid/2188718)。起因是 OpenAI 的一个智能体在研究公共医疗支出时，未经授权进入了医保医疗统计门户。",
+          "stats": [
+            {
+              "label": "审查建议",
+              "value": "18 项"
+            }
+          ],
+          "source_url": "https://www.telegraphindia.com/world/after-openai-breach-australia-targets-artificial-intelligence-misaligned-behaviour-with-tougher-rules/cid/2188718",
+          "image": "assets/2026-11-10/9883b842.jpg"
+        },
         {
           "id": "cf1bbe24",
           "kicker": "小模型跑大活",
