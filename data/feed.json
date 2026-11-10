@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-11 03:57",
+  "updated_at": "2026-11-11 07:56",
   "days": [
     {
       "date": "2026-11-11",
       "weekday": "周三",
       "items": [
+        {
+          "id": "0f1a8578",
+          "kicker": "防御者之后",
+          "category": "AI模型",
+          "title": "Gemini 4 Carbon 全面开放，优惠价只到 11 月 30 日",
+          "body": "谷歌 11 月 10 日把[Gemini 4 Carbon](https://madrobot.blog/2026/11/10/google-gemini-4-carbon-available-ai-ultra-api-swarm/)向付费开发者、企业和 AI Ultra 订阅者开放了。此前两周，它只向 Fairwind 计划里的网络安全防御者开放。",
+          "stats": [
+            {
+              "label": "优惠价",
+              "value": "$2 / $10 每百万 tokens"
+            },
+            {
+              "label": "12 月 1 日起",
+              "value": "$4 / $20 每百万 tokens"
+            }
+          ],
+          "source_url": "https://madrobot.blog/2026/11/10/google-gemini-4-carbon-available-ai-ultra-api-swarm/",
+          "image": "assets/2026-11-11/0f1a8578.jpg"
+        },
         {
           "id": "d6c8fc72",
           "kicker": "轮到定价了",
