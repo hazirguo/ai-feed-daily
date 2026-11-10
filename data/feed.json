@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-10 07:57",
+  "updated_at": "2026-11-10 09:57",
   "days": [
     {
       "date": "2026-11-10",
       "weekday": "周二",
       "items": [
+        {
+          "id": "dcfa8cee",
+          "kicker": "独跌一家",
+          "category": "AI芯片",
+          "title": "芯片股反弹6.9%，英伟达逆势跌超4%",
+          "body": "周一芯片股普遍反弹，[费城半导体指数收在10033.88点](https://biz.heraldcorp.com/article/10931305)。英伟达是其中的例外，盘中一度跌至170.24美元。",
+          "stats": [
+            {
+              "label": "AMD",
+              "value": "+13.3%"
+            },
+            {
+              "label": "博通",
+              "value": "+8.8%"
+            }
+          ],
+          "source_url": "https://biz.heraldcorp.com/article/10931305",
+          "image": "assets/2026-11-10/dcfa8cee.jpg"
+        },
         {
           "id": "eda21725",
           "kicker": "从聊天到干活",
