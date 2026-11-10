@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-10 15:56",
+  "updated_at": "2026-11-10 17:56",
   "days": [
     {
       "date": "2026-11-10",
       "weekday": "周二",
       "items": [
+        {
+          "id": "f06c275e",
+          "kicker": "旗舰降价了",
+          "category": "AI模型",
+          "title": "Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2，编码更强、价格更低",
+          "body": "[Claude Fable 5.2](https://www.computerworld.com/article/4246693/anthropic-unveils-claude-fable-5-2-mythos-5-2-with-coding-gains-and-lower-prices-2.html)已在 AWS、Google Cloud 与微软 Azure 上线。定价比 5.1 低了 20%。",
+          "stats": [
+            {
+              "label": "输入价",
+              "value": "$8 / 百万 tokens"
+            },
+            {
+              "label": "输出价",
+              "value": "$40 / 百万 tokens"
+            }
+          ],
+          "source_url": "https://www.computerworld.com/article/4246693/anthropic-unveils-claude-fable-5-2-mythos-5-2-with-coding-gains-and-lower-prices-2.html",
+          "image": "assets/2026-11-10/f06c275e.jpg"
+        },
         {
           "id": "9883b842",
           "kicker": "闯入之后，立法跟上",
