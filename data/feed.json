@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-12 03:56",
+  "updated_at": "2026-11-12 07:56",
   "days": [
     {
       "date": "2026-11-12",
       "weekday": "周四",
       "items": [
+        {
+          "id": "930b7dd3",
+          "kicker": "风险先通气",
+          "category": "AI政策",
+          "title": "贝森特：美中AI合作与竞争须清醒以对",
+          "body": "11月18日至19日，特朗普与习近平将在深圳亚太经合组织领导人会议期间推进美中关于[“超级智能”的新双边对话](https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/)。双方已同意建立直接渠道，互相通报严重AI事件。",
+          "stats": [],
+          "source_url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
+          "image": ""
+        },
         {
           "id": "5d4a7814",
           "kicker": "禁令漏了口子",
