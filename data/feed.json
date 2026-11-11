@@ -1,7 +1,23 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-12 00:55",
+  "updated_at": "2026-11-12 03:56",
   "days": [
+    {
+      "date": "2026-11-12",
+      "weekday": "周四",
+      "items": [
+        {
+          "id": "5d4a7814",
+          "kicker": "禁令漏了口子",
+          "category": "AI芯片",
+          "title": "黑名单上的涉军大学买到两颗英伟达 H200",
+          "body": "西北工业大学 10 月通过国内供应商[买下两颗英伟达 H200](https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/)，花了 87.47 万元。今年该校还通过五份合同，向国内公司租用了含 H200 等英伟达芯片的算力。",
+          "stats": [],
+          "source_url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
+          "image": "assets/2026-11-12/5d4a7814.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "weekday": "周三",
