@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-11 11:55",
+  "updated_at": "2026-11-11 14:55",
   "days": [
     {
       "date": "2026-11-11",
       "weekday": "周三",
       "items": [
+        {
+          "id": "e9727b18",
+          "kicker": "不用再切终端",
+          "category": "AI编程",
+          "title": "Claude Agent 与 Codex 进了 Visual Studio",
+          "body": "[ReSharper 2026.3](https://blog.jetbrains.com/dotnet/2026/11/10/resharper-2026-3-release/)把 Claude Agent 与 Codex 接进了 Visual Studio 的 AI Assistant 工具窗口。但要用 JetBrains AI 订阅计费，自带订阅和 API key 都不认。",
+          "stats": [],
+          "source_url": "https://blog.jetbrains.com/dotnet/2026/11/10/resharper-2026-3-release/",
+          "image": "assets/2026-11-11/e9727b18.png"
+        },
         {
           "id": "aa4e3d35",
           "kicker": "自立门户",
