@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-11 15:55",
+  "updated_at": "2026-11-11 20:57",
   "days": [
     {
       "date": "2026-11-11",
       "weekday": "周三",
       "items": [
+        {
+          "id": "e9d3f693",
+          "kicker": "从演示到产线",
+          "category": "具身智能",
+          "title": "Gemini Robotics 2.5 上线，奔驰产线试点成功率 96%",
+          "body": "搭载[Gemini Robotics 2.5](https://glonce.com/deepmind-rolls-out-gemini-robotics-2-5-with/)的 Apollo 2 在奔驰正在运转的生产线上分拣汽车零件，按每辆车的顺序把散装零件装进托盘。DeepMind 还同步开源了机器人安全基准 ASIMOV-Jailbreak，供外界测试机器人会不会被诱导做出不安全动作。",
+          "stats": [
+            {
+              "label": "200多项任务成功率提升",
+              "value": "30%–100%"
+            },
+            {
+              "label": "任务完成提速",
+              "value": "20%–30%"
+            }
+          ],
+          "source_url": "https://glonce.com/deepmind-rolls-out-gemini-robotics-2-5-with/",
+          "image": "assets/2026-11-11/e9d3f693.jpg"
+        },
         {
           "id": "bf32212b",
           "kicker": "只开预览",
