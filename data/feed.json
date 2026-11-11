@@ -1,11 +1,36 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-11 14:55",
+  "updated_at": "2026-11-11 15:55",
   "days": [
     {
       "date": "2026-11-11",
       "weekday": "周三",
       "items": [
+        {
+          "id": "bf32212b",
+          "kicker": "只开预览",
+          "category": "AI模型",
+          "title": "Qwen4-Max 已开启预览",
+          "body": "[Qwen4-Max](https://cellcog.ai/blog/qwen-4-release-date/)已开启预览，阿里把它放进了 Token Plan。基准、上下文、参数量和按量价格都还没公布。",
+          "stats": [
+            {
+              "label": "Token Plan 入门档",
+              "value": "新用户 $3/月起"
+            }
+          ],
+          "source_url": "https://cellcog.ai/blog/qwen-4-release-date/",
+          "image": "assets/2026-11-11/bf32212b.webp"
+        },
+        {
+          "id": "1bf2f6c5",
+          "kicker": "链条断在上游",
+          "category": "AI安全",
+          "title": "Notion 称 Fireworks 泄露波及部分 AI 对话",
+          "body": "Notion 说，Fireworks 的安全事件[可能泄露了 Insights 功能的部分 AI 对话记录](https://www.abijita.com/notion-ai-chat-exposure-fireworks-breach/)，影响不到 1% 的工作区。11 月 3 日前，Notion 已断开与 Fireworks 的连接，并停用了 Insights。",
+          "stats": [],
+          "source_url": "https://www.abijita.com/notion-ai-chat-exposure-fireworks-breach/",
+          "image": "assets/2026-11-11/1bf2f6c5.png"
+        },
         {
           "id": "e9727b18",
           "kicker": "不用再切终端",
