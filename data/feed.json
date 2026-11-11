@@ -1,11 +1,41 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-11 10:57",
+  "updated_at": "2026-11-11 11:55",
   "days": [
     {
       "date": "2026-11-11",
       "weekday": "周三",
       "items": [
+        {
+          "id": "aa4e3d35",
+          "kicker": "自立门户",
+          "category": "AI芯片",
+          "title": "阿里平头哥申请在港上市",
+          "body": "阿里巴巴旗下芯片设计子公司[平头哥](https://klse.i3investor.com/web/blog/detail/ceomorningbrief/2026-11-11-story-h502524601-Alibaba_8217_s_Chip_Design_Unit_T_Head_Files_for_Listing_in_Hong_Kong)已向香港交易所提交上市申请。港交所已批准其推进分拆，发行规模与结构尚未确定。",
+          "stats": [],
+          "source_url": "https://klse.i3investor.com/web/blog/detail/ceomorningbrief/2026-11-11-story-h502524601-Alibaba_8217_s_Chip_Design_Unit_T_Head_Files_for_Listing_in_Hong_Kong",
+          "image": "assets/2026-11-11/aa4e3d35.jpg"
+        },
+        {
+          "id": "dc1c6a97",
+          "kicker": "商家进驻 ChatGPT",
+          "category": "AI应用",
+          "title": "OpenAI 给企业新工具，触达 ChatGPT 用户",
+          "body": "OpenAI 11 月 10 日推出 [Businesses in ChatGPT](https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-businesses-new-tools-to-reach-chatgpt-users/) 测试版，企业可在 Business Hub 里认领并核实自己的资料。符合条件的美国电商与在线服务企业还能上线 Business Agent，在 ChatGPT 内直接回答顾客的问题。",
+          "stats": [],
+          "source_url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-businesses-new-tools-to-reach-chatgpt-users/",
+          "image": ""
+        },
+        {
+          "id": "ac8f78e2",
+          "kicker": "卡在连接处",
+          "category": "AI政策",
+          "title": "微软劝特朗普放弃禁中国数据中心技术",
+          "body": "微软正向特朗普政府施压，要求叫停[针对中国光模块的进口禁令](https://www.reuters.com/business/media-telecom/microsoft-presses-trump-scuttle-expected-ban-chinese-data-center-technology-2026-11-10/)。中国厂商占全球光模块市场约三分之二，美国厂商目前还无法以同等规模替代。",
+          "stats": [],
+          "source_url": "https://www.reuters.com/business/media-telecom/microsoft-presses-trump-scuttle-expected-ban-chinese-data-center-technology-2026-11-10/",
+          "image": ""
+        },
         {
           "id": "fca5ab04",
           "kicker": "远程用卡也要管",
