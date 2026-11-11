@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-11 07:56",
+  "updated_at": "2026-11-11 10:57",
   "days": [
     {
       "date": "2026-11-11",
       "weekday": "周三",
       "items": [
+        {
+          "id": "fca5ab04",
+          "kicker": "远程用卡也要管",
+          "category": "AI芯片",
+          "title": "美国拟禁中国远程使用境外英伟达芯片",
+          "body": "美国商务部计划禁止中国实体远程控制位于中国境外的[英伟达芯片](https://cryptobriefing.com/commerce-department-blocks-china-remote-nvidia-access/)，把出口管制从实体出货扩展到远程使用。今年 5 月的许可指引已经要求，中国总部企业即使芯片在境外，也要为 Blackwell 与 H200 等 GPU 申请许可。",
+          "stats": [],
+          "source_url": "https://cryptobriefing.com/commerce-department-blocks-china-remote-nvidia-access/",
+          "image": "assets/2026-11-11/fca5ab04.png"
+        },
         {
           "id": "0f1a8578",
           "kicker": "防御者之后",
