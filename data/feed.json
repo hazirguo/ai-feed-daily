@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-11 20:57",
+  "updated_at": "2026-11-12 00:55",
   "days": [
     {
       "date": "2026-11-11",
       "weekday": "周三",
       "items": [
+        {
+          "id": "c96cfbbc",
+          "kicker": "开源新画笔",
+          "category": "AI模型",
+          "title": "MiniMax 开源 H3-Image，4K 图不到 10 秒生成",
+          "body": "文生图和改图由同一个 [H3-Image](https://technode.com/2026/11/11/minimax-releases-h3-image-weights-says-model-can-generate-4k-images-in-under-10-seconds/) 完成，不用换模型。单次最多能参考 16 张图。",
+          "stats": [],
+          "source_url": "https://technode.com/2026/11/11/minimax-releases-h3-image-weights-says-model-can-generate-4k-images-in-under-10-seconds/",
+          "image": ""
+        },
         {
           "id": "e9d3f693",
           "kicker": "从演示到产线",
