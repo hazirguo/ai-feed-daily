@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-12 15:56",
+  "updated_at": "2026-11-12 17:56",
   "days": [
     {
       "date": "2026-11-12",
       "weekday": "周四",
       "items": [
+        {
+          "id": "c0ebeeb0",
+          "kicker": "自我调优",
+          "category": "AI模型",
+          "title": "ERNIE 5.5 Flash 预览上线：280B 参数，百万输入 2 元",
+          "body": "百度 [ERNIE 5.5 Flash 预览](https://siliconnoon.com/deep-dive-ernie-55-flash-280b-params-for-2-a-million-tokens/)已在千帆上线。它的推理栈由 ERNIE Evolve 自动调优，在昆仑 P800 上把生成速度提到了基线的 623.6%。",
+          "stats": [
+            {
+              "label": "每 token 激活参数",
+              "value": "140 亿"
+            },
+            {
+              "label": "上下文",
+              "value": "100 万 token"
+            }
+          ],
+          "source_url": "https://siliconnoon.com/deep-dive-ernie-55-flash-280b-params-for-2-a-million-tokens/",
+          "image": "assets/2026-11-12/c0ebeeb0.jpg"
+        },
         {
           "id": "e29d06af",
           "kicker": "追赶者的时间表",
