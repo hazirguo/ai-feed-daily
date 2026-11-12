@@ -1,11 +1,54 @@
 {
  "site": "Muse 动态日报",
- "updated_at": "2026-11-12 22:57",
+ "updated_at": "2026-11-12 23:57",
  "days": [
   {
    "date": "2026-11-12",
    "weekday": "周四",
    "items": [
+    {
+     "id": "56f25537",
+     "kicker": "追赶者的新牌",
+     "category": "AI芯片",
+     "title": "MI455X 跑 DeepSeek-R1 比 Vera Rubin 快三成",
+     "body": "AMD 11月12日公布的[MI455X 在 Helios 上跑 DeepSeek-R1，每 GPU 每秒达 21,333 token](https://newsroom.amd.com/news/amd-advances-instinct-mi400-series-ai-scientific-computing/)。同日推出的 MI450X 每 GPU 配 288GB HBM4。",
+     "stats": [],
+     "source_url": "https://newsroom.amd.com/news/amd-advances-instinct-mi400-series-ai-scientific-computing/",
+     "image": "assets/2026-11-12/56f25537.jpg"
+    },
+    {
+     "id": "22db50ec",
+     "kicker": "同分不同价",
+     "category": "AI模型",
+     "title": "Gemini 4 Carbon 与 Claude Fable 5.2 在 MKA 上打平，成本低五到六倍",
+     "body": "[Claude Fable 5.2](https://www.techtimes.com/articles/330437/20261111/gemini-4-carbon-statistically-ties-claude-fable-52-mka-benchmark-five-six-times-lower-cost.htm)在谷歌 MKA 基准上以 56.56% 对 54.34% 领先 Gemini 4 Carbon，但报告把这点差距判为统计上打平。账单却不打平：Fable 每任务 35.28 美元，Carbon 只要 5.63 美元。",
+     "stats": [],
+     "source_url": "https://www.techtimes.com/articles/330437/20261111/gemini-4-carbon-statistically-ties-claude-fable-52-mka-benchmark-five-six-times-lower-cost.htm",
+     "image": "assets/2026-11-12/22db50ec.jpg"
+    },
+    {
+     "id": "fb644fd6",
+     "kicker": "挑模型，先算账",
+     "category": "AI应用",
+     "title": "豆包 Work 接入三款第三方模型",
+     "body": "[豆包 Work](https://www.kucoin.com/news/flash/dou-work-integrates-multiple-third-party-ai-models-with-transparent-cost-management) 11月12日把 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 三款第三方模型放进了选模型页。豆包 2.1 Lite 与 DeepSeek V4.1 Flash 的用量倍率限时降到 0.01x。",
+     "stats": [
+      {
+       "label": "Kimi K3.1 Pro",
+       "value": "0.95x"
+      },
+      {
+       "label": "GLM 5.3",
+       "value": "0.80x"
+      },
+      {
+       "label": "豆包 2.1 Pro",
+       "value": "0.65x"
+      }
+     ],
+     "source_url": "https://www.kucoin.com/news/flash/dou-work-integrates-multiple-third-party-ai-models-with-transparent-cost-management",
+     "image": "assets/2026-11-12/fb644fd6.jpg"
+    },
     {
      "id": "10b4013d",
      "kicker": "各管一摊",
