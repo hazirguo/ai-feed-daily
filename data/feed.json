@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-12 12:56",
+  "updated_at": "2026-11-12 13:56",
   "days": [
     {
       "date": "2026-11-12",
       "weekday": "周四",
       "items": [
+        {
+          "id": "4df8eb12",
+          "kicker": "战情室里的对峙",
+          "category": "AI政策",
+          "title": "特朗普三次批准打击英伟达芯片转运，卢特尼克拖着不执行",
+          "body": "11月5日，贝森特在白宫战情室当面问卢特尼克，被指转运英伟达芯片的 Megaspeed 为何还没列入实体清单。特朗普当晚拍板执行后，[限制至今仍未落地](https://www.news18.com/world/trump-approved-crackdown-on-nvidia-chip-diversions-to-china-3-times-whos-the-roadblock-howard-lutnick-ws-l-10422281.html)。",
+          "stats": [],
+          "source_url": "https://www.news18.com/world/trump-approved-crackdown-on-nvidia-chip-diversions-to-china-3-times-whos-the-roadblock-howard-lutnick-ws-l-10422281.html",
+          "image": "assets/2026-11-12/4df8eb12.jpg"
+        },
         {
           "id": "0bc95c21",
           "kicker": "试完就下线",
