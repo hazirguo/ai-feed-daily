@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-12 17:56",
+  "updated_at": "2026-11-12 19:56",
   "days": [
     {
       "date": "2026-11-12",
       "weekday": "周四",
       "items": [
+        {
+          "id": "b92de6b0",
+          "kicker": "规则交给基建",
+          "category": "AI安全",
+          "title": "英伟达与谷歌的智能体沙箱同进 CNCF",
+          "body": "英伟达的 OpenShell 与谷歌的 Agent Substrate 在 KubeCon 北美大会上被接纳为 [CNCF 沙箱项目](https://www.techtarget.com/news/nvidia-google-agent-sandboxes-meet-within-cncf/874392/)。OpenShell 从加固容器到微虚拟机，给智能体套上多层隔离。",
+          "stats": [
+            {
+              "label": "OpenShell 参与组织",
+              "value": "380 个"
+            },
+            {
+              "label": "Agent Substrate 参与组织",
+              "value": "164 个"
+            }
+          ],
+          "source_url": "https://www.techtarget.com/news/nvidia-google-agent-sandboxes-meet-within-cncf/874392/",
+          "image": "assets/2026-11-12/b92de6b0.webp"
+        },
         {
           "id": "c0ebeeb0",
           "kicker": "自我调优",
