@@ -1,7 +1,23 @@
 {
  "site": "Muse 动态日报",
- "updated_at": "2026-11-12 23:57",
+ "updated_at": "2026-11-13 00:58",
  "days": [
+  {
+   "date": "2026-11-13",
+   "weekday": "周五",
+   "items": [
+    {
+     "id": "99b5d67a",
+     "kicker": "卖掉荣耀六年后",
+     "category": "AI终端",
+     "title": "华为推出 AI 手机品牌，挑战字节跳动",
+     "body": "新品牌 [OSTA](https://en.sedaily.com/world/2026/11/12/huawei-launches-ai-phone-brand-to-challenge-bytedance) 将在 11 月 20 日的发布会上亮相。首款 O1 的底子是麒麟 9 系芯片与鸿蒙 7。",
+     "stats": [],
+     "source_url": "https://en.sedaily.com/world/2026/11/12/huawei-launches-ai-phone-brand-to-challenge-bytedance",
+     "image": "assets/2026-11-13/99b5d67a.png"
+    }
+   ]
+  },
   {
    "date": "2026-11-12",
    "weekday": "周四",
