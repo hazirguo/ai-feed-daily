@@ -1,11 +1,57 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-13 03:56",
+  "updated_at": "2026-11-13 04:56",
   "days": [
     {
       "date": "2026-11-13",
       "weekday": "周五",
       "items": [
+        {
+          "id": "53286593",
+          "kicker": "猫来了",
+          "category": "AI模型",
+          "title": "美团开源 LongCat-2.5：1.6T 智能体模型，MIT 协议",
+          "body": "美团把 [LongCat-2.5](https://www.neuraldaily.news/en/a/longcat-2-5-a-1-6t-open-agent-model-under-mit) 的权重放上了 Hugging Face，采用 MIT 协议。它在 Terminal-Bench 4.0 上只有 38.5 分，远落后于闭源前沿。",
+          "stats": [
+            {
+              "label": "每 token 激活",
+              "value": "约 480 亿"
+            },
+            {
+              "label": "Terminal-Bench v2.1",
+              "value": "88.4 分"
+            },
+            {
+              "label": "BrowseComp",
+              "value": "91.9 分"
+            },
+            {
+              "label": "Opus 5（Terminal-Bench 4.0）",
+              "value": "53.9 分"
+            }
+          ],
+          "source_url": "https://www.neuraldaily.news/en/a/longcat-2-5-a-1-6t-open-agent-model-under-mit",
+          "image": "assets/2026-11-13/53286593.png"
+        },
+        {
+          "id": "3791e6f5",
+          "kicker": "卖铲人下场",
+          "category": "AI资本",
+          "title": "台积电拟向 Anthropic 与 OpenAI 各投至多 5 亿美元",
+          "body": "台积电董事会 11 月 10 日批准，[向 Anthropic 与 OpenAI 各投至多 5 亿美元](https://madrobot.blog/2026/11/12/tsmc-invest-anthropic-openai-1-billion/)。两笔都只是上限而非已完成交易。",
+          "stats": [
+            {
+              "label": "Anthropic 发行价区间",
+              "value": "$70–$78"
+            },
+            {
+              "label": "预计定价",
+              "value": "11月18日"
+            }
+          ],
+          "source_url": "https://madrobot.blog/2026/11/12/tsmc-invest-anthropic-openai-1-billion/",
+          "image": "assets/2026-11-13/3791e6f5.jpg"
+        },
         {
           "id": "6caca505",
           "kicker": "CPU 回到前台",
