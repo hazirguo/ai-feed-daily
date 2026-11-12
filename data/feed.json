@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-12 07:56",
+  "updated_at": "2026-11-12 12:56",
   "days": [
     {
       "date": "2026-11-12",
       "weekday": "周四",
       "items": [
+        {
+          "id": "0bc95c21",
+          "kicker": "试完就下线",
+          "category": "AI模型",
+          "title": "Qwen4-Max 预览只开两周，11月25日下线",
+          "body": "[Qwen4-Max 预览](https://ai-tldr.dev/releases/qwen-qwen4-max-preview/)只在 Token Plan 里开放，11 月 11 日 10 时起到 11 月 25 日 24 时，到期下线。\n它给到 100 万 token 上下文，最高输出 393,216 token，与思考共用同一额度。",
+          "stats": [],
+          "source_url": "https://ai-tldr.dev/releases/qwen-qwen4-max-preview/",
+          "image": ""
+        },
         {
           "id": "930b7dd3",
           "kicker": "风险先通气",
