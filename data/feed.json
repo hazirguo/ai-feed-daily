@@ -1,11 +1,40 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-12 13:56",
+  "updated_at": "2026-11-12 15:56",
   "days": [
     {
       "date": "2026-11-12",
       "weekday": "周四",
       "items": [
+        {
+          "id": "e29d06af",
+          "kicker": "追赶者的时间表",
+          "category": "AI应用",
+          "title": "字节跳动准备推出类 Muse 助手，追赶美国顶尖实验室",
+          "body": "字节跳动计划在未来几周推出一款类似 Muse 的 [AI 助手](https://www.japantimes.co.jp/business/2026/11/12/tech/bytedance-muse-agent-ai-gap/)。张一鸣在内部全员会上说，字节跳动要到 2029 或 2030 年才能在前沿上与 Anthropic、OpenAI 竞争。",
+          "stats": [],
+          "source_url": "https://www.japantimes.co.jp/business/2026/11/12/tech/bytedance-muse-agent-ai-gap/",
+          "image": "assets/2026-11-12/e29d06af.jpg"
+        },
+        {
+          "id": "9a3b2ce8",
+          "kicker": "为选择打分",
+          "category": "AI模型",
+          "title": "谷歌推出 Gemini Decisions API",
+          "body": "Gemini Decision 1 只做一件事：对是否、选择或打分这类问题一次给出分数和置信度。通过[Gemini Decisions API](https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/)，它一次能对同一份多模态输入回答最多 1000 个问题。",
+          "stats": [
+            {
+              "label": "价格",
+              "value": "$0.10 / 百万输入 token，输出免费"
+            },
+            {
+              "label": "端到端延迟",
+              "value": "150–250 毫秒"
+            }
+          ],
+          "source_url": "https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/",
+          "image": "assets/2026-11-12/9a3b2ce8.png"
+        },
         {
           "id": "4df8eb12",
           "kicker": "战情室里的对峙",
