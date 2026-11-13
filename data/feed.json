@@ -1,11 +1,40 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-13 11:57",
+  "updated_at": "2026-11-13 13:58",
   "days": [
     {
       "date": "2026-11-13",
       "weekday": "周五",
       "items": [
+        {
+          "id": "d432de5c",
+          "kicker": "攻防交给模型",
+          "category": "AI安全",
+          "title": "OpenAI 推出 Daybreak 安全产品",
+          "body": "11 月 12 日，[Red Team](https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500) 开放早期访问，用模型对企业 Web 应用做渗透测试。Defense Factory 则把发现漏洞、验证和打补丁交给基于 GPT-6 Cyber 的智能体，补丁仍须工程师审核后才能上线。",
+          "stats": [],
+          "source_url": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
+          "image": ""
+        },
+        {
+          "id": "841f4c26",
+          "kicker": "戴上 Gemini",
+          "category": "AI终端",
+          "title": "谷歌智能眼镜开启预订，仅限美韩",
+          "body": "谷歌与三星的[智能眼镜](https://eftm.com/2026/11/intelligent-eyewear-google-and-samsungs-first-android-xr-glasses-now-available-to-pre-order-in-the-us-and-korea-283382)已在美国和韩国开启预订，Warby Parker 款 395 美元起。路人面部在送交 Gemini 前会被打码。",
+          "stats": [
+            {
+              "label": "Gentle Monster 款起售价",
+              "value": "$449"
+            },
+            {
+              "label": "正式发售",
+              "value": "12 月 10 日"
+            }
+          ],
+          "source_url": "https://eftm.com/2026/11/intelligent-eyewear-google-and-samsungs-first-android-xr-glasses-now-available-to-pre-order-in-the-us-and-korea-283382",
+          "image": "assets/2026-11-13/841f4c26.jpg"
+        },
         {
           "id": "5f44b0b0",
           "kicker": "失控之争上法庭",
