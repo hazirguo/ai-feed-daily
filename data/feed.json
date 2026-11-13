@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-13 17:56",
+  "updated_at": "2026-11-13 19:56",
   "days": [
     {
       "date": "2026-11-13",
       "weekday": "周五",
       "items": [
+        {
+          "id": "32aaccf4",
+          "kicker": "英伟达换帅之后",
+          "category": "AI芯片",
+          "title": "Kress 首封员工信：英伟达正处非常艰难时期",
+          "body": "11 月 17 日，[英伟达](https://timesofindia.indiatimes.com/technology/tech-news/colette-kress-sends-her-first-email-to-employees-as-nvidia-interim-ceo-after-jensen-huangs-resignation-more-than-anything-i-believe-in-/articleshow/135798282.cms)先交出 2027 财年第三季度财报。临时 CEO Colette Kress 则在次日主持全员会，向员工交代公司未来。",
+          "stats": [],
+          "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/colette-kress-sends-her-first-email-to-employees-as-nvidia-interim-ceo-after-jensen-huangs-resignation-more-than-anything-i-believe-in-/articleshow/135798282.cms",
+          "image": "assets/2026-11-13/32aaccf4.png"
+        },
         {
           "id": "f0be8fe3",
           "kicker": "权重里的指纹",
