@@ -1,7 +1,23 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-13 23:55",
+  "updated_at": "2026-11-14 01:55",
   "days": [
+    {
+      "date": "2026-11-14",
+      "weekday": "周六",
+      "items": [
+        {
+          "id": "048d6ff3",
+          "kicker": "离任之后",
+          "category": "AI芯片",
+          "title": "超 30 亿美元在华 AI 项目因黄仁勋离任受威胁",
+          "body": "[路透核查](https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/)了 150 多份中国采购公告与投资计划，发现超 230 亿元人民币的算力项目围绕受限的英伟达芯片建设。管制一旦收紧，这些项目可能面临延误、断供，或被迫改用国产芯片重新设计。",
+          "stats": [],
+          "source_url": "https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/",
+          "image": "assets/2026-11-14/048d6ff3.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-11-13",
       "weekday": "周五",
