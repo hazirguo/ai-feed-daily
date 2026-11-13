@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-13 23:00",
+  "updated_at": "2026-11-13 23:55",
   "days": [
     {
       "date": "2026-11-13",
       "weekday": "周五",
       "items": [
+        {
+          "id": "b4a0698e",
+          "kicker": "走进车间",
+          "category": "AI应用",
+          "title": "Claude 进工厂：为产线团队做的 AI 插件",
+          "body": "Anthropic 推出了 [Claude for Manufacturing](https://claude.com/resources/articles/claude-for-manufacturing)，17 项技能接通 Autodesk Fusion、Infor、Microsoft 365 与 Oracle NetSuite。11 月 17 日上午 11 点（美东时间）有一场技术演示，现场展示这套插件如何工作。",
+          "stats": [],
+          "source_url": "https://claude.com/resources/articles/claude-for-manufacturing",
+          "image": "assets/2026-11-13/b4a0698e.png"
+        },
         {
           "id": "d19957b5",
           "kicker": "模型当起了数学家",
