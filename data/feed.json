@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-14 04:57",
+  "updated_at": "2026-11-14 05:58",
   "days": [
     {
       "date": "2026-11-14",
       "weekday": "周六",
       "items": [
+        {
+          "id": "dd57777a",
+          "kicker": "进会干活",
+          "category": "AI应用",
+          "title": "Claude Meetings 开启测试版",
+          "body": "11 月 12 日，[Claude Meetings](https://claude.com/resources/articles/claude-meetings) 在 Team 与 Enterprise 计划上开启测试版，Claude 以可见参会者的身份加入视频会议。会中它写纪要和待办事项，还能现场建文档和白板。",
+          "stats": [],
+          "source_url": "https://claude.com/resources/articles/claude-meetings",
+          "image": ""
+        },
         {
           "id": "0142cec1",
           "kicker": "开源推理结盟",
