@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-13 13:58",
+  "updated_at": "2026-11-13 16:56",
   "days": [
     {
       "date": "2026-11-13",
       "weekday": "周五",
       "items": [
+        {
+          "id": "78a17a75",
+          "kicker": "砸钱建超算",
+          "category": "AI基建",
+          "title": "SpaceX 拟投超 740 亿美元建两座 AI 超算园区",
+          "body": "[SpaceX](https://www.thehindubusinessline.com/info-tech/spacex-announces-over-74-billion-investment-in-texas-arizona-supercomputing-campuses/article71696472.ece)把两座 AI 超算园区分别落在得州 Starbase 和亚利桑那州科奇斯县。两地的地方审议都定在 12 月 9 日。",
+          "stats": [
+            {
+              "label": "得州 Starbase",
+              "value": "超 240 亿美元"
+            },
+            {
+              "label": "亚利桑那州",
+              "value": "约 500 亿美元"
+            }
+          ],
+          "source_url": "https://www.thehindubusinessline.com/info-tech/spacex-announces-over-74-billion-investment-in-texas-arizona-supercomputing-campuses/article71696472.ece",
+          "image": "assets/2026-11-13/78a17a75.jpg"
+        },
         {
           "id": "d432de5c",
           "kicker": "攻防交给模型",
