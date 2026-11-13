@@ -1,11 +1,40 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-13 08:55",
+  "updated_at": "2026-11-13 09:57",
   "days": [
     {
       "date": "2026-11-13",
       "weekday": "周五",
       "items": [
+        {
+          "id": "268c1827",
+          "kicker": "控制面也搬进来",
+          "category": "AI安全",
+          "title": "Claude Managed Agents 可在企业安全边界内自托管",
+          "body": "Anthropic 11 月 12 日把自托管版 [Claude Managed Agents](https://claude.com/resources/articles/self-hosted-claude-managed-agents) 放进私人测试，整套服务都能跑在企业自己的云或本地。模型本身不搬进来，调用仍发往 Anthropic 或自选的云提供方。",
+          "stats": [],
+          "source_url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+          "image": "assets/2026-11-13/268c1827.webp"
+        },
+        {
+          "id": "1e630254",
+          "kicker": "33年执掌落幕",
+          "category": "AI芯片",
+          "title": "黄仁勋即时辞职，CFO克雷斯任临时CEO",
+          "body": "[英伟达董事会11月12日宣布](https://www.tradingview.com/news/globenewswire:d219e6916094b:0-nvidia-announces-ceo-transition/)，联合创始人黄仁勋已辞去总裁、首席执行官及董事职务，即时生效。董事会同时任命哈维·C·琼斯为公司史上首任董事会主席。",
+          "stats": [
+            {
+              "label": "执掌时长",
+              "value": "33年"
+            },
+            {
+              "label": "财报",
+              "value": "2027财年Q3，11月17日按期发布"
+            }
+          ],
+          "source_url": "https://www.tradingview.com/news/globenewswire:d219e6916094b:0-nvidia-announces-ceo-transition/",
+          "image": ""
+        },
         {
           "id": "e2443aa3",
           "kicker": "伦敦来的挑战者",
