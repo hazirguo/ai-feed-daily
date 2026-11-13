@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-13 09:57",
+  "updated_at": "2026-11-13 11:57",
   "days": [
     {
       "date": "2026-11-13",
       "weekday": "周五",
       "items": [
+        {
+          "id": "5f44b0b0",
+          "kicker": "失控之争上法庭",
+          "category": "AI政策",
+          "title": "OpenAI、谷歌、Anthropic 等被诉，要求冻结前沿模型开发",
+          "body": "四家非营利组织周四在旧金山[起诉](https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/) OpenAI、Anthropic、谷歌、Meta 与 SpaceX 的 AI 部门，要求冻结比现有模型更强的系统开发。目前法院尚未下达任何禁令。",
+          "stats": [],
+          "source_url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/",
+          "image": "assets/2026-11-13/5f44b0b0.webp"
+        },
         {
           "id": "268c1827",
           "kicker": "控制面也搬进来",
