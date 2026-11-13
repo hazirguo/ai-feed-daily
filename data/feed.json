@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-14 01:55",
+  "updated_at": "2026-11-14 04:57",
   "days": [
     {
       "date": "2026-11-14",
       "weekday": "周六",
       "items": [
+        {
+          "id": "0142cec1",
+          "kicker": "开源推理结盟",
+          "category": "AI基建",
+          "title": "LMSYS 牵头成立 SGLang 联盟，八家巨头共推开源推理",
+          "body": "11 月 12 日，LMSYS Org 在首届 SGLang 峰会上成立了 SGLang 联盟，英伟达、AMD、英特尔、谷歌与 Meta 等八家公司是创始成员（[公告](https://www.businesswire.com/news/home/20261112052367/en/LMSYS-Org-Launches-SGLang-Consortium-with-NVIDIA-AMD-Intel-Google-Meta-Cloudflare-Modal-and-RadixArk-to-Advance-Open-Source-AI-Inference)）。据德勤估计，推理将占 2026 年全部 AI 算力的约三分之二，高于 2025 年的约一半。",
+          "stats": [],
+          "source_url": "https://www.businesswire.com/news/home/20261112052367/en/LMSYS-Org-Launches-SGLang-Consortium-with-NVIDIA-AMD-Intel-Google-Meta-Cloudflare-Modal-and-RadixArk-to-Advance-Open-Source-AI-Inference",
+          "image": ""
+        },
         {
           "id": "048d6ff3",
           "kicker": "离任之后",
