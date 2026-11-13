@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-13 16:56",
+  "updated_at": "2026-11-13 17:56",
   "days": [
     {
       "date": "2026-11-13",
       "weekday": "周五",
       "items": [
+        {
+          "id": "f0be8fe3",
+          "kicker": "权重里的指纹",
+          "category": "AI政策",
+          "title": "六款中国模型被指用了受限 Blackwell 芯片",
+          "body": "11 月 12 日的一份[取证分析](https://dataconomy.com/2026/11/13/forensic-analysis-links-chinese-ai-models-to-restricted/)称，六款中国模型的初始权重带着受管制的 Blackwell 芯片的痕迹。报告也承认，这只能说明初始权重出自哪种芯片，定不了芯片在哪、又是怎么来的。",
+          "stats": [],
+          "source_url": "https://dataconomy.com/2026/11/13/forensic-analysis-links-chinese-ai-models-to-restricted/",
+          "image": ""
+        },
         {
           "id": "78a17a75",
           "kicker": "砸钱建超算",
