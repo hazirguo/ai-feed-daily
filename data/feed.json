@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-13 19:56",
+  "updated_at": "2026-11-13 23:00",
   "days": [
     {
       "date": "2026-11-13",
       "weekday": "周五",
       "items": [
+        {
+          "id": "d19957b5",
+          "kicker": "模型当起了数学家",
+          "category": "AI模型",
+          "title": "Kimi K3 以 630 条边的图刷新图论纪录",
+          "body": "11月5日发表的[TCSExam 论文](https://arxiv.org/abs/2611.07962v1)里，这张 124 个顶点的图不含三角形与四边形，构造通过了独立验证。同一份满分榜上，GPT-6 Astra 以 71.9 分领先。",
+          "stats": [
+            {
+              "label": "旧纪录",
+              "value": "629 条边"
+            },
+            {
+              "label": "Kimi K3.1 Pro",
+              "value": "57.4 分"
+            }
+          ],
+          "source_url": "https://arxiv.org/abs/2611.07962v1",
+          "image": "assets/2026-11-13/d19957b5.png"
+        },
         {
           "id": "32aaccf4",
           "kicker": "英伟达换帅之后",
