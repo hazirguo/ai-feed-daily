@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-14 05:58",
+  "updated_at": "2026-11-14 07:56",
   "days": [
     {
       "date": "2026-11-14",
       "weekday": "周六",
       "items": [
+        {
+          "id": "faaa425a",
+          "kicker": "内阁公开翻脸",
+          "category": "AI政策",
+          "title": "贝森特指责商务部拖延限制英伟达芯片输华",
+          "body": "美国财长贝森特周五在 [CNBC 上](https://www.koreatimes.co.kr/world/20261114/bessent-blames-lutnicks-commerce-department-for-not-restricting-nvidia-chips-to-china)公开指责商务部，迟迟不把 Megaspeed 列入出口管制名单。他说特朗普已明确表示，中国不应获得高于 H100 的英伟达芯片。",
+          "stats": [],
+          "source_url": "https://www.koreatimes.co.kr/world/20261114/bessent-blames-lutnicks-commerce-department-for-not-restricting-nvidia-chips-to-china",
+          "image": ""
+        },
         {
           "id": "dd57777a",
           "kicker": "进会干活",
