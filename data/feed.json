@@ -1,11 +1,46 @@
 {
  "site": "Muse 动态日报",
- "updated_at": "2026-11-13 05:56",
+ "updated_at": "2026-11-13 08:01",
  "days": [
   {
    "date": "2026-11-13",
    "weekday": "周五",
    "items": [
+    {
+     "id": "d01c75c5",
+     "kicker": "智能体住进软件里",
+     "category": "AI应用",
+     "title": "Adobe 预告第三方智能体直改本地创意文件",
+     "body": "[Adobe 在 MAX 2026 上预告了本地 MCP 集成](https://www.techtimes.com/articles/330572/20261112/adobe-max-2026-recap-firefly-gets-planning-mode-creative-cloud-goes-open-agentic-ai-takes-over.htm)，第三方智能体可以直接改本地 Photoshop、Illustrator、Premiere 与 After Effects 的原生文件。私人测试版计划在 2027 年初开启。",
+     "stats": [],
+     "source_url": "https://www.techtimes.com/articles/330572/20261112/adobe-max-2026-recap-firefly-gets-planning-mode-creative-cloud-goes-open-agentic-ai-takes-over.htm",
+     "image": "assets/2026-11-13/d01c75c5.png"
+    },
+    {
+     "id": "13a37cbd",
+     "kicker": "注入直达发布链",
+     "category": "AI安全",
+     "title": "提示词注入打通 Codex 官方 npm 发布链路",
+     "body": "[Depi 公布的链条](https://promtime.net/p/en/post/prompt-injection-reached-the-official-codex-npm-pipeline)从 OpenAI 自家工作流里一条 Issue 的提示词注入出发，最终拿到了发布官方 @openai/codex npm 包的签名凭证。OpenAI 已修复核心问题。",
+     "stats": [],
+     "source_url": "https://promtime.net/p/en/post/prompt-injection-reached-the-official-codex-npm-pipeline",
+     "image": ""
+    },
+    {
+     "id": "9e46b0dd",
+     "kicker": "接班 Flash",
+     "category": "AI模型",
+     "title": "谷歌推出 Gemini 4 Hydrogen，主打智能体工作流",
+     "body": "[Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)定价为每百万输入 token 1.50 美元、每百万输出 token 7.50 美元。在默认高思考档位下，它比 Gemini 3.8 Flash 快 2.5 倍。",
+     "stats": [
+      {
+       "label": "Terminal-Bench 4.1",
+       "value": "57%，3.8 Flash 为 18.2%"
+      }
+     ],
+     "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+     "image": "assets/2026-11-13/9e46b0dd.jpg"
+    },
     {
      "id": "6897f451",
      "kicker": "风向变了",
