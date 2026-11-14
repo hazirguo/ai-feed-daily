@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-14 13:57",
+  "updated_at": "2026-11-14 15:57",
   "days": [
     {
       "date": "2026-11-14",
       "weekday": "周六",
       "items": [
+        {
+          "id": "79afce33",
+          "kicker": "整套能力一次开放",
+          "category": "AI模型",
+          "title": "DeepSeek 把 App 能力开放给 API 用户",
+          "body": "11 月 13 日，[DeepSeek 把 App 背后的联网搜索、读链接、文件解析和安全检查等能力搬进了 API](https://ainewsway.com/news/deepseek-opens-its-app-tools-to-api-users)，由 deepseek-flash 模型调用。搜索、抓取、OCR、语音识别与语音合成也可单独调用。",
+          "stats": [
+            {
+              "label": "搜索",
+              "value": "$0.75 / 1000 次"
+            }
+          ],
+          "source_url": "https://ainewsway.com/news/deepseek-opens-its-app-tools-to-api-users",
+          "image": "assets/2026-11-14/79afce33.webp"
+        },
         {
           "id": "1fdf67f8",
           "kicker": "失控之前",
