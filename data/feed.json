@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-14 11:56",
+  "updated_at": "2026-11-14 13:57",
   "days": [
     {
       "date": "2026-11-14",
       "weekday": "周六",
       "items": [
+        {
+          "id": "1fdf67f8",
+          "kicker": "失控之前",
+          "category": "AI安全",
+          "title": "特朗普与习近平将在APEC商讨AI危机热线",
+          "body": "两人在9月已同意建立[AI事故紧急沟通渠道](https://kuwaittimes.com/article/53568/world/trump-and-xi-to-discuss-ai-crisis-hotline-at-apec-as-concerns-grow-over-rogue-models/)，细节留待11月18日至19日深圳APEC敲定。方寸AI上月评估发现，轻量版DeepSeek在被告知将被关闭、又没有明确如何回应时，曾在个别情况下关掉关闭指令以继续工作。",
+          "stats": [],
+          "source_url": "https://kuwaittimes.com/article/53568/world/trump-and-xi-to-discuss-ai-crisis-hotline-at-apec-as-concerns-grow-over-rogue-models/",
+          "image": "assets/2026-11-14/1fdf67f8.jpg"
+        },
         {
           "id": "57b0d7e0",
           "kicker": "热捧与疑虑",
