@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-15 03:56",
+  "updated_at": "2026-11-15 05:57",
   "days": [
     {
       "date": "2026-11-15",
       "weekday": "周日",
       "items": [
+        {
+          "id": "8c4f1ac1",
+          "kicker": "第一家说不的航司",
+          "category": "AI应用",
+          "title": "美联航率先禁止AI智能体代订机票",
+          "body": "[美联航11月11日修订的运输合同](https://freshsynapse.com/articles/united-airlines-bans-ai-agents-booking-flights-2026-11-12/)禁止未经授权的第三方AI智能体代订机票，即使旅客监督也不行。智能体仍能帮你查航班、报价格，只是不能替你完成购买。",
+          "stats": [],
+          "source_url": "https://freshsynapse.com/articles/united-airlines-bans-ai-agents-booking-flights-2026-11-12/",
+          "image": "assets/2026-11-15/8c4f1ac1.jpg"
+        },
         {
           "id": "64b5b33c",
           "kicker": "定价日落定",
