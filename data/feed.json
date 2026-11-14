@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-14 17:56",
+  "updated_at": "2026-11-14 19:56",
   "days": [
     {
       "date": "2026-11-14",
       "weekday": "周六",
       "items": [
+        {
+          "id": "8fd07f0e",
+          "kicker": "断网一整天",
+          "category": "AI基建",
+          "title": "微软 365 断网超 24 小时，Outlook 与 Teams 已恢复",
+          "body": "微软周六表示，已完成对根本问题的处理，[Outlook、Teams 与 Copilot 重新上线](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-365-outage-ends-after-over-24-hours-outlook-teams-restored-as-company-says-underlying-issue-addressed/articleshow/135825217.cms)。这次故障源于一次早期的网络扩容升级，在最近的网络变更后才暴露出来。",
+          "stats": [],
+          "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-365-outage-ends-after-over-24-hours-outlook-teams-restored-as-company-says-underlying-issue-addressed/articleshow/135825217.cms",
+          "image": "assets/2026-11-14/8fd07f0e.jpg"
+        },
         {
           "id": "5dbacd09",
           "kicker": "Siri 先上屏",
