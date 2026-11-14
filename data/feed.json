@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-14 19:56",
+  "updated_at": "2026-11-14 21:57",
   "days": [
     {
       "date": "2026-11-14",
       "weekday": "周六",
       "items": [
+        {
+          "id": "1681205b",
+          "kicker": "半价只剩两周",
+          "category": "AI模型",
+          "title": "Gemini 4 Carbon 12月1日起涨价一倍",
+          "body": "[Google 的定价页](https://ai.google.dev/gemini-api/docs/pricing)把 Gemini 4 Carbon 的优惠价定到 11 月 30 日为止。Argon 走同一张价目表，12 月 1 日起同样涨价。",
+          "stats": [
+            {
+              "label": "输入 / 百万 token",
+              "value": "$2 → $4"
+            },
+            {
+              "label": "输出 / 百万 token",
+              "value": "$10 → $20"
+            }
+          ],
+          "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+          "image": ""
+        },
         {
           "id": "8fd07f0e",
           "kicker": "断网一整天",
