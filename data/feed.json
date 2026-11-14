@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-15 01:57",
+  "updated_at": "2026-11-15 03:56",
   "days": [
     {
       "date": "2026-11-15",
       "weekday": "周日",
       "items": [
+        {
+          "id": "64b5b33c",
+          "kicker": "定价日落定",
+          "category": "AI资本",
+          "title": "Anthropic 11月19日纳斯达克上市，代码ANT，每股70至78美元",
+          "body": "Anthropic 的上市页面把[定价日定在 11 月 18 日](https://www.fork.zone/p/1376/when-is-the-anthropic-ipo-nov-19-nasdaq-debut-as-ant-70-to)。按区间顶端算，这笔交易募资约 644 亿美元。",
+          "stats": [
+            {
+              "label": "发行股数",
+              "value": "8.25亿股"
+            },
+            {
+              "label": "估值上限",
+              "value": "约1.4万亿美元"
+            }
+          ],
+          "source_url": "https://www.fork.zone/p/1376/when-is-the-anthropic-ipo-nov-19-nasdaq-debut-as-ant-70-to",
+          "image": ""
+        },
         {
           "id": "a8307760",
           "kicker": "本地模型换芯",
