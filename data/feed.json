@@ -1,11 +1,45 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-14 16:56",
+  "updated_at": "2026-11-14 17:56",
   "days": [
     {
       "date": "2026-11-14",
       "weekday": "周六",
       "items": [
+        {
+          "id": "5dbacd09",
+          "kicker": "Siri 先上屏",
+          "category": "AI终端",
+          "title": "苹果 HomeView 开卖，299 美元，欧盟无缘",
+          "body": "[HomeView 首批只在七个国家开卖](https://aiweekly.co/alerts/apple-ships-299-homeview-smart-display-skips-eu-on-siri-ai)。欧盟不在其中，因为 Siri AI 在当地 iOS 上还不可用。",
+          "stats": [
+            {
+              "label": "屏幕",
+              "value": "7 英寸 Liquid Retina"
+            },
+            {
+              "label": "面部识别",
+              "value": "最多 6 人"
+            }
+          ],
+          "source_url": "https://aiweekly.co/alerts/apple-ships-299-homeview-smart-display-skips-eu-on-siri-ai",
+          "image": "assets/2026-11-14/5dbacd09.jpg"
+        },
+        {
+          "id": "8e0705cd",
+          "kicker": "代付不交卡",
+          "category": "AI应用",
+          "title": "OpenAI 推出 ChatGPT Wallet，智能体可代付",
+          "body": "[ChatGPT Wallet](https://www.thehindubusinessline.com/info-tech/openai-expands-into-payments-with-chatgpt-wallet-allowing-ai-agents-to-make-purchases-using-users-cards/article71700851.ece) 让 OpenAI 的 dots 智能体在用户批准后代为下单。支付网络会生成一张替代卡号，真实卡号既不交给智能体，也不交给商家。",
+          "stats": [
+            {
+              "label": "首批范围",
+              "value": "美国 Pro 用户，18 岁以上"
+            }
+          ],
+          "source_url": "https://www.thehindubusinessline.com/info-tech/openai-expands-into-payments-with-chatgpt-wallet-allowing-ai-agents-to-make-purchases-using-users-cards/article71700851.ece",
+          "image": "assets/2026-11-14/8e0705cd.jpg"
+        },
         {
           "id": "1bd93e10",
           "kicker": "冷却也值钱",
