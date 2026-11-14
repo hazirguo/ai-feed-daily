@@ -1,7 +1,36 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-14 23:57",
+  "updated_at": "2026-11-15 01:57",
   "days": [
+    {
+      "date": "2026-11-15",
+      "weekday": "周日",
+      "items": [
+        {
+          "id": "a8307760",
+          "kicker": "本地模型换芯",
+          "category": "AI模型",
+          "title": "微软 Aion 接替 Phi Silica，本地 AI 扩到 GPU",
+          "body": "微软的新本地模型 [Aion Instruct](https://devblogs.microsoft.com/foundry-on-windows/aion-instruct-local-ai-windows-gpu/) 把上下文上限从 3.5K 扩到 32K。它还扩到了英伟达 RTX 与 AMD RDNA4 等支持的 GPU 上，让更多 Windows 设备能本地跑语言模型。",
+          "stats": [
+            {
+              "label": "参数",
+              "value": "3.8B → 2.3B"
+            },
+            {
+              "label": "Insider 预览",
+              "value": "11 月 20 日"
+            },
+            {
+              "label": "零售版",
+              "value": "2027 年 1 月"
+            }
+          ],
+          "source_url": "https://devblogs.microsoft.com/foundry-on-windows/aion-instruct-local-ai-windows-gpu/",
+          "image": ""
+        }
+      ]
+    },
     {
       "date": "2026-11-14",
       "weekday": "周六",
