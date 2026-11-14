@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-14 09:56",
+  "updated_at": "2026-11-14 11:56",
   "days": [
     {
       "date": "2026-11-14",
       "weekday": "周六",
       "items": [
+        {
+          "id": "57b0d7e0",
+          "kicker": "热捧与疑虑",
+          "category": "AI资本",
+          "title": "投资者涌向 Anthropic IPO，却质疑其 AI 领先能撑多久",
+          "body": "路演将持续到下周三，届时预计[为这笔 640 亿美元的交易定价](https://www.reuters.com/business/finance/investors-flock-anthropic-ipo-question-durability-ai-lead-2026-11-13/)。与此同时，投资者在追问 Claude 能否把领先从编程扩展到更广的知识工作市场。",
+          "stats": [
+            {
+              "label": "2028 年营收预估",
+              "value": "约 2700 亿–2800 亿美元"
+            }
+          ],
+          "source_url": "https://www.reuters.com/business/finance/investors-flock-anthropic-ipo-question-durability-ai-lead-2026-11-13/",
+          "image": ""
+        },
         {
           "id": "81808068",
           "kicker": "电话交给它",
