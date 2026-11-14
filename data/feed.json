@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-14 07:56",
+  "updated_at": "2026-11-14 09:56",
   "days": [
     {
       "date": "2026-11-14",
       "weekday": "周六",
       "items": [
+        {
+          "id": "81808068",
+          "kicker": "电话交给它",
+          "category": "AI应用",
+          "title": "Meta Muse 开始替付费用户打电话",
+          "body": "11 月 12 日，Meta 首席 AI 官 Alexandr Wang 宣布，Muse 现在可以[替美国付费订阅用户给商家打电话](https://www.digitaltrends.com/computing/meta-muse-ai-phone-calls-paid-subscription/)。想用它，得先订每月 20 美元的 Power 套餐。",
+          "stats": [],
+          "source_url": "https://www.digitaltrends.com/computing/meta-muse-ai-phone-calls-paid-subscription/",
+          "image": "assets/2026-11-14/81808068.jpg"
+        },
         {
           "id": "faaa425a",
           "kicker": "内阁公开翻脸",
