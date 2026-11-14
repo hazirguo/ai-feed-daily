@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-14 15:57",
+  "updated_at": "2026-11-14 16:56",
   "days": [
     {
       "date": "2026-11-14",
       "weekday": "周六",
       "items": [
+        {
+          "id": "1bd93e10",
+          "kicker": "冷却也值钱",
+          "category": "AI基建",
+          "title": "传三星洽购后，Modine 股价创六年最大涨幅",
+          "body": "[Modine 股价周五收涨 28%](https://www.moneycontrol.com/news/business/modine-shares-gain-most-in-6-years-after-samsung-buyout-talks-14079908.html/amp)，创 2020 年以来最大单日涨幅。彭博报道称，三星与 Modine 的收购谈判可能在未来几周内达成，但也可能出现其他竞购方。",
+          "stats": [],
+          "source_url": "https://www.moneycontrol.com/news/business/modine-shares-gain-most-in-6-years-after-samsung-buyout-talks-14079908.html/amp",
+          "image": ""
+        },
         {
           "id": "79afce33",
           "kicker": "整套能力一次开放",
