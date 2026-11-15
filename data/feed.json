@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-16 03:57",
+  "updated_at": "2026-11-16 06:58",
   "days": [
     {
       "date": "2026-11-16",
       "weekday": "周一",
       "items": [
+        {
+          "id": "0fcc3cf9",
+          "kicker": "别让它替你选",
+          "category": "AI编程",
+          "title": "Copilot 今天撤下三款模型",
+          "body": "这份 11月6日刊出的清单今天到期，[Copilot](https://www.devdaynotes.com/code/copilot-models-retire-november-16/)在全部使用场景里撤下 Claude Opus 4.8、Opus 5 与 GPT-5.6 Terra，替补是 Opus 5.5 与 GPT-6.1 Sol 或 Luna。Terra 的替补最难选，GPT-6.1 Luna 的标价只有 Sol 的二十分之一，却是另一档模型。",
+          "stats": [],
+          "source_url": "https://www.devdaynotes.com/code/copilot-models-retire-november-16/",
+          "image": "assets/2026-11-16/0fcc3cf9.jpg"
+        },
         {
           "id": "75402860",
           "kicker": "旧东家的新客户",
