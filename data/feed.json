@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-16 02:58",
+  "updated_at": "2026-11-16 03:57",
   "days": [
     {
       "date": "2026-11-16",
       "weekday": "周一",
       "items": [
+        {
+          "id": "75402860",
+          "kicker": "旧东家的新客户",
+          "category": "AI政策",
+          "title": "卢特尼克推动放宽芯片管制",
+          "body": "纽约时报11月15日的调查指出，卢特尼克[推动放宽境外数据中心向中国公司出租英伟达芯片算力的管制](https://shiftdelete.net/en/howard-lutnick-chip-rules)。其中一些数据中心是他曾执掌的 Cantor Fitzgerald 的客户。",
+          "stats": [],
+          "source_url": "https://shiftdelete.net/en/howard-lutnick-chip-rules",
+          "image": "assets/2026-11-16/75402860.jpg"
+        },
         {
           "id": "9839c638",
           "kicker": "换帅后的首考",
