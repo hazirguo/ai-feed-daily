@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-15 13:57",
+  "updated_at": "2026-11-15 15:57",
   "days": [
     {
       "date": "2026-11-15",
       "weekday": "周日",
       "items": [
+        {
+          "id": "abb48482",
+          "kicker": "换帅之后",
+          "category": "AI芯片",
+          "title": "韩国26万块GPU供货计划照常推进",
+          "body": "韩国政府周五与英伟达开会确认，[26万块GPU供货计划](https://biz.heraldcorp.com/article/10936656)将按原计划推进。政府直接采购的部分已到货约2.1万块B200等效算力。",
+          "stats": [
+            {
+              "label": "剩余到货",
+              "value": "约1.4万块，明年初"
+            }
+          ],
+          "source_url": "https://biz.heraldcorp.com/article/10936656",
+          "image": "assets/2026-11-15/abb48482.jpg"
+        },
         {
           "id": "e66cee1a",
           "kicker": "机器人不再单独立项",
