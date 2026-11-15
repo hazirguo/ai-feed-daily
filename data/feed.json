@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-15 17:57",
+  "updated_at": "2026-11-15 19:57",
   "days": [
     {
       "date": "2026-11-15",
       "weekday": "周日",
       "items": [
+        {
+          "id": "91b80df9",
+          "kicker": "单卡压大模型",
+          "category": "AI基建",
+          "title": "华为 MACaQ 64 分钟把 122B 模型压到 4-bit",
+          "body": "[华为开源的 MACaQ](https://ainewsway.com/news/huawei-quantizes-122b-model-in-64-minutes)把 Qwen3.5-122B-A10B 压到 4-bit 只用了 64 分钟。不过这些数字都出自华为自己的论文与 README，尚未有实验室之外的复现。",
+          "stats": [
+            {
+              "label": "峰值显存",
+              "value": "32.5GB"
+            },
+            {
+              "label": "量化用卡",
+              "value": "96GB"
+            }
+          ],
+          "source_url": "https://ainewsway.com/news/huawei-quantizes-122b-model-in-64-minutes",
+          "image": "assets/2026-11-15/91b80df9.webp"
+        },
         {
           "id": "e9e35110",
           "kicker": "两周试用窗口",
