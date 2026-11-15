@@ -1,11 +1,34 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-15 15:57",
+  "updated_at": "2026-11-15 17:57",
   "days": [
     {
       "date": "2026-11-15",
       "weekday": "周日",
       "items": [
+        {
+          "id": "e9e35110",
+          "kicker": "两周试用窗口",
+          "category": "AI模型",
+          "title": "Qwen4-Max 预览到11月25日，3美元可试用",
+          "body": "[Qwen4-Max 预览](https://enjoy.dev/blog/qwen4-max-preview/)只走 Token Plan，新用户3美元就能开 Lite 试用。预览期内调用只按标准费率的20%计费。",
+          "stats": [
+            {
+              "label": "Lite 月费",
+              "value": "$6"
+            },
+            {
+              "label": "夜间费率",
+              "value": "8%"
+            },
+            {
+              "label": "夜间时段",
+              "value": "22:00–8:00 北京时间"
+            }
+          ],
+          "source_url": "https://enjoy.dev/blog/qwen4-max-preview/",
+          "image": ""
+        },
         {
           "id": "abb48482",
           "kicker": "换帅之后",
