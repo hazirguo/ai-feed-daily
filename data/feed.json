@@ -1,7 +1,36 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-16 00:56",
+  "updated_at": "2026-11-16 02:58",
   "days": [
+    {
+      "date": "2026-11-16",
+      "weekday": "周一",
+      "items": [
+        {
+          "id": "9839c638",
+          "kicker": "换帅后的首考",
+          "category": "AI芯片",
+          "title": "英伟达财报后股价或波动9.1%",
+          "body": "英伟达[将于11月17日美股收盘后发布第三财季财报](https://www.tradingview.com/news/benzinga:33d75971f094b:0-earnings-volatility-watch-nvidia-stock-could-swing-9-without-jensen-huang-yet-this-newly-listed-tech-name-is-priced-for-21-7/)，这是33年来首次没有黄仁勋掌舵的财报。投资者将盯着临时首席执行官克雷斯的首次电话会。",
+          "stats": [
+            {
+              "label": "营收预期",
+              "value": "$109.23B"
+            },
+            {
+              "label": "每股收益预期",
+              "value": "$2.48"
+            },
+            {
+              "label": "周收盘价",
+              "value": "$162.85"
+            }
+          ],
+          "source_url": "https://www.tradingview.com/news/benzinga:33d75971f094b:0-earnings-volatility-watch-nvidia-stock-could-swing-9-without-jensen-huang-yet-this-newly-listed-tech-name-is-priced-for-21-7/",
+          "image": "assets/2026-11-16/9839c638.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-11-15",
       "weekday": "周日",
