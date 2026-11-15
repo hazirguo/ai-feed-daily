@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-15 09:55",
+  "updated_at": "2026-11-15 11:56",
   "days": [
     {
       "date": "2026-11-15",
       "weekday": "周日",
       "items": [
+        {
+          "id": "6a06e5cc",
+          "kicker": "芯片先行",
+          "category": "AI资本",
+          "title": "字节跳动拟投 230 亿美元，试订 2 万块英伟达 H200",
+          "body": "[字节跳动把 2026 年初步资本开支定在约 230 亿美元](https://gbdaily.news/2026/11/15/bytedance-plans-23b-ai-spending-blitz-eyes-20000-nvidia-h200-chips/)。计划里的一项是试订 2 万块英伟达 H200 芯片。",
+          "stats": [
+            {
+              "label": "芯片与半导体基建",
+              "value": "逾 120 亿美元"
+            },
+            {
+              "label": "H200 试订金额",
+              "value": "约 4 亿美元"
+            }
+          ],
+          "source_url": "https://gbdaily.news/2026/11/15/bytedance-plans-23b-ai-spending-blitz-eyes-20000-nvidia-h200-chips/",
+          "image": "assets/2026-11-15/6a06e5cc.jpg"
+        },
         {
           "id": "c600b71e",
           "kicker": "听证日程定了",
