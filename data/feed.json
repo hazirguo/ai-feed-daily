@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-15 19:57",
+  "updated_at": "2026-11-15 21:58",
   "days": [
     {
       "date": "2026-11-15",
       "weekday": "周日",
       "items": [
+        {
+          "id": "568939ef",
+          "kicker": "先拿员工试水",
+          "category": "AI应用",
+          "title": "Meta 拿员工内测预测市场应用",
+          "body": "Meta 正在让员工内测一款[预测市场应用](https://cryptobriefing.com/meta-tests-prediction-market-app-employees/)。Llama 会为它出题并给出个性化市场推荐。",
+          "stats": [],
+          "source_url": "https://cryptobriefing.com/meta-tests-prediction-market-app-employees/",
+          "image": "assets/2026-11-15/568939ef.webp"
+        },
         {
           "id": "91b80df9",
           "kicker": "单卡压大模型",
