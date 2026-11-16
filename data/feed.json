@@ -1,7 +1,23 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-16 23:58",
+  "updated_at": "2026-11-17 02:57",
   "days": [
+    {
+      "date": "2026-11-17",
+      "weekday": "周二",
+      "items": [
+        {
+          "id": "d0bb068b",
+          "kicker": "会晤前先出牌",
+          "category": "AI政策",
+          "title": "美国堵上远程租卡漏洞，收紧对华 AI 芯片管制",
+          "body": "[美国商务部周一出台的新规](https://asia.nikkei.com/business/technology/artificial-intelligence/us-to-curb-china-s-access-to-ai-chips-as-trump-heads-to-asia)进一步限制中国企业通过海外数据中心远程使用英伟达等公司的顶级 AI 芯片。新加坡、泰国、马来西亚、印度尼西亚和巴西的公司今后须为先进芯片申请美国出口许可，理由是这五国存在较高的向中国转运风险。",
+          "stats": [],
+          "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-to-curb-china-s-access-to-ai-chips-as-trump-heads-to-asia",
+          "image": "assets/2026-11-17/d0bb068b.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-11-16",
       "weekday": "周一",
