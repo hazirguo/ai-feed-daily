@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-16 13:58",
+  "updated_at": "2026-11-16 15:56",
   "days": [
     {
       "date": "2026-11-16",
       "weekday": "周一",
       "items": [
+        {
+          "id": "b6c58491",
+          "kicker": "抢空之后",
+          "category": "AI硬件",
+          "title": "三星谷歌 AI 眼镜 12 月发售前预售售罄",
+          "body": "预售开启四天后，Gentle Monster 的[16 款型号在韩国官网全部显示售罄](https://m.koreaherald.com/article/10938540)。不过三星与 Gentle Monster 都没公布备货或销量，售罄本身还说明不了需求有多大。",
+          "stats": [
+            {
+              "label": "韩国起售价",
+              "value": "650,000 韩元（约 490 美元）"
+            },
+            {
+              "label": "发售日",
+              "value": "12 月 10 日"
+            }
+          ],
+          "source_url": "https://m.koreaherald.com/article/10938540",
+          "image": "assets/2026-11-16/b6c58491.jpg"
+        },
         {
           "id": "2df41c4e",
           "kicker": "红色警戒之后",
