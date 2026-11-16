@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-16 21:58",
+  "updated_at": "2026-11-16 23:58",
   "days": [
     {
       "date": "2026-11-16",
       "weekday": "周一",
       "items": [
+        {
+          "id": "4af2bd4c",
+          "kicker": "补丁反成武器",
+          "category": "AI安全",
+          "title": "AI 智能体把补丁变成漏洞利用，全程无人干预",
+          "body": "谷歌威胁情报团队说，这是它首次见到攻击者全程无人干预地完成漏洞发现与利用。那个叫 exploit_agent 的框架会[对照补丁前后的代码找漏洞、写出利用代码并自动执行](https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926)。",
+          "stats": [],
+          "source_url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
+          "image": "assets/2026-11-16/4af2bd4c.jpg"
+        },
         {
           "id": "9278d3c5",
           "kicker": "便宜，但先别全信",
