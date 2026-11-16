@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-17 03:56",
+  "updated_at": "2026-11-17 05:58",
   "days": [
     {
       "date": "2026-11-17",
       "weekday": "周二",
       "items": [
+        {
+          "id": "c19414c6",
+          "kicker": "旗舰改道",
+          "category": "AI模型",
+          "title": "Qwen4-Max 旗舰首次不放开源权重",
+          "body": "阿里巴巴 11 月 16 日发布的 [Qwen4-Max 只走 API，权重不可下载](https://www.agiwatch.ai/explainers/did-alibaba-stop-releasing-open-weight-ai-models)。更小的 Qwen4 模型仍会开源，但阿里没有给出日期。",
+          "stats": [],
+          "source_url": "https://www.agiwatch.ai/explainers/did-alibaba-stop-releasing-open-weight-ai-models",
+          "image": "assets/2026-11-17/c19414c6.webp"
+        },
         {
           "id": "dafe9cf0",
           "kicker": "不等一百八十天",
