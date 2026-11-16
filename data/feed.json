@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-17 02:57",
+  "updated_at": "2026-11-17 03:56",
   "days": [
     {
       "date": "2026-11-17",
       "weekday": "周二",
       "items": [
+        {
+          "id": "dafe9cf0",
+          "kicker": "不等一百八十天",
+          "category": "AI资本",
+          "title": "Anthropic 员工上市首日可卖 3.16 亿股",
+          "body": "Anthropic 招股书的锁定期条款允许员工等在[上市首日卖出最多 3.16 亿股](https://sfinquirer.com/2026/11/16/anthropic-ipo-employee-shares-lockup-san-francisco/)。解禁按多批时间表释放。",
+          "stats": [
+            {
+              "label": "发行股数",
+              "value": "8.25 亿股"
+            },
+            {
+              "label": "定价区间",
+              "value": "$70–$78"
+            }
+          ],
+          "source_url": "https://sfinquirer.com/2026/11/16/anthropic-ipo-employee-shares-lockup-san-francisco/",
+          "image": "assets/2026-11-17/dafe9cf0.jpg"
+        },
         {
           "id": "d0bb068b",
           "kicker": "会晤前先出牌",
