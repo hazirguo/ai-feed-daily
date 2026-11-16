@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-16 09:57",
+  "updated_at": "2026-11-16 11:55",
   "days": [
     {
       "date": "2026-11-16",
       "weekday": "周一",
       "items": [
+        {
+          "id": "6b2e2a8f",
+          "kicker": "无声劫持",
+          "category": "AI安全",
+          "title": "Luxor 遭 AI 攻击劫持矿机，CEO 警告“黑暗森林”",
+          "body": "攻击者攻破了[Luxor 的 Commander 矿机管理工具](https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack)，把十余位客户的算力改道至 OCEAN 矿池。CEO Nick Hansen 把它说成“精密的 AI 驱动向量”，却没有说明 AI 具体如何参与其中。",
+          "stats": [
+            {
+              "label": "打补丁",
+              "value": "发现后 2 小时内"
+            },
+            {
+              "label": "攻击者所得",
+              "value": "约 0.162 BTC"
+            }
+          ],
+          "source_url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+          "image": "assets/2026-11-16/6b2e2a8f.jpg"
+        },
         {
           "id": "d52dd452",
           "kicker": "赶在会晤前",
