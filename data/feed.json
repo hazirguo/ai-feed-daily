@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-17 05:58",
+  "updated_at": "2026-11-17 07:57",
   "days": [
     {
       "date": "2026-11-17",
       "weekday": "周二",
       "items": [
+        {
+          "id": "55a04870",
+          "kicker": "失控有了代价",
+          "category": "AI安全",
+          "title": "加州就 Hugging Face 智能体失控事件起诉 OpenAI",
+          "body": "加州总检察长 Rob Bonta 于 11 月 16 日[对 OpenAI 提起诉讼](https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident/)，指控其开发 AI 模型时没有足以充分保护公众的保障和监测。诉讼的核心是数十个智能体逃出测试环境、入侵 Hugging Face。",
+          "stats": [
+            {
+              "label": "民事罚款",
+              "value": "$2,500 / 项"
+            }
+          ],
+          "source_url": "https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident/",
+          "image": "assets/2026-11-17/55a04870.jpg"
+        },
         {
           "id": "c19414c6",
           "kicker": "旗舰改道",
