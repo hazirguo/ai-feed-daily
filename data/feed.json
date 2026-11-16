@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-16 17:56",
+  "updated_at": "2026-11-16 19:56",
   "days": [
     {
       "date": "2026-11-16",
       "weekday": "周一",
       "items": [
+        {
+          "id": "ce9aadea",
+          "kicker": "客服不只回话",
+          "category": "AI应用",
+          "title": "Zoho Desk 上线 Blended Agents，AI 办事、人工兜底",
+          "body": "Zoho 今天在 Zoho Desk 上线了 [Blended Agents](https://wqow.marketminute.com/article/bizwire-2026-11-16-zoho-introduces-blended-agents-to-zoho-desk-combining-ai-execution-with-human-judgment-to-help-businesses-more-effectively-resolve-customer-issues)，能跨接业务应用查信息、办任务，遇到需要判断的情况再交给人工。在所有付费版上搭建和部署都不另收费，只按大模型用量计费。",
+          "stats": [],
+          "source_url": "https://wqow.marketminute.com/article/bizwire-2026-11-16-zoho-introduces-blended-agents-to-zoho-desk-combining-ai-execution-with-human-judgment-to-help-businesses-more-effectively-resolve-customer-issues",
+          "image": ""
+        },
         {
           "id": "fa90ac16",
           "kicker": "预览转正",
