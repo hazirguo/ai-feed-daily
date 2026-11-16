@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-16 07:58",
+  "updated_at": "2026-11-16 09:57",
   "days": [
     {
       "date": "2026-11-16",
       "weekday": "周一",
       "items": [
+        {
+          "id": "d52dd452",
+          "kicker": "赶在会晤前",
+          "category": "AI政策",
+          "title": "九国签署《旧金山宣言》，联手守护AI供应链",
+          "body": "美、韩、日等九国签署了[《旧金山宣言》](https://biz.heraldcorp.com/article/10938093)，承诺共同认定需要保护的AI关键技术与供应链。这份宣言赶在特朗普与习近平11月19日在深圳会晤之前落地。",
+          "stats": [],
+          "source_url": "https://biz.heraldcorp.com/article/10938093",
+          "image": "assets/2026-11-16/d52dd452.jpg"
+        },
         {
           "id": "caff472e",
           "kicker": "绕开英伟达",
