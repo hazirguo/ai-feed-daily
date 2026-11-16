@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-16 15:56",
+  "updated_at": "2026-11-16 17:56",
   "days": [
     {
       "date": "2026-11-16",
       "weekday": "周一",
       "items": [
+        {
+          "id": "fa90ac16",
+          "kicker": "预览转正",
+          "category": "AI模型",
+          "title": "Qwen4-Max 正式上线，输入每百万 $1.50",
+          "body": "[Qwen4-Max 今天正式上线](https://aifirstlook.com/qwen-4/)，按量付费 API 已在 QwenCloud 开放，不再只走 Token Plan 预览。每百万 token 输入 $1.50、输出 $4.50。",
+          "stats": [
+            {
+              "label": "上下文",
+              "value": "100万 token"
+            },
+            {
+              "label": "预览下线",
+              "value": "11月25日"
+            }
+          ],
+          "source_url": "https://aifirstlook.com/qwen-4/",
+          "image": "assets/2026-11-16/fa90ac16.png"
+        },
         {
           "id": "b6c58491",
           "kicker": "抢空之后",
