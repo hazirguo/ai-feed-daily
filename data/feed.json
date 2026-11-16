@@ -1,11 +1,38 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-16 19:56",
+  "updated_at": "2026-11-16 21:58",
   "days": [
     {
       "date": "2026-11-16",
       "weekday": "周一",
       "items": [
+        {
+          "id": "9278d3c5",
+          "kicker": "便宜，但先别全信",
+          "category": "AI模型",
+          "title": "腾讯推出低价多模态模型 Hy4 flash",
+          "body": "[Hy4 flash](https://www.unite.ai/tencent-launches-hy4-flash-as-a-lower-cost-multimodal-model/)的输入价是每百万 token $0.07。腾讯称它在 259 项日常任务的内部盲测中满意度接近 Claude Haiku 5.5。",
+          "stats": [
+            {
+              "label": "比完整版 Hy4",
+              "value": "输入低约 92%"
+            },
+            {
+              "label": "输出",
+              "value": "$0.281/百万 token"
+            },
+            {
+              "label": "上下文",
+              "value": "100 万 token"
+            },
+            {
+              "label": "优惠截止",
+              "value": "11 月 30 日"
+            }
+          ],
+          "source_url": "https://www.unite.ai/tencent-launches-hy4-flash-as-a-lower-cost-multimodal-model/",
+          "image": "assets/2026-11-16/9278d3c5.png"
+        },
         {
           "id": "ce9aadea",
           "kicker": "客服不只回话",
