@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-17 15:56",
+  "updated_at": "2026-11-17 17:57",
   "days": [
     {
       "date": "2026-11-17",
       "weekday": "周二",
       "items": [
+        {
+          "id": "eeb5a89c",
+          "kicker": "逆风上市",
+          "category": "AI资本",
+          "title": "Anthropic 估值较 2 万亿美元缩水至少三成",
+          "body": "[Anthropic 将于周三定价，周四在纳斯达克以 ANT 开始交易](https://www.reuters.com/commentary/reuters-open-interest/anthropic-debuts-skeptics-dogged-believers-mike-dolan-2026-11-17/)。过去六周纳斯达克 100 跌了 12%。",
+          "stats": [],
+          "source_url": "https://www.reuters.com/commentary/reuters-open-interest/anthropic-debuts-skeptics-dogged-believers-mike-dolan-2026-11-17/",
+          "image": "assets/2026-11-17/eeb5a89c.jpg"
+        },
         {
           "id": "841958ae",
           "kicker": "先出草稿再成片",
