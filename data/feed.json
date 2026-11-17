@@ -1,7 +1,23 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-17 21:58",
+  "updated_at": "2026-11-18 02:57",
   "days": [
+    {
+      "date": "2026-11-18",
+      "weekday": "周三",
+      "items": [
+        {
+          "id": "9a58044e",
+          "kicker": "首日之后",
+          "category": "AI资本",
+          "title": "Anthropic 解禁条款 2 月前再放行 16.1 亿股",
+          "body": "招股书把受限股的解禁排成[23 个日期](https://www.techi.com/anthropic-ipo-lock-up-share-release-calendar/)，从上市首日一路排到 2027 年 11 月。Anthropic 与七位联合创始人以每股 70 至 78 美元出售 8.25 亿股，11 月 18 日定价，11 月 19 日开始交易。",
+          "stats": [],
+          "source_url": "https://www.techi.com/anthropic-ipo-lock-up-share-release-calendar/",
+          "image": "assets/2026-11-18/9a58044e.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "weekday": "周二",
