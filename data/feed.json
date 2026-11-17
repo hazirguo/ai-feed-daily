@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-17 17:57",
+  "updated_at": "2026-11-17 21:58",
   "days": [
     {
       "date": "2026-11-17",
       "weekday": "周二",
       "items": [
+        {
+          "id": "ec27f5e6",
+          "kicker": "三家同向收手",
+          "category": "AI安全",
+          "title": "中国 AI 公司在出口禁令草案下削弱网络攻击能力",
+          "body": "[彭博 11 月 17 日的报道](https://www.business-standard.com/amp/world-news/chinese-ai-firms-scale-back-cyber-capabilities-amid-proposed-export-ban-126111700190_1.html)称，阿里巴巴、腾讯和 Moonshot 的新模型都削弱了进攻性网络能力。商务部上月已拟议禁止出口 AI 驱动的恶意代码生成技术。",
+          "stats": [],
+          "source_url": "https://www.business-standard.com/amp/world-news/chinese-ai-firms-scale-back-cyber-capabilities-amid-proposed-export-ban-126111700190_1.html",
+          "image": "assets/2026-11-17/ec27f5e6.webp"
+        },
         {
           "id": "eeb5a89c",
           "kicker": "逆风上市",
