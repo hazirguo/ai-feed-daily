@@ -1,11 +1,34 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-18 02:57",
+  "updated_at": "2026-11-18 06:56",
   "days": [
     {
       "date": "2026-11-18",
       "weekday": "周三",
       "items": [
+        {
+          "id": "7e6bf9d8",
+          "kicker": "黄仁勋走后",
+          "category": "AI芯片",
+          "title": "英伟达 Q3 营收 1158 亿美元超预期",
+          "body": "英伟达第三财季[营收 1158.4 亿美元](https://biz.chosun.com/en/en-it/2026/11/18/NQJTLPEVYBBFFJYWK7J6BZIC2U/)，超出华尔街预期。财报发布后，英伟达盘后股价一度涨超 4%。",
+          "stats": [
+            {
+              "label": "调整后每股收益",
+              "value": "2.68 美元"
+            },
+            {
+              "label": "市场预期每股收益",
+              "value": "2.48 美元"
+            },
+            {
+              "label": "华尔街营收预期",
+              "value": "1091 亿美元"
+            }
+          ],
+          "source_url": "https://biz.chosun.com/en/en-it/2026/11/18/NQJTLPEVYBBFFJYWK7J6BZIC2U/",
+          "image": "assets/2026-11-18/7e6bf9d8.webp"
+        },
         {
           "id": "9a58044e",
           "kicker": "首日之后",
