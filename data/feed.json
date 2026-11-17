@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-17 13:57",
+  "updated_at": "2026-11-17 15:56",
   "days": [
     {
       "date": "2026-11-17",
       "weekday": "周二",
       "items": [
+        {
+          "id": "841958ae",
+          "kicker": "先出草稿再成片",
+          "category": "AI模型",
+          "title": "字节跳动开放 Seedance 2.5 的 4K 视频 API",
+          "body": "字节跳动旗下火山引擎周一开放了 [Seedance 2.5 的 4K 视频生成 API](https://technode.com/2026/11/17/bytedance-opens-seedance-2-5s-4k-video-generation-api-to-developers/)。它支持先出低分辨率草稿，确认后再渲染 4K 成片。",
+          "stats": [
+            {
+              "label": "4K 生成",
+              "value": "约 ¥6.03/秒"
+            },
+            {
+              "label": "先行试用",
+              "value": "20 家工作室和导演"
+            }
+          ],
+          "source_url": "https://technode.com/2026/11/17/bytedance-opens-seedance-2-5s-4k-video-generation-api-to-developers/",
+          "image": "assets/2026-11-17/841958ae.jpg"
+        },
         {
           "id": "b1a37c1c",
           "kicker": "算力先告急",
