@@ -1,11 +1,34 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-17 07:57",
+  "updated_at": "2026-11-17 09:57",
   "days": [
     {
       "date": "2026-11-17",
       "weekday": "周二",
       "items": [
+        {
+          "id": "a7ba2011",
+          "kicker": "换血未完成",
+          "category": "AI资本",
+          "title": "百度 AI 云收入近乎翻倍，搜索广告跌 22%",
+          "body": "[百度 AI 云](https://mlq.ai/news/baidu-ai-cloud-infrastructure-revenue-nearly-doubles-as-online-marketing-falls-22-in-the-third-quarter/)里的 GPU 云收入同比涨了 191%。AI 业务已占百度通用业务收入的 53%。",
+          "stats": [
+            {
+              "label": "AI 云基建收入",
+              "value": "82 亿元，+94%"
+            },
+            {
+              "label": "总营收",
+              "value": "308 亿元，-1%"
+            },
+            {
+              "label": "千帆 token 收入",
+              "value": "+1,159%"
+            }
+          ],
+          "source_url": "https://mlq.ai/news/baidu-ai-cloud-infrastructure-revenue-nearly-doubles-as-online-marketing-falls-22-in-the-third-quarter/",
+          "image": "assets/2026-11-17/a7ba2011.jpg"
+        },
         {
           "id": "55a04870",
           "kicker": "失控有了代价",
