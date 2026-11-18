@@ -1,11 +1,38 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-18 06:56",
+  "updated_at": "2026-11-18 09:57",
   "days": [
     {
       "date": "2026-11-18",
       "weekday": "周三",
       "items": [
+        {
+          "id": "7c28881b",
+          "kicker": "降价先行",
+          "category": "AI模型",
+          "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol",
+          "body": "[GPT-6.2 Astra](https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/) 的 API 价比上一代便宜了 20%。Sol 在 FrontierCode 2.0 上只落后 Astra 0.5 分。",
+          "stats": [
+            {
+              "label": "Astra 输入",
+              "value": "$8 / 百万 token"
+            },
+            {
+              "label": "Astra 输出",
+              "value": "$40 / 百万 token"
+            },
+            {
+              "label": "Sol 输入",
+              "value": "$2 / 百万 token"
+            },
+            {
+              "label": "Sol 输出",
+              "value": "$10 / 百万 token"
+            }
+          ],
+          "source_url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/",
+          "image": "assets/2026-11-18/7c28881b.png"
+        },
         {
           "id": "7e6bf9d8",
           "kicker": "黄仁勋走后",
