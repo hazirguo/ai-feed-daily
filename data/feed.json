@@ -1,7 +1,28 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-18 23:55",
+  "updated_at": "2026-11-19 02:57",
   "days": [
+    {
+      "date": "2026-11-19",
+      "weekday": "周四",
+      "items": [
+        {
+          "id": "782413cf",
+          "kicker": "租卡路收紧",
+          "category": "AI政策",
+          "title": "美国新规瞄准远程租用AI芯片的漏洞",
+          "body": "美国商务部针对远程租用先进AI算力的[新规](https://www.techrepublic.com/article/news-us-ai-chip-cloud-access-restrictions/)于11月19日生效。已在向受限国家企业提供这类算力的数据中心，有90天时间申请所需许可。",
+          "stats": [
+            {
+              "label": "意见征集",
+              "value": "60天"
+            }
+          ],
+          "source_url": "https://www.techrepublic.com/article/news-us-ai-chip-cloud-access-restrictions/",
+          "image": "assets/2026-11-19/782413cf.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "weekday": "周三",
