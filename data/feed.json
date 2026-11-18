@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-19 02:57",
+  "updated_at": "2026-11-19 03:57",
   "days": [
     {
       "date": "2026-11-19",
       "weekday": "周四",
       "items": [
+        {
+          "id": "6a07e5d0",
+          "kicker": "世界边走边改",
+          "category": "AI模型",
+          "title": "Genie 4 进 Project Genie，Ultra 用户已经能用",
+          "body": "边走边打字就能实时改[Project Genie](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)里的世界，换天气、加角色或改剧情都不用推倒重来。Google AI Pro 用户可以先在同一页面加入等候名单。",
+          "stats": [],
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+          "image": "assets/2026-11-19/6a07e5d0.png"
+        },
         {
           "id": "782413cf",
           "kicker": "租卡路收紧",
