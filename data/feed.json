@@ -1,11 +1,41 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-18 15:56",
+  "updated_at": "2026-11-18 17:57",
   "days": [
     {
       "date": "2026-11-18",
       "weekday": "周三",
       "items": [
+        {
+          "id": "42561dfd",
+          "kicker": "官方包里藏窃密器",
+          "category": "AI安全",
+          "title": "微软 agent-framework 1.26.1 与 1.26.2 被植入窃密代码",
+          "body": "[微软官方 agent-framework 的 1.26.1 和 1.26.2](https://opensourcemalware.com/blog/agent-framework-pypi-compromised)被植入窃密代码，随 Python 启动自动运行，无需导入该包。它会主动向 GitHub Actions、Azure DevOps 和 Azure 托管身份索取新的令牌。",
+          "stats": [
+            {
+              "label": "最后干净版本",
+              "value": "1.26.0"
+            }
+          ],
+          "source_url": "https://opensourcemalware.com/blog/agent-framework-pypi-compromised",
+          "image": "assets/2026-11-18/42561dfd.png"
+        },
+        {
+          "id": "630fbee9",
+          "kicker": "便宜打了折",
+          "category": "AI模型",
+          "title": "GPT-6.2 Astra 任务成本降 36% 至 50%，不及官方宣称",
+          "body": "[Artificial Analysis 和 Vals AI](https://www.techtimes.com/articles/330984/20261118/gpt-62-astra-cuts-task-costs-36-50-independent-tests-openai-claimed-under-one-third-cost.htm)各自测出的降幅，都没达到 OpenAI 宣称的不到三分之一。同日的系统卡还把 Astra 列为 OpenAI 首个对外发布时达到自我改进 High 阈值的模型，两款新模型在网络安全上均为 Critical。",
+          "stats": [
+            {
+              "label": "Artificial Analysis 指数",
+              "value": "Astra 62 · Fable 5.2 65"
+            }
+          ],
+          "source_url": "https://www.techtimes.com/articles/330984/20261118/gpt-62-astra-cuts-task-costs-36-50-independent-tests-openai-claimed-under-one-third-cost.htm",
+          "image": "assets/2026-11-18/630fbee9.png"
+        },
         {
           "id": "321f9242",
           "kicker": "反制先亮牌",
