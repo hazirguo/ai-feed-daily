@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-18 19:55",
+  "updated_at": "2026-11-18 21:57",
   "days": [
     {
       "date": "2026-11-18",
       "weekday": "周三",
       "items": [
+        {
+          "id": "976bb61a",
+          "kicker": "新帅第一刀",
+          "category": "AI芯片",
+          "title": "英伟达停售对华获批 H200 芯片",
+          "body": "临时 CEO Colette Kress 在周二的财报电话会上说，[英伟达不再向中国发运获批的 Hopper 数据中心产品](https://bworldonline.com/technology/2026/11/18/794712/nvidia-stops-shipping-us-approved-ai-chips-to-china/)。上季度这类产品对华销售额为 24 亿美元。",
+          "stats": [
+            {
+              "label": "下季度营收指引",
+              "value": "1300 亿美元"
+            },
+            {
+              "label": "指引中的中国数据中心收入",
+              "value": "0"
+            }
+          ],
+          "source_url": "https://bworldonline.com/technology/2026/11/18/794712/nvidia-stops-shipping-us-approved-ai-chips-to-china/",
+          "image": "assets/2026-11-18/976bb61a.jpg"
+        },
         {
           "id": "1826e35f",
           "kicker": "智能体开始上班",
