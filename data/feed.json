@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-19 05:57",
+  "updated_at": "2026-11-19 07:57",
   "days": [
     {
       "date": "2026-11-19",
       "weekday": "周四",
       "items": [
+        {
+          "id": "84dbc568",
+          "kicker": "一张顶一页",
+          "category": "AI应用",
+          "title": "Kling Image 4.0 原生生成 8K 图片",
+          "body": "[Kling Image 4.0](https://kling.ai/blog/kling-image-4-stunningly-realistic-sharp-precise)已在 Kling Creative Studio 和 API 上线。单张图里最多能放 2,000 字，文字多的海报不用再分图拼了。",
+          "stats": [
+            {
+              "label": "单次出图",
+              "value": "最多 10 张"
+            },
+            {
+              "label": "提示词上限",
+              "value": "15,000 tokens"
+            }
+          ],
+          "source_url": "https://kling.ai/blog/kling-image-4-stunningly-realistic-sharp-precise",
+          "image": "assets/2026-11-19/84dbc568.jpg"
+        },
         {
           "id": "2a18a065",
           "kicker": "定价超区间",
