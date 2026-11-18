@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-18 09:57",
+  "updated_at": "2026-11-18 15:56",
   "days": [
     {
       "date": "2026-11-18",
       "weekday": "周三",
       "items": [
+        {
+          "id": "321f9242",
+          "kicker": "反制先亮牌",
+          "category": "AI政策",
+          "title": "中国警告美国：推进芯片新规就反制",
+          "body": "中国商务部周二表示，若美国坚持推进针对先进 AI 芯片的新管制，中国[将采取反制措施](https://www.cnbctv18.com/world/china-warns-us-of-retaliation-over-new-ai-chip-restrictions-20036371.htm)。美国商务部周一发布的新规，瞄准的是中国企业在海外租用英伟达芯片、并经由新加坡等国获取处理器的路径。",
+          "stats": [],
+          "source_url": "https://www.cnbctv18.com/world/china-warns-us-of-retaliation-over-new-ai-chip-restrictions-20036371.htm",
+          "image": "assets/2026-11-18/321f9242.jpg"
+        },
         {
           "id": "7c28881b",
           "kicker": "降价先行",
