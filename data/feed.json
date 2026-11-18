@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-18 21:57",
+  "updated_at": "2026-11-18 23:55",
   "days": [
     {
       "date": "2026-11-18",
       "weekday": "周三",
       "items": [
+        {
+          "id": "c68bc4ce",
+          "kicker": "预算先行",
+          "category": "AI应用",
+          "title": "Replit 推出 Missions：智能体群按预算干活",
+          "body": "[Replit 推出了 Missions](https://techandbusiness.org/newswire/TKjY-8yCn8Gq4Sl6QPoeQY)，让多个智能体组队朝着一个目标去规划、搭建、测试和修改，全程受约定的预算约束。Replit 称自己用它搭出了应用监控平台 DataCat，只花了 3,000 美元。",
+          "stats": [],
+          "source_url": "https://techandbusiness.org/newswire/TKjY-8yCn8Gq4Sl6QPoeQY",
+          "image": "assets/2026-11-18/c68bc4ce.jpg"
+        },
         {
           "id": "976bb61a",
           "kicker": "新帅第一刀",
