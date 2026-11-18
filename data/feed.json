@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-19 03:57",
+  "updated_at": "2026-11-19 05:57",
   "days": [
     {
       "date": "2026-11-19",
       "weekday": "周四",
       "items": [
+        {
+          "id": "2a18a065",
+          "kicker": "定价超区间",
+          "category": "AI资本",
+          "title": "Anthropic IPO 定价 83 美元",
+          "body": "[Anthropic 高于发行区间的定价](https://www.calcalistech.com/ctechnews/article/ddyq1vva9)让这家 Claude 开发商估值约 1.5 万亿美元。股票今天在纳斯达克以 ANT 代码开始交易。",
+          "stats": [],
+          "source_url": "https://www.calcalistech.com/ctechnews/article/ddyq1vva9",
+          "image": "assets/2026-11-19/2a18a065.png"
+        },
         {
           "id": "6a07e5d0",
           "kicker": "世界边走边改",
