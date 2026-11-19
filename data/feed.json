@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-19 07:57",
+  "updated_at": "2026-11-19 09:57",
   "days": [
     {
       "date": "2026-11-19",
       "weekday": "周四",
       "items": [
+        {
+          "id": "feb25fe7",
+          "kicker": "失控就拉闸",
+          "category": "AI安全",
+          "title": "加州提议强制前沿 AI 监管与紧急关停权",
+          "body": "[加州州长纽森 11 月 18 日发布的立法建议](https://www.unite.ai/newsom-proposes-mandatory-frontier-ai-oversight-and-shutdown-powers/)要求大型前沿 AI 开发商接受持续的独立监督。州政府还可在模型构成迫在眉睫的灾难性风险、开发商又拒绝处置时，下令立即关停。",
+          "stats": [
+            {
+              "label": "报告页数",
+              "value": "85页"
+            },
+            {
+              "label": "严重事故上报期限",
+              "value": "48小时"
+            }
+          ],
+          "source_url": "https://www.unite.ai/newsom-proposes-mandatory-frontier-ai-oversight-and-shutdown-powers/",
+          "image": "assets/2026-11-19/feb25fe7.jpg"
+        },
         {
           "id": "84dbc568",
           "kicker": "一张顶一页",
