@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-19 13:57",
+  "updated_at": "2026-11-19 15:58",
   "days": [
     {
       "date": "2026-11-19",
       "weekday": "周四",
       "items": [
+        {
+          "id": "39bf6216",
+          "kicker": "模型反过来造芯",
+          "category": "AI芯片",
+          "title": "OpenAI 模型把一年芯片设计压缩到不足五个月",
+          "body": "[OpenAI 模型对 AMD 旗舰 GPU 的改动](https://analyticsindiamag.com/ai-news/openai-and-amd-achieve-a-year-of-chip-design-progress-in-under-five-months)，让功耗、性能与面积指标最高提升了 14%。模型是靠重写 SystemVerilog RTL 代码拿出这些改动的。",
+          "stats": [],
+          "source_url": "https://analyticsindiamag.com/ai-news/openai-and-amd-achieve-a-year-of-chip-design-progress-in-under-five-months",
+          "image": "assets/2026-11-19/39bf6216.jpg"
+        },
         {
           "id": "dbecf3dd",
           "kicker": "中档反超旗舰",
