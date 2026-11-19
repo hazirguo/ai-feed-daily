@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-19 09:57",
+  "updated_at": "2026-11-19 11:57",
   "days": [
     {
       "date": "2026-11-19",
       "weekday": "周四",
       "items": [
+        {
+          "id": "2754fa06",
+          "kicker": "入门价倒计时",
+          "category": "AI编程",
+          "title": "微软 MAI Code 2 与 Flash 进 Copilot",
+          "body": "[MAI Code 2](https://aistify.com/microsoft-mai-code-2-flash-copilot-pricing/) 的编码成本为 GPT-6.1 Sol 的四成。入门价从 2027 年 5 月 17 日起翻倍。",
+          "stats": [
+            {
+              "label": "性能",
+              "value": "GPT-6.1 Sol 的 98%"
+            }
+          ],
+          "source_url": "https://aistify.com/microsoft-mai-code-2-flash-copilot-pricing/",
+          "image": "assets/2026-11-19/2754fa06.jpg"
+        },
         {
           "id": "feb25fe7",
           "kicker": "失控就拉闸",
