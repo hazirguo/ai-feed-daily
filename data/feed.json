@@ -1,11 +1,34 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-19 11:57",
+  "updated_at": "2026-11-19 13:57",
   "days": [
     {
       "date": "2026-11-19",
       "weekday": "周四",
       "items": [
+        {
+          "id": "dbecf3dd",
+          "kicker": "中档反超旗舰",
+          "category": "AI模型",
+          "title": "Gemini 4 Neon 部分测试胜过 Carbon",
+          "body": "[Gemini 4 Neon](https://siliconangle.com/2026/11/18/googles-latest-midtier-model-gemini-4-neon-is-three-times-faster-than-carbon-and-wins-on-some-metrics/)完成多数任务的速度约是 Carbon 的三倍。开发者即日起可通过付费 API 调用它。",
+          "stats": [
+            {
+              "label": "任务成本",
+              "value": "比 Carbon 低约 60%"
+            },
+            {
+              "label": "API 输入价",
+              "value": "$3 / 百万 tokens"
+            },
+            {
+              "label": "API 输出价",
+              "value": "$15 / 百万 tokens"
+            }
+          ],
+          "source_url": "https://siliconangle.com/2026/11/18/googles-latest-midtier-model-gemini-4-neon-is-three-times-faster-than-carbon-and-wins-on-some-metrics/",
+          "image": "assets/2026-11-19/dbecf3dd.png"
+        },
         {
           "id": "2754fa06",
           "kicker": "入门价倒计时",
