@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-20 09:55",
+  "updated_at": "2026-11-20 21:57",
   "days": [
     {
       "date": "2026-11-20",
       "weekday": "周五",
       "items": [
+        {
+          "id": "465d3613",
+          "kicker": "管制落到财报上",
+          "category": "AI芯片",
+          "title": "美国 AI 芯片管制冲击中国科技股",
+          "body": "阿里表示，受新规影响，明年[云收入增速可能放缓至 30% 到 45%](https://www.reuters.com/business/retail-consumer/us-ai-chip-curbs-hit-china-tech-stocks-spur-self-sufficiency-push-2026-11-20/)。腾讯总裁刘炽平则说，管制会在短期内放缓下一代模型的开发。",
+          "stats": [],
+          "source_url": "https://www.reuters.com/business/retail-consumer/us-ai-chip-curbs-hit-china-tech-stocks-spur-self-sufficiency-push-2026-11-20/",
+          "image": ""
+        },
         {
           "id": "14d44403",
           "kicker": "不用掏手机",
