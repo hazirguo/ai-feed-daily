@@ -1,7 +1,23 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-19 21:56",
+  "updated_at": "2026-11-20 09:55",
   "days": [
+    {
+      "date": "2026-11-20",
+      "weekday": "周五",
+      "items": [
+        {
+          "id": "14d44403",
+          "kicker": "不用掏手机",
+          "category": "AI设备",
+          "title": "Meta Muse Charm 定价 300 美元",
+          "body": "[Muse Charm 将随附 Verizon 最长 12 个月的免费 5G](https://www.reuters.com/business/media-telecom/meta-price-muse-charm-gadget-300-information-reports-2026-11-19/)，不用 Wi-Fi 也能直接连上 Muse。它预计在 12 月假期季前上市。",
+          "stats": [],
+          "source_url": "https://www.reuters.com/business/media-telecom/meta-price-muse-charm-gadget-300-information-reports-2026-11-19/",
+          "image": "assets/2026-11-20/14d44403.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-11-19",
       "weekday": "周四",
