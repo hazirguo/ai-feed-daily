@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-21 09:57",
+  "updated_at": "2026-11-21 11:57",
   "days": [
     {
       "date": "2026-11-21",
       "weekday": "周六",
       "items": [
+        {
+          "id": "4eab7c5d",
+          "kicker": "权重公开，条件在后",
+          "category": "AI模型",
+          "title": "腾讯放出 Hy4 权重：770B 旗舰可下载，大规模商用须另获许可",
+          "body": "腾讯 11 月 20 日[在 Hugging Face、ModelScope 和 GitCode 放出了 Hy4 的三组权重](https://gpujournal.ai/story/tencent-hy4-open-weights-nov-20)，包括指令版、FP8 版和预训练基座。权重不再沿用预览版的 Apache 2.0，改用腾讯自拟许可，大规模对外提供推理服务须先拿到腾讯的书面许可。",
+          "stats": [
+            {
+              "label": "每 token 激活",
+              "value": "49B"
+            },
+            {
+              "label": "另签许可门槛",
+              "value": "年收入超 5000 万美元或月活超 1 亿"
+            }
+          ],
+          "source_url": "https://gpujournal.ai/story/tencent-hy4-open-weights-nov-20",
+          "image": "assets/2026-11-21/4eab7c5d.jpg"
+        },
         {
           "id": "e183d285",
           "kicker": "先定规矩",
