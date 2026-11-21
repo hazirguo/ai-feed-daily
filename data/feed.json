@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-21 21:55",
+  "updated_at": "2026-11-21 23:59",
   "days": [
     {
       "date": "2026-11-21",
       "weekday": "周六",
       "items": [
+        {
+          "id": "c62875d1",
+          "kicker": "小盒子，大内存",
+          "category": "AI设备",
+          "title": "RTX Spark 台式机满功耗开卖，128GB 本地跑大模型",
+          "body": "[RTX Spark 台式机](https://www.xda-developers.com/rtx-spark-mini-pc-review/) 11 月 18 日开卖，华硕、戴尔、微星先上，最高配 128GB 统一内存。实测的微星 128GB、4TB 版要价 8,000 美元。",
+          "stats": [],
+          "source_url": "https://www.xda-developers.com/rtx-spark-mini-pc-review/",
+          "image": "assets/2026-11-21/c62875d1.jpg"
+        },
         {
           "id": "0e4ddebc",
           "kicker": "中间层跑三遍",
