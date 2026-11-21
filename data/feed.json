@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-21 13:56",
+  "updated_at": "2026-11-21 15:58",
   "days": [
     {
       "date": "2026-11-21",
       "weekday": "周六",
       "items": [
+        {
+          "id": "7ffb873d",
+          "kicker": "先把屏幕锁上",
+          "category": "AI应用",
+          "title": "Signal 把系统 AI 助手挡在聊天之外",
+          "body": "[Signal](https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466) 宣布在 iOS 27 默认禁止应用内截图，让 Siri AI 无法再靠读屏抓取聊天内容。但 Signal 自己承认这只是部分防线，macOS 上目前还没有可靠的拦截办法。",
+          "stats": [],
+          "source_url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
+          "image": "assets/2026-11-21/7ffb873d.jpg"
+        },
         {
           "id": "8c065d2e",
           "kicker": "换模型没那么快",
