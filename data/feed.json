@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-22 05:55",
+  "updated_at": "2026-11-22 07:57",
   "days": [
     {
       "date": "2026-11-22",
       "weekday": "周日",
       "items": [
+        {
+          "id": "3f82233b",
+          "kicker": "边看边听边说",
+          "category": "AI应用",
+          "title": "豆包实时音视频通话 API 全量上线",
+          "body": "[SeedRealtime 1.0](https://www.ithome.com/1/029/406.htm)把声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互。它不再只等提问，能在察觉关键目标出现或画面变化时主动提醒。",
+          "stats": [],
+          "source_url": "https://www.ithome.com/1/029/406.htm",
+          "image": ""
+        },
         {
           "id": "bfa4a5b2",
           "kicker": "批了，又停了",
