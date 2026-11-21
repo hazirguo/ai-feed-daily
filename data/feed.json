@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-21 19:56",
+  "updated_at": "2026-11-21 21:55",
   "days": [
     {
       "date": "2026-11-21",
       "weekday": "周六",
       "items": [
+        {
+          "id": "0e4ddebc",
+          "kicker": "中间层跑三遍",
+          "category": "AI模型",
+          "title": "Inkling 2 Mini 发布：20GB 开源模型跑上笔记本",
+          "body": "[Inkling 2 Mini](https://metarix.io/inkling-2-mini-benchmarks) 11 月 20 日发布，约 20GB 的检查点能在 32GB 内存的 Mac 上本地跑起来。厂商自测里它在 SWE-bench Verified 拿下 79.2%，超过了同量级的 Qwen3.8-27B。",
+          "stats": [],
+          "source_url": "https://metarix.io/inkling-2-mini-benchmarks",
+          "image": "assets/2026-11-21/0e4ddebc.png"
+        },
         {
           "id": "2a88c453",
           "kicker": "涨幅一日游",
