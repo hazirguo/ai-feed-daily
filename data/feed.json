@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-21 15:58",
+  "updated_at": "2026-11-21 17:56",
   "days": [
     {
       "date": "2026-11-21",
       "weekday": "周六",
       "items": [
+        {
+          "id": "3fba916d",
+          "kicker": "风波再起",
+          "category": "AI芯片",
+          "title": "SEC 正调查英伟达会计问题",
+          "body": "据两名知情人士透露，[美国证券交易委员会正在调查英伟达的会计问题](https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/)。自这场风波爆发以来，英伟达股价已跌去三分之一以上。",
+          "stats": [],
+          "source_url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+          "image": ""
+        },
         {
           "id": "7ffb873d",
           "kicker": "先把屏幕锁上",
