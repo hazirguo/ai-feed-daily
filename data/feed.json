@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-21 17:56",
+  "updated_at": "2026-11-21 19:56",
   "days": [
     {
       "date": "2026-11-21",
       "weekday": "周六",
       "items": [
+        {
+          "id": "2a88c453",
+          "kicker": "涨幅一日游",
+          "category": "AI市场",
+          "title": "Anthropic 周五跌 8.5%，首日涨幅大幅缩水",
+          "body": "Anthropic [周五收于 88.91 美元，较首日收盘跌 8.5%](https://www.moneycontrol.com/news/business/ipo/anthropic-slides-8-5-to-shrink-ipo-gain-as-ai-trade-unravels-14085928.html)。同日纳斯达克 100 指数跌 5.6%，整段 AI 交易都在回落。",
+          "stats": [
+            {
+              "label": "市值",
+              "value": "约 1.6 万亿美元"
+            }
+          ],
+          "source_url": "https://www.moneycontrol.com/news/business/ipo/anthropic-slides-8-5-to-shrink-ipo-gain-as-ai-trade-unravels-14085928.html",
+          "image": "assets/2026-11-21/2a88c453.jpg"
+        },
         {
           "id": "3fba916d",
           "kicker": "风波再起",
