@@ -1,7 +1,23 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-20 21:57",
+  "updated_at": "2026-11-21 09:57",
   "days": [
+    {
+      "date": "2026-11-21",
+      "weekday": "周六",
+      "items": [
+        {
+          "id": "e183d285",
+          "kicker": "先定规矩",
+          "category": "AI安全",
+          "title": "特朗普与习同意：军事 AI 决策须有人参与",
+          "body": "美国财长贝森特周五说，特朗普与习在深圳会晤中[同意，涉及人工智能的军事决策须始终有人参与](https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/)，重大军事行动不得交由 AI 自主决定。贝森特说，这项共识不受两国争夺 AI 主导权的竞争影响。",
+          "stats": [],
+          "source_url": "https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/",
+          "image": "assets/2026-11-21/e183d285.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-11-20",
       "weekday": "周五",
