@@ -1,7 +1,23 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-21 23:59",
+  "updated_at": "2026-11-22 01:57",
   "days": [
+    {
+      "date": "2026-11-22",
+      "weekday": "周日",
+      "items": [
+        {
+          "id": "381b8c67",
+          "kicker": "点名之后",
+          "category": "AI政策",
+          "title": "美众议院报告：禁中国开源模型进入联邦系统",
+          "body": "两位众议院委员会主席 11 月 20 日[发布联合调查报告](https://homeland.house.gov/2026/11/20/chairmen-garbarino-moolenaar-release-joint-investigative-report-urging-removal-of-prc-open-weight-models-from-federal-systems-high-risk-critical-infrastructure/)，呼吁禁止中国开发的开源权重模型进入联邦系统与联邦合同工作。报告点名 Cursor 开发商 Anysphere，其旗舰模型建在 Moonshot 的开源基座上。",
+          "stats": [],
+          "source_url": "https://homeland.house.gov/2026/11/20/chairmen-garbarino-moolenaar-release-joint-investigative-report-urging-removal-of-prc-open-weight-models-from-federal-systems-high-risk-critical-infrastructure/",
+          "image": "assets/2026-11-22/381b8c67.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-11-21",
       "weekday": "周六",
