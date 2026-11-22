@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-22 09:56",
+  "updated_at": "2026-11-22 21:55",
   "days": [
     {
       "date": "2026-11-22",
       "weekday": "周日",
       "items": [
+        {
+          "id": "767f63f4",
+          "kicker": "无人值守的挖洞者",
+          "category": "AI安全",
+          "title": "智能体 11 分钟挖出的零日漏洞今日有了补丁",
+          "body": "[Cairn 智能体](https://www.reef-sentinel.net/i/212)在约 11 分钟里从 MONAI Label 的上传接口挖出零日漏洞，并拿到了一台大学服务器的 root 权限。此前通过 pip 装到的仍是带漏洞的 0.8.5。",
+          "stats": [],
+          "source_url": "https://www.reef-sentinel.net/i/212",
+          "image": "assets/2026-11-22/767f63f4.jpg"
+        },
         {
           "id": "59c36add",
           "kicker": "算力账本摊开",
