@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-22 07:57",
+  "updated_at": "2026-11-22 09:56",
   "days": [
     {
       "date": "2026-11-22",
       "weekday": "周日",
       "items": [
+        {
+          "id": "59c36add",
+          "kicker": "算力账本摊开",
+          "category": "AI模型",
+          "title": "Beam 强化学习动用 1.05 万块 GB300",
+          "body": "11 月 19 日提交的[Beam 技术报告](https://arxiv.org/abs/2611.26358)披露，Reflection 用 1.05 万块 GB300 做了一场全异步强化学习。报告说，随着强化学习算力增加，模型能力仍在提升，未见平台期。",
+          "stats": [
+            {
+              "label": "训练时长",
+              "value": "4 周"
+            }
+          ],
+          "source_url": "https://arxiv.org/abs/2611.26358",
+          "image": ""
+        },
         {
           "id": "3f82233b",
           "kicker": "边看边听边说",
