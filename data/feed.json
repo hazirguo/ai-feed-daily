@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-23 15:56",
+  "updated_at": "2026-11-23 17:56",
   "days": [
     {
       "date": "2026-11-23",
       "weekday": "周一",
       "items": [
+        {
+          "id": "56523734",
+          "kicker": "国产芯片的答卷",
+          "category": "AI模型",
+          "title": "中国电信开源 Xing4.1-Preview 285B 模型",
+          "body": "[中国电信今天开源了 Xing4.1-Preview 的权重](https://chainaiwire.com/china-telecom-xing4-1-preview-285b-open-weights/)，一个 285B 参数的混合专家模型。它全程在华为昇腾芯片上训练，没有英伟达硬件，也没有 CUDA。",
+          "stats": [
+            {
+              "label": "训练规模",
+              "value": "8,192 张昇腾 910C"
+            },
+            {
+              "label": "上下文",
+              "value": "100 万 token"
+            }
+          ],
+          "source_url": "https://chainaiwire.com/china-telecom-xing4-1-preview-285b-open-weights/",
+          "image": ""
+        },
         {
           "id": "e69b8697",
           "kicker": "只到第一跳",
