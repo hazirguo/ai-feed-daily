@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-24 03:57",
+  "updated_at": "2026-11-24 05:56",
   "days": [
     {
       "date": "2026-11-24",
       "weekday": "周二",
       "items": [
+        {
+          "id": "ce006d8e",
+          "kicker": "写完即走",
+          "category": "AI应用",
+          "title": "Anthropic 推出 Claude Ship",
+          "body": "[Claude Ship](https://claude.com/resources/articles/introducing-claude-ship)周一以 beta 上线，能审 PR、修失败检查，还能按团队自定的规则批合并。更新 Claude Code 后跑 /ship，就能让它推分支、开 PR 并跟进反馈。",
+          "stats": [
+            {
+              "label": "企业额度",
+              "value": "至少 $10,000"
+            },
+            {
+              "label": "申领截止",
+              "value": "2027-01-15"
+            }
+          ],
+          "source_url": "https://claude.com/resources/articles/introducing-claude-ship",
+          "image": "assets/2026-11-24/ce006d8e.png"
+        },
         {
           "id": "8e2b7799",
           "kicker": "以循环代堆料",
