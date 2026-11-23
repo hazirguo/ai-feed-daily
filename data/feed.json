@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-24 01:56",
+  "updated_at": "2026-11-24 03:57",
   "days": [
     {
       "date": "2026-11-24",
       "weekday": "周二",
       "items": [
+        {
+          "id": "8e2b7799",
+          "kicker": "以循环代堆料",
+          "category": "AI模型",
+          "title": "GLM-5.4 把 28 层跑两遍",
+          "body": "[Z.ai 发布了 GLM-5.4](https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/)，它把 GLM-5 基座的 28 层循环跑两遍，让网络在不增加参数的情况下变深。官方称它可与 2T–3T 参数的模型媲美，但旗舰版自己的基准分数尚未公布。",
+          "stats": [
+            {
+              "label": "基座规模",
+              "value": "约 750B 参数"
+            }
+          ],
+          "source_url": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
+          "image": "assets/2026-11-24/8e2b7799.webp"
+        },
         {
           "id": "50816de4",
           "kicker": "董事会改口了",
