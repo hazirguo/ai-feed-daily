@@ -1,7 +1,23 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-23 23:56",
+  "updated_at": "2026-11-24 01:56",
   "days": [
+    {
+      "date": "2026-11-24",
+      "weekday": "周二",
+      "items": [
+        {
+          "id": "50816de4",
+          "kicker": "董事会改口了",
+          "category": "AI芯片",
+          "title": "黄仁勋复任英伟达 CEO",
+          "body": "辞职 11 天后，[英伟达周一宣布黄仁勋即刻复任首席执行官](https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/)。消息公布后，英伟达股价盘前涨超 31%。",
+          "stats": [],
+          "source_url": "https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/",
+          "image": ""
+        }
+      ]
+    },
     {
       "date": "2026-11-23",
       "weekday": "周一",
