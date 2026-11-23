@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-23 21:56",
+  "updated_at": "2026-11-23 23:56",
   "days": [
     {
       "date": "2026-11-23",
       "weekday": "周一",
       "items": [
+        {
+          "id": "99e5d2aa",
+          "kicker": "无人读完",
+          "category": "AI模型",
+          "title": "黎曼猜想证明获 Lean 认证",
+          "body": "11 月 21 日，[Lean 与 Mathlib 社区认证](https://www.technology.org/2026/11/23/riemann-hypothesis-proof-lean-certified-alpoge-claude/)，Anthropic 数学家 Levent Alpöge 与 Claude 合作写出的 1700 万行 Lean 代码库正确表述并证明了黎曼猜想。可读的证明仍然不存在。",
+          "stats": [],
+          "source_url": "https://www.technology.org/2026/11/23/riemann-hypothesis-proof-lean-certified-alpoge-claude/",
+          "image": "assets/2026-11-23/99e5d2aa.png"
+        },
         {
           "id": "680e4d9f",
           "kicker": "回暖遇冷",
