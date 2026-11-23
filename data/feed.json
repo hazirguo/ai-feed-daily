@@ -1,7 +1,32 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-22 21:55",
+  "updated_at": "2026-11-23 09:57",
   "days": [
+    {
+      "date": "2026-11-23",
+      "weekday": "周一",
+      "items": [
+        {
+          "id": "981b237f",
+          "kicker": "从纸面到实战",
+          "category": "AI模型",
+          "title": "MiniMax 内测模型攻破多个后量子候选算法",
+          "body": "11月20日，[MiniMax 公布的内测模型 MIM](https://news.cocoloop.cn/en/2026/11/minimax-mim-cryptanalysis/) 首次实际攻破多个此前没有已知实际攻击的 NIST 候选算法。MiniMax 同时划清了边界：对象是学术设计、既往候选算法与公开挑战参数，不影响已部署的标准。",
+          "stats": [
+            {
+              "label": "最快提速",
+              "value": "43,400×"
+            },
+            {
+              "label": "此前无人解出的实例",
+              "value": "55 个"
+            }
+          ],
+          "source_url": "https://news.cocoloop.cn/en/2026/11/minimax-mim-cryptanalysis/",
+          "image": "assets/2026-11-23/981b237f.png"
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "weekday": "周日",
