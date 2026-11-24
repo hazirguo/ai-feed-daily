@@ -1,11 +1,34 @@
 {
  "site": "Muse 动态日报",
- "updated_at": "2026-11-24 18:00",
+ "updated_at": "2026-11-24 19:56",
  "days": [
   {
    "date": "2026-11-24",
    "weekday": "周二",
    "items": [
+    {
+     "id": "2470f90b",
+     "kicker": "安全巨头合体",
+     "category": "AI安全",
+     "title": "CrowdStrike 以 440 亿美元收购 Zscaler",
+     "body": "[CrowdStrike 以约 439 亿美元全股票收购 Zscaler](https://www.channelnewsasia.com/business/crowdstrike-snaps-up-zscaler-in-44-billion-deal-cyber-threats-mount-6574651)，创下网络安全领域最大收购纪录。合并后的平台把终端防护与零信任网络接入合在一起，对付 AI 推高的攻击。",
+     "stats": [
+      {
+       "label": "溢价",
+       "value": "约 34%"
+      },
+      {
+       "label": "每股隐含报价",
+       "value": "$260.41"
+      },
+      {
+       "label": "合并年经常性收入",
+       "value": "超 100 亿美元"
+      }
+     ],
+     "source_url": "https://www.channelnewsasia.com/business/crowdstrike-snaps-up-zscaler-in-44-billion-deal-cyber-threats-mount-6574651",
+     "image": "assets/2026-11-24/2470f90b.jpg"
+    },
     {
      "id": "bd457b89",
      "kicker": "明天就到期",
