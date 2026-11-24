@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-24 14:57",
+  "updated_at": "2026-11-24 15:56",
   "days": [
     {
       "date": "2026-11-24",
       "weekday": "周二",
       "items": [
+        {
+          "id": "67327c0f",
+          "kicker": "搜索认得你了",
+          "category": "AI应用",
+          "title": "谷歌搜索 AI Mode 接入钱包、Drive 与 Gemini",
+          "body": "钱包连接已开始推出，Drive 与 Gemini 的连接在未来几周跟进。钱包的接入是只读的，AI Mode 动不了你的钱。",
+          "stats": [],
+          "source_url": "",
+          "image": "assets/2026-11-24/67327c0f.png"
+        },
         {
           "id": "e74186aa",
           "kicker": "模型没变，尺子变了",
