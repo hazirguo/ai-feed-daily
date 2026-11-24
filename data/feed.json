@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-24 07:56",
+  "updated_at": "2026-11-24 09:55",
   "days": [
     {
       "date": "2026-11-24",
       "weekday": "周二",
       "items": [
+        {
+          "id": "8c9f8139",
+          "kicker": "先挡住，再打补丁",
+          "category": "AI安全",
+          "title": "思科与 OpenAI 开源 Shirudo 护住智能体 AI",
+          "body": "[思科与 OpenAI 11 月 23 日推出了开源项目 Shirudo](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai.html)，它用 eBPF 在不重启的情况下保护正在运行的 Linux 系统。测试中它写出的防护代码挡住了 Java4Shell 与一个 PHP 漏洞的利用尝试。",
+          "stats": [],
+          "source_url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai.html",
+          "image": "assets/2026-11-24/8c9f8139.png"
+        },
         {
           "id": "ad99b262",
           "kicker": "一日回血",
