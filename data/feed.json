@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-25 03:57",
+  "updated_at": "2026-11-25 05:55",
   "days": [
     {
       "date": "2026-11-25",
       "weekday": "周三",
       "items": [
+        {
+          "id": "df764549",
+          "kicker": "点名阿里",
+          "category": "AI政策",
+          "title": "美国把阿里子公司与 Megaspeed 列入黑名单",
+          "body": "美国商务部周一把阿里巴巴新加坡子公司 Apex Enterprise Solutions 与 Megaspeed 一同[列入实体清单](https://www.channelnewsasia.com/world/us-blacklist-megaspeed-alibaba-nvidia-scandal-6576001)。阿里巴巴周二回应称，Apex 从未转运受美国出口管制的先进算力芯片。",
+          "stats": [],
+          "source_url": "https://www.channelnewsasia.com/world/us-blacklist-megaspeed-alibaba-nvidia-scandal-6576001",
+          "image": "assets/2026-11-25/df764549.jpg"
+        },
         {
           "id": "5b907e2c",
           "kicker": "查单不冷场",
