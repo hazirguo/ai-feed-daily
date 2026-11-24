@@ -1,7 +1,23 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-24 23:58",
+  "updated_at": "2026-11-25 01:57",
   "days": [
+    {
+      "date": "2026-11-25",
+      "weekday": "周三",
+      "items": [
+        {
+          "id": "3c0b4021",
+          "kicker": "下午见真章",
+          "category": "AI应用",
+          "title": "小鹏 AI Day 今天让人形机器人 Iron 现场登台",
+          "body": "小鹏今天下午 2 点在广州举办 AI Day，[人形机器人 Iron 将现场与观众互动](https://www.latestevnews.com/articles/xpeng-ai-day-2026-iron-takes-the-stage-live)。量产预计 2026 年底或 2027 年 1 月开始。",
+          "stats": [],
+          "source_url": "https://www.latestevnews.com/articles/xpeng-ai-day-2026-iron-takes-the-stage-live",
+          "image": "assets/2026-11-25/3c0b4021.webp"
+        }
+      ]
+    },
     {
       "date": "2026-11-24",
       "weekday": "周二",
