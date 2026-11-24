@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-24 11:57",
+  "updated_at": "2026-11-24 14:57",
   "days": [
     {
       "date": "2026-11-24",
       "weekday": "周二",
       "items": [
+        {
+          "id": "e74186aa",
+          "kicker": "模型没变，尺子变了",
+          "category": "AI模型",
+          "title": "新指数下，Kimi 距前沿 12 分",
+          "body": "Artificial Analysis 的[新版智能指数 v5.0](https://theairankings.com/best-ai-models/)把 Kimi K3.1 Pro 从 55 分打到 46 分。最好的开源权重模型与前沿的差距，由此从 3 分拉大到 12 分。",
+          "stats": [
+            {
+              "label": "排名",
+              "value": "第 5 → 第 11"
+            },
+            {
+              "label": "前沿领跑",
+              "value": "Claude Fable 5.2，65 分"
+            }
+          ],
+          "source_url": "https://theairankings.com/best-ai-models/",
+          "image": "assets/2026-11-24/e74186aa.webp"
+        },
         {
           "id": "5b8948f4",
           "kicker": "两州首次起诉",
