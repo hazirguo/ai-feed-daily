@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-25 01:57",
+  "updated_at": "2026-11-25 03:57",
   "days": [
     {
       "date": "2026-11-25",
       "weekday": "周三",
       "items": [
+        {
+          "id": "5b907e2c",
+          "kicker": "查单不冷场",
+          "category": "AI模型",
+          "title": "Qwen-Audio-3.1-Live 边说话边算账，每小时 2.56 美元",
+          "body": "[Qwen-Audio-3.1-Live](https://news.hamidun.com/en/news/17944/qwen-audio-3-1-live-keeps-talking-to-the-customer-while-anot) 把语音对话和后台任务分开，前台模型一直陪聊，后台模型去查单或算总数。语音部分按连接时长计费，每小时 2.56 美元，后台模型另行计费。",
+          "stats": [],
+          "source_url": "https://news.hamidun.com/en/news/17944/qwen-audio-3-1-live-keeps-talking-to-the-customer-while-anot",
+          "image": "assets/2026-11-25/5b907e2c.webp"
+        },
         {
           "id": "3c0b4021",
           "kicker": "下午见真章",
