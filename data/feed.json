@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-25 05:55",
+  "updated_at": "2026-11-25 07:55",
   "days": [
     {
       "date": "2026-11-25",
       "weekday": "周三",
       "items": [
+        {
+          "id": "bbca9929",
+          "kicker": "断供在即",
+          "category": "AI编程",
+          "title": "OpenAI 模型今天退出 Cursor",
+          "body": "[OpenAI 模型在 Cursor 的接入](https://ecorpit.com/openai-models-leave-cursor-november-2026/)今天 11 月 25 日到期，涉及 GPT-5.6 Sol、Terra 与 Luna 三款。最接近的平替是 Claude Sonnet 5.5，每百万 token 输入 2 美元、输出 10 美元。",
+          "stats": [
+            {
+              "label": "GPT-5.6 Sol 在 Cursor",
+              "value": "$4 / $20 每百万 token"
+            },
+            {
+              "label": "Codex 经 ChatGPT Plus",
+              "value": "$20/月起"
+            }
+          ],
+          "source_url": "https://ecorpit.com/openai-models-leave-cursor-november-2026/",
+          "image": "assets/2026-11-25/bbca9929.jpg"
+        },
         {
           "id": "df764549",
           "kicker": "点名阿里",
