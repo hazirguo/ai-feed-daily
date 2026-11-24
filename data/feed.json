@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-24 21:58",
+  "updated_at": "2026-11-24 23:58",
   "days": [
     {
       "date": "2026-11-24",
       "weekday": "周二",
       "items": [
+        {
+          "id": "6bd1cb21",
+          "kicker": "草稿不是终稿",
+          "category": "AI模型",
+          "title": "商汤开源能自己改错的 SenseNova U1.6",
+          "body": "商汤 11 月 24 日发布并开源了 [SenseNova U1.6 原生多模态模型](https://news.aibase.com/news/32500)。开启自纠后，它先画草稿、再对照提示词检查，文字有问题就自己改一版。",
+          "stats": [
+            {
+              "label": "参数",
+              "value": "8B"
+            },
+            {
+              "label": "许可",
+              "value": "Apache 2.0"
+            }
+          ],
+          "source_url": "https://news.aibase.com/news/32500",
+          "image": "assets/2026-11-24/6bd1cb21.png"
+        },
         {
           "id": "540cf45e",
           "kicker": "出海第一站",
