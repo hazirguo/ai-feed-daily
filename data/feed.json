@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-25 10:57",
+  "updated_at": "2026-11-25 16:55",
   "days": [
     {
       "date": "2026-11-25",
       "weekday": "周三",
       "items": [
+        {
+          "id": "3dcc231e",
+          "kicker": "一脑多身",
+          "category": "AI模型",
+          "title": "小鹏 WorldGPT：一个模型管汽车、机器人和无人机",
+          "body": "[WorldGPT](https://www.xpeng.com/pressroom/news/01a20bcf44b3a1e838d68a02a2110153) 把汽车、船、无人机、单臂机器人、双臂机器人和人形机器人六类机器的学习合进了一个模型。小鹏称它在自动驾驶、机器人操作、视觉理解和视频生成四类公开基准上拿了 12 项第一。",
+          "stats": [
+            {
+              "label": "单臂操作成功率",
+              "value": "95.2%（50 项任务）"
+            }
+          ],
+          "source_url": "https://www.xpeng.com/pressroom/news/01a20bcf44b3a1e838d68a02a2110153",
+          "image": "assets/2026-11-25/3dcc231e.png"
+        },
         {
           "id": "87d7debb",
           "kicker": "余波未平",
