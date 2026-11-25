@@ -1,11 +1,31 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-25 16:55",
+  "updated_at": "2026-11-25 17:56",
   "days": [
     {
       "date": "2026-11-25",
       "weekday": "周三",
       "items": [
+        {
+          "id": "0d270230",
+          "kicker": "收藏变行程",
+          "category": "AI应用",
+          "title": "Meta 的 Muse 进驻 Instagram 私信",
+          "body": "[Muse 进了 Instagram 私信](https://www.macrumors.com/2026/11/24/meta-muse-instagram-dms/)，收藏的帖子能直接整理成旅行行程或购物清单。首批从 11 月 24 日起在美国、加拿大、墨西哥、日本和新加坡推出。",
+          "stats": [],
+          "source_url": "https://www.macrumors.com/2026/11/24/meta-muse-instagram-dms/",
+          "image": "assets/2026-11-25/0d270230.jpg"
+        },
+        {
+          "id": "75b4f621",
+          "kicker": "断网之后",
+          "category": "AI基建",
+          "title": "微软为史上最大断网拉响 Code Red",
+          "body": "[11 月 12–13 日那次故障](https://www.channelnewsasia.com/business/exclusive-microsoft-declares-code-red-after-historic-outage-internal-memos-show-6579111)是 Exchange Online 历史上影响客户最多的一次。微软为此定下未来重大故障一小时内全球恢复的目标，而最近一次紧急修复花了五到六天才覆盖全球。",
+          "stats": [],
+          "source_url": "https://www.channelnewsasia.com/business/exclusive-microsoft-declares-code-red-after-historic-outage-internal-memos-show-6579111",
+          "image": "assets/2026-11-25/75b4f621.jpg"
+        },
         {
           "id": "3dcc231e",
           "kicker": "一脑多身",
