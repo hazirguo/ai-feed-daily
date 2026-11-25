@@ -1,11 +1,34 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-25 19:56",
+  "updated_at": "2026-11-25 21:56",
   "days": [
     {
       "date": "2026-11-25",
       "weekday": "周三",
       "items": [
+        {
+          "id": "616645fa",
+          "kicker": "权重兑现了",
+          "category": "AI模型",
+          "title": "百度以 Apache 2.0 开源 ERNIE 5.5 Flash 预览权重",
+          "body": "百度把[ERNIE 5.5 Flash 预览版的权重](https://lifenewsagency.com/baidu-releases-ernie-5-5-flash-preview-weights-under-apache-2-0-licence/)放到了 Hugging Face 和 ModelScope，采用 Apache 2.0 许可。百度自己提醒，这只是训练未完成的中间检查点，正式版还在后头。",
+          "stats": [
+            {
+              "label": "总参数",
+              "value": "280B"
+            },
+            {
+              "label": "每 token 激活参数",
+              "value": "14B"
+            },
+            {
+              "label": "上下文窗口",
+              "value": "1M tokens"
+            }
+          ],
+          "source_url": "https://lifenewsagency.com/baidu-releases-ernie-5-5-flash-preview-weights-under-apache-2-0-licence/",
+          "image": "assets/2026-11-25/616645fa.jpg"
+        },
         {
           "id": "bb2d9a2e",
           "kicker": "破发四天",
