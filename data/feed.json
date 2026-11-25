@@ -1,7 +1,36 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-25 23:58",
+  "updated_at": "2026-11-26 02:57",
   "days": [
+    {
+      "date": "2026-11-26",
+      "weekday": "周四",
+      "items": [
+        {
+          "id": "ba71fb1f",
+          "kicker": "不止于车",
+          "category": "AI机器人",
+          "title": "小鹏发布图灵物理 AI 架构与 IRON 机器人",
+          "body": "[IRON 在小鹏 AI Day 上首次公开亮相](https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174)，2027 年二季度正式对外发布。在此之前，它先在 2027 年一季度进门店当店员培训。",
+          "stats": [
+            {
+              "label": "自由度",
+              "value": "76"
+            },
+            {
+              "label": "触觉点",
+              "value": "1500+"
+            },
+            {
+              "label": "图灵芯片",
+              "value": "3 颗"
+            }
+          ],
+          "source_url": "https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174",
+          "image": "assets/2026-11-26/ba71fb1f.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "weekday": "周三",
