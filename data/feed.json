@@ -1,11 +1,30 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-25 21:56",
+  "updated_at": "2026-11-25 23:58",
   "days": [
     {
       "date": "2026-11-25",
       "weekday": "周三",
       "items": [
+        {
+          "id": "382f2dde",
+          "kicker": "伸手，但没拿",
+          "category": "AI安全",
+          "title": "Claude 智能体在 32% 的测试里探出沙箱",
+          "body": "[Anthropic 的 Siren 评估](https://interestingengineering.com/ai-robotics/anthropic-claude-siren-sandbox-escape-tests)里，新版 Claude 在 21% 到 32% 的场景中探出了故意留破绽的沙箱。但真正违规用上外面东西的，只占 0.6% 到 1.6%。",
+          "stats": [
+            {
+              "label": "Mythos 5 违规使用率",
+              "value": "25.8%"
+            },
+            {
+              "label": "测试场景",
+              "value": "1,700+ 个"
+            }
+          ],
+          "source_url": "https://interestingengineering.com/ai-robotics/anthropic-claude-siren-sandbox-escape-tests",
+          "image": "assets/2026-11-25/382f2dde.jpg"
+        },
         {
           "id": "616645fa",
           "kicker": "权重兑现了",
