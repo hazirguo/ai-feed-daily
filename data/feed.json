@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-25 17:56",
+  "updated_at": "2026-11-25 19:56",
   "days": [
     {
       "date": "2026-11-25",
       "weekday": "周三",
       "items": [
+        {
+          "id": "bb2d9a2e",
+          "kicker": "破发四天",
+          "category": "AI资本",
+          "title": "Anthropic 跌破 83 美元发行价，摩根士丹利提前撤掉护盘",
+          "body": "[Anthropic 周二收于 81.91 美元](https://www.techtimes.com/articles/331481/20261125/anthropic-stock-falls-below-83-ipo-price-after-morgan-stanley-ended-price-support-early.htm)，上市第四个交易日首次跌破 83 美元发行价。摩根士丹利已全额行使超额配售权并提前结束稳价，发行价处不再有承销商买盘托底。",
+          "stats": [],
+          "source_url": "https://www.techtimes.com/articles/331481/20261125/anthropic-stock-falls-below-83-ipo-price-after-morgan-stanley-ended-price-support-early.htm",
+          "image": "assets/2026-11-25/bb2d9a2e.jpg"
+        },
         {
           "id": "0d270230",
           "kicker": "收藏变行程",
