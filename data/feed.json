@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-25 07:55",
+  "updated_at": "2026-11-25 10:57",
   "days": [
     {
       "date": "2026-11-25",
       "weekday": "周三",
       "items": [
+        {
+          "id": "87d7debb",
+          "kicker": "余波未平",
+          "category": "AI芯片",
+          "title": "英伟达复任次日股价跌 5.6%",
+          "body": "特朗普称自己在[黄仁勋复任中起了核心作用](https://www.aljazeera.com/amp/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo)。民主党参议员库恩斯承诺参议院将调查此事，指控特朗普为私利牺牲国家安全。",
+          "stats": [
+            {
+              "label": "周一涨幅",
+              "value": "31.48%"
+            }
+          ],
+          "source_url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo",
+          "image": "assets/2026-11-25/87d7debb.jpg"
+        },
         {
           "id": "bbca9929",
           "kicker": "断供在即",
