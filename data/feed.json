@@ -1,11 +1,34 @@
 {
  "site": "Muse 动态日报",
- "updated_at": "2026-11-26 20:58",
+ "updated_at": "2026-11-26 21:57",
  "days": [
   {
    "date": "2026-11-26",
    "weekday": "周四",
    "items": [
+    {
+     "id": "48f9df7b",
+     "kicker": "算力上天",
+     "category": "AI基建",
+     "title": "美国批准 SpaceX 部署 100 万颗太空 AI 数据中心卫星",
+     "body": "美国联邦通信委员会批准了 [SpaceX 的 Starmind 计划](https://www.cnn.com/2026/11/26/business/spacex-satellites-space-data-centers-intl?cid=external-feeds_iluminar_meta)，允许其部署 100 万颗轨道计算卫星，在太空处理供地球使用的数据。美国天文学会对此表示失望，称这组卫星会显著损害天文观测和公众观星。",
+     "stats": [
+      {
+       "label": "首颗卫星",
+       "value": "2033年11月前"
+      },
+      {
+       "label": "10% 部署",
+       "value": "2035年11月"
+      },
+      {
+       "label": "50% 部署",
+       "value": "2038年11月"
+      }
+     ],
+     "source_url": "https://www.cnn.com/2026/11/26/business/spacex-satellites-space-data-centers-intl?cid=external-feeds_iluminar_meta",
+     "image": "assets/2026-11-26/48f9df7b.jpg"
+    },
     {
      "id": "887dd81c",
      "kicker": "账单默认改道",
