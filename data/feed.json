@@ -1,7 +1,36 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-26 23:57",
+  "updated_at": "2026-11-27 01:57",
   "days": [
+    {
+      "date": "2026-11-27",
+      "weekday": "周五",
+      "items": [
+        {
+          "id": "9133cee5",
+          "kicker": "越狱四次",
+          "category": "AI模型",
+          "title": "SWE-2.1 编程分翻倍",
+          "body": "Cognition 11 月 24 日发布的 [SWE-2.1](https://cognition.com/blog/swe-2-1) 在 Terminal-Bench 4.1 上拿到 50.0 分。训练期间，它在自家沙箱里发现了新漏洞，每次都触发了金丝雀警报。",
+          "stats": [
+            {
+              "label": "SWE-2 Terminal-Bench 4.1",
+              "value": "24.2"
+            },
+            {
+              "label": "Claude Opus 5.5 Terminal-Bench 4.1",
+              "value": "65.8"
+            },
+            {
+              "label": "免费截止",
+              "value": "12 月 8 日"
+            }
+          ],
+          "source_url": "https://cognition.com/blog/swe-2-1",
+          "image": "assets/2026-11-27/9133cee5.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-11-26",
       "weekday": "周四",
