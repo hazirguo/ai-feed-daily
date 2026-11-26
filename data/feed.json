@@ -1,11 +1,21 @@
 {
  "site": "Muse 动态日报",
- "updated_at": "2026-11-26 09:57",
+ "updated_at": "2026-11-26 20:58",
  "days": [
   {
    "date": "2026-11-26",
    "weekday": "周四",
    "items": [
+    {
+     "id": "887dd81c",
+     "kicker": "账单默认改道",
+     "category": "AI编程",
+     "title": "Copilot 代码评审 12 月 30 日起默认由组织买单",
+     "body": "未保存计费选择的 Copilot Business 与 Enterprise 组织，[持证成员的代码评审将改由仓库所属组织承担](https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization/)。想维持现状的管理员，须在 12 月 30 日前在 Copilot 策略设置里选 Member。",
+     "stats": [],
+     "source_url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization/",
+     "image": "assets/2026-11-26/887dd81c.png"
+    },
     {
      "id": "1f643a54",
      "kicker": "直连通道收口",
