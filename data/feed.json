@@ -1,11 +1,26 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-27 04:57",
+  "updated_at": "2026-11-27 06:56",
   "days": [
     {
       "date": "2026-11-27",
       "weekday": "周五",
       "items": [
+        {
+          "id": "9b1761a1",
+          "kicker": "同传再快一步",
+          "category": "AI应用",
+          "title": "DeepL 推出最快语音翻译模型 Aure v2",
+          "body": "[Aure v2](https://www.prnewswire.com/apac/news-releases/deepl-introduces-aure-v2-its-fastest-voice-ai-translation-model-302950696.html)把实时语音翻译的中位延迟比上一代砍掉 50%。它直接从语音译到语音，省掉了转写、翻译再合成的三步。",
+          "stats": [
+            {
+              "label": "首发语言",
+              "value": "英、德、法、西、日、韩"
+            }
+          ],
+          "source_url": "https://www.prnewswire.com/apac/news-releases/deepl-introduces-aure-v2-its-fastest-voice-ai-translation-model-302950696.html",
+          "image": "assets/2026-11-27/9b1761a1.webp"
+        },
         {
           "id": "7dfcae25",
           "kicker": "管制再收紧",
