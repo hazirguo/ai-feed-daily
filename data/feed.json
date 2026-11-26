@@ -1,11 +1,21 @@
 {
  "site": "Muse 动态日报",
- "updated_at": "2026-11-26 03:57",
+ "updated_at": "2026-11-26 09:57",
  "days": [
   {
    "date": "2026-11-26",
    "weekday": "周四",
    "items": [
+    {
+     "id": "1f643a54",
+     "kicker": "直连通道收口",
+     "category": "AI基建",
+     "title": "Google 强制 Workspace 智能体走 MCP，2 月 1 日起执行",
+     "body": "[Google Workspace MCP 服务器和官方 CLI 已正式可用](https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise)，覆盖 Gmail、Drive、Docs、Sheets、Slides、Calendar、Chat 和 Tasks。从 2027 年 2 月 1 日起，智能体接入 Workspace 必须走 MCP 服务器或 CLI，直接调 REST API 将被技术强制拦下。",
+     "stats": [],
+     "source_url": "https://cloud.google.com/blog/products/identity-security/deploying-agents-safely-in-your-enterprise",
+     "image": "assets/2026-11-26/1f643a54.webp"
+    },
     {
      "id": "7c3b8253",
      "kicker": "涨价倒计时",
