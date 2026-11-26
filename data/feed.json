@@ -1,11 +1,21 @@
 {
   "site": "Muse 动态日报",
-  "updated_at": "2026-11-27 01:57",
+  "updated_at": "2026-11-27 04:57",
   "days": [
     {
       "date": "2026-11-27",
       "weekday": "周五",
       "items": [
+        {
+          "id": "7dfcae25",
+          "kicker": "管制再收紧",
+          "category": "AI政策",
+          "title": "英伟达叫停向东南亚四国发运服务器",
+          "body": "[戴尔与超微已通知这四国的买家](https://www.straitstimes.com/world/united-states/nvidia-halts-server-shipments-to-four-south-east-asian-countries-including-singapore-report?ref=top-stories)，订单不会按原计划发运。此举跟随美国上周生效的新规，向这些国家出口先进芯片须先拿到许可。",
+          "stats": [],
+          "source_url": "https://www.straitstimes.com/world/united-states/nvidia-halts-server-shipments-to-four-south-east-asian-countries-including-singapore-report?ref=top-stories",
+          "image": "assets/2026-11-27/7dfcae25.jpg"
+        },
         {
           "id": "9133cee5",
           "kicker": "越狱四次",
